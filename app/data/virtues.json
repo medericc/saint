@@ -1,0 +1,42 @@
+{
+  "charite": {
+    "name": "Charité",
+    "description": "Vertu par laquelle nous aimons Dieu par-dessus tout et notre prochain comme nous-mêmes.",
+    "icon": "💖",
+    "bibleQuote": {
+      "text": "La charité est patiente, elle est pleine de bonté.",
+      "reference": "1 Corinthiens 13:4"
+    },
+    "color": "red"
+  },
+  "paix": {
+    "name": "Paix",
+    "description": "Fruit de l'Esprit Saint, tranquillité intérieure issue de la relation avec Dieu.",
+    "icon": "✨",
+    "bibleQuote": {
+      "text": "Je vous laisse la paix, je vous donne ma paix.",
+      "reference": "Jean 14:27"
+    },
+    "color": "blue"
+  },
+  "humilite": {
+    "name": "Humilité",
+    "description": "Vertu qui nous fait reconnaître notre dépendance envers Dieu.",
+    "icon": "🌿",
+    "bibleQuote": {
+      "text": "Dieu résiste aux orgueilleux, mais il fait grâce aux humbles.",
+      "reference": "Jacques 4:6"
+    },
+    "color": "green"
+  },
+  "zele": {
+    "name": "Zèle",
+    "description": "Ardeur dans le service de Dieu et accomplissement de sa volonté.",
+    "icon": "🔥",
+    "bibleQuote": {
+      "text": "Le zèle pour ta maison me dévorera.",
+      "reference": "Jean 2:17"
+    },
+    "color": "orange"
+  }
+}

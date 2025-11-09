@@ -1,0 +1,51 @@
+{
+  "saint-francois": {
+    "id": "saint-francois",
+    "name": "Saint François d'Assise",
+    "virtues": ["charite", "humilite", "paix", "simplicite"],
+    "period": "12e-13e siècle",
+    "country": "Italie",
+    "type": "fondateur",
+    "birthDate": "1182",
+    "deathDate": "1226",
+    "feastDay": "4 octobre",
+    "image": "/images/saints/francois.jpg",
+    "shortDescription": "Fondateur de l'ordre des Franciscains, connu pour son amour de la nature et sa pauvreté évangélique.",
+    "biography": "Giovanni Francesco di Bernardone, plus connu comme François d'Assise (né à Assise en 1181 ou 1182...)",
+    "miracles": [
+      "Prédication aux oiseaux",
+      "Réception des stigmates",
+      "Pacification du loup de Gubbio"
+    ],
+    "works": [
+      "Fondation de l'Ordre des Frères Mineurs",
+      "Rédaction du Cantique des Créatures"
+    ],
+    "quotes": [
+      "Seigneur, fais de moi un instrument de ta paix.",
+      "C'est en donnant que l'on reçoit."
+    ],
+    "prayers": [
+      "Prière pour la paix",
+      "Cantique des Créatures"
+    ]
+  },
+  "saint-therese": {
+    "id": "saint-therese",
+    "name": "Sainte Thérèse de Lisieux",
+    "virtues": ["humilite", "amour", "simplicite", "confiance"],
+    "period": "19e siècle",
+    "country": "France",
+    "type": "docteur",
+    "birthDate": "1873",
+    "deathDate": "1897",
+    "feastDay": "1er octobre",
+    "image": "/images/saints/therese.jpg",
+    "shortDescription": "Carmélite française connue pour sa 'petite voie' de confiance et d'amour.",
+    "biography": "Thérèse de l'Enfant-Jésus et de la Sainte Face, plus connue sous le nom de Sainte Thérèse de Lisieux...",
+    "miracles": ["Guérisons", "Conversions", "Pluie de roses"],
+    "works": ["Histoire d'une âme", "Poésies et prières"],
+    "quotes": ["Je veux passer mon ciel à faire du bien sur la terre.", "Tout est grâce."],
+    "prayers": ["Prière pour les missionnaires"]
+  }
+}
