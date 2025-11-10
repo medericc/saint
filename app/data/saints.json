@@ -114,10 +114,6 @@
 
 
 
-
-
-
-
   "bienheureuse-isabelle-de-france": {
     "id": "bienheureuse-isabelle-de-france",
     "name": "Bienheurese Isabelle de France",
@@ -388,6 +384,64 @@
     "works": ["Introduction du blé en Amérique du Sud", "Construction de l’église de la Merced à Lima"],
     "quotes": ["Toute semence bénie porte son fruit."],
     "prayers": []
+  },
+  "sainte-rose-philippine-duchesne": {
+    "id": "sainte-rose-philippine-duchesne",
+    "name": "Sainte Rose Philippine Duchesne",
+    "virtues": ["foi", "persévérance", "charité", "zèle missionnaire"],
+    "period": "18e-19e siècle",
+    "country": "France / États-Unis",
+    "type": "religieuse et missionnaire",
+    "birthDate": "1769",
+    "deathDate": "1852",
+    "feastDay": "18 novembre",
+    "image": "/images/saints/rose-philippine-duchesne.jpg",
+    "shortDescription": "Religieuse française du Sacré-Cœur, missionnaire aux États-Unis, elle fonda la première école du Sacré-Cœur en Amérique et se dévoua aux Amérindiens avec une foi infatigable.",
+    "biography": "Sainte Rose Philippine Duchesne naquit à Grenoble en 1769. Dès son enfance, elle manifesta un grand amour pour la prière et le service des pauvres. Élève au couvent de la Visitation, elle rêvait de devenir religieuse, mais son père s’y opposa et la retira de l’école. Plus tard, soutenue par sa tante, elle réalisa son rêve et entra au couvent de la Visitation. La Révolution française dispersa les communautés religieuses, mais Philippine resta fidèle à sa vocation, aidant clandestinement les prêtres et les prisonniers malgré les risques. Après la Révolution, elle rencontra sainte Madeleine-Sophie Barat et rejoignit la Société du Sacré-Cœur. Envoyée en mission aux États-Unis en 1818, elle fonda à Saint-Charles (Missouri) la première école du Sacré-Cœur sur le continent américain. Plus tard, elle rejoignit les Amérindiens Potawatomis au Kansas, où elle fut surnommée « la femme qui prie toujours ». Elle mourut en 1852, vénérée pour sa foi, sa persévérance et son amour des peuples autochtones.",
+    "miracles": [],
+    "works": [
+      "Fondation de la première école du Sacré-Cœur aux États-Unis",
+      "Mission auprès des Amérindiens Potawatomis",
+      "Soutien aux prêtres et prisonniers durant la Révolution française"
+    ],
+    "quotes": [
+      "Je désire être partout où Dieu veut que je sois.",
+      "Le travail ne m’effraie pas, mais le manque de foi me trouble."
+    ],
+    "prayers": [
+      "Sainte Rose Philippine Duchesne, modèle de foi et de courage, intercédez pour nous afin que nous restions fidèles à notre mission, quelles que soient les épreuves. Amen."
+    ]
+  },
+   "sainte-rose-de-lima": {
+    "id": "sainte-rose-de-lima",
+    "name": "Sainte Rose de Lima",
+    "virtues": ["purete", "penitence", "charite", "humilite"],
+    "period": "16e-17e siècle",
+    "country": "Pérou",
+    "type": "tertiaire dominicaine et mystique",
+    "birthDate": "1586",
+    "deathDate": "1617",
+    "feastDay": "23 août",
+    "image": "/images/saints/rose-de-lima.jpg",
+    "shortDescription": "Première sainte du continent américain, elle mena une vie de pénitence et de prière à Lima, consacrant son existence à Dieu, aux pauvres et à la réparation des péchés du monde.",
+    "biography": "Isabelle Flore de Oliva, née à Lima le 20 avril 1586, fut surnommée 'Rosa' dès son enfance après qu'une domestique remarqua la beauté lumineuse de son visage. Très jeune, elle manifesta un attrait profond pour la prière, la solitude et la mortification. À six ans, elle commença déjà à imiter les austérités des religieux, se frottant le visage de poivre pour en ternir l’éclat et se coupant les cheveux pour résister à la vanité. À onze ans, elle prononça un vœu secret de chasteté et adopta des pratiques de pénitence rigoureuses. Malgré les inquiétudes de ses parents, elle conserva un équilibre intérieur marqué par la paix et la joie spirituelle. Empêchée d’entrer dans un couvent, elle rejoignit le tiers-ordre dominicain et mena une vie religieuse laïque dans un petit ermitage au fond du jardin familial. Rosa se consacra à la prière, au jeûne et au service des pauvres et des malades, les soignant avec des remèdes simples et les réconfortant par sa foi. Elle connut de profondes extases mystiques et des visions du Christ, qu’elle unissait à sa passion. Sa maison devint un lieu de prière et de guérison pour de nombreux habitants de Lima. Elle offrit toutes ses souffrances pour la conversion des pécheurs et le bien de l’Église. Morte à 31 ans, le 24 août 1617, elle fut canonisée en 1671 par le pape Clément X, devenant la première sainte du continent américain.",
+    "miracles": [
+      "Multiplication de la nourriture pour les pauvres qu’elle accueillait",
+      "Guérisons de malades par sa prière et ses soins",
+      "Phénomènes lumineux pendant ses extases"
+    ],
+    "works": [
+      "Service des pauvres et des malades à Lima",
+      "Vie d’oraison et de pénitence dans le tiers-ordre dominicain",
+      "Témoignage spirituel ayant inspiré la foi en Amérique latine"
+    ],
+    "quotes": [
+      "Hors de la croix, il n’y a point d’autre échelle pour monter au ciel.",
+      "Quand nous souffrons quelque chose pour Dieu, les douleurs se changent en délices."
+    ],
+    "prayers": [
+      "Sainte Rose de Lima, toi qui as trouvé la joie dans la souffrance unie à celle du Christ, apprends-nous à aimer Dieu dans la simplicité, la prière et le service des plus pauvres. Amen."
+    ]
   }
 
 
