@@ -118,7 +118,7 @@
 
 
 
-  "sainte-isabelle-de-france": {
+  "bienheureuse-isabelle-de-france": {
     "id": "bienheureuse-isabelle-de-france",
     "name": "Bienheurese Isabelle de France",
     "virtues": ["purete", "humilite", "charite", "detachement"],
@@ -154,7 +154,7 @@
     "quotes": [],
     "prayers": []
   },
-  "sainte-anne-de-bretagne": {
+  "anne-de-bretagne": {
     "id": "anne-de-bretagne",
     "name": "Anne de Bretagne",
     "virtues": ["piété", "justice", "sagesse", "foi"],
@@ -173,7 +173,7 @@
     "prayers": []
   },
   
-  "sainte-marguerite-de-lorraine": {
+  "bienheureuse-marguerite-de-lorraine": {
     "id": "bienheureuse-marguerite-de-lorraine",
     "name": "Bienheureuse Marguerite de Lorraine",
     "virtues": ["charite", "humilite", "detachement", "justice"],
@@ -209,9 +209,9 @@
     "quotes": [],
     "prayers": []
   },
-  "sainte-margaret-de-beverley": {
-    "id": "sainte-margaret-de-beverley",
-    "name": "Sainte Margaret de Beverley",
+  "margaret-de-beverley": {
+    "id": "margaret-de-beverley",
+    "name": "Margaret de Beverley",
     "virtues": ["courage", "foi", "perseverance", "charite"],
     "period": "12e siècle",
     "country": "Angleterre",
@@ -298,9 +298,8 @@
     "biography": "Née en 1728 à Riobamba, en Équateur, Isabelle Gramon reçut une solide formation et parlait plusieurs langues. En 1743, elle épousa Jean Godin, un savant français. Lorsque son mari se retrouva bloqué en Guyane, elle resta vingt ans en Équateur, affrontant de nombreuses épreuves, dont la perte de plusieurs enfants. En 1769, elle décida de le rejoindre en descendant l’Amazone, confiant son voyage à la Vierge Marie. Après la mort ou la fuite de ses compagnons, Isabelle continua seule dans la jungle, survivant par la prière et la foi. Secourue par deux autochtones, elle atteignit enfin la Guyane et retrouva son mari le 22 juillet 1770. Trois ans plus tard, ils rentrèrent en France et s’installèrent à Saint-Amand-Montrond. Son incroyable traversée témoigne d’une foi inébranlable et d’un courage extraordinaire.",
     "miracles": [],
     "works": ["Témoignage de foi et d’endurance dans l’épreuve"],
-    "quotes": ["Je confie tout à la Providence divine."],
-    "prayers": ["Prière de confiance dans les épreuves"]
-  },
+    "quotes": ["Je confie tout à la Providence divine."] ,
+    "prayers": []},
   "hrosvita-de-gandersheim": {
     "id": "hrosvita-de-gandersheim",
     "name": "Hrosvita de Gandersheim",
@@ -316,9 +315,8 @@
     "biography": "Née vers 935, probablement en Saxe, Hrosvita (ou Roswitha) entra très jeune comme chanoinesse au prestigieux monastère de Gandersheim, soutenu par les empereurs ottoniens et doté d’une vaste bibliothèque. Elle y écrivit des poèmes hagiographiques célébrant la sainteté et la foi, ainsi que six comédies inspirées de l’auteur antique Térence. Elle transforma les intrigues païennes en histoires chrétiennes exaltant la chasteté, la foi et la victoire de la grâce sur le désir. Par son œuvre, Hrosvita chercha à opposer à la culture païenne un idéal de vertu et de dignité chrétienne. Considérée comme la première femme dramaturge d’Europe, elle mourut vers l’an 1002 au monastère de Gandersheim.",
     "miracles": [],
     "works": ["Comédies chrétiennes", "Poèmes hagiographiques", "Hymnes et écrits spirituels"],
-    "quotes": ["Je chante la victoire du Christ sur le monde."],
-    "prayers": ["Prière pour les artistes et écrivains chrétiens"]
-  },
+    "quotes": ["Je chante la victoire du Christ sur le monde."] ,
+    "prayers": []},
   "sainte-mathilde": {
     "id": "sainte-mathilde",
     "name": "Sainte Mathilde",
@@ -372,8 +370,7 @@
     "miracles": [],
     "works": ["Le Jardin des Délices", "Poésies et hymnes latins"],
     "quotes": ["Foi et raison sont les deux ailes de la sagesse."],
-    "prayers": ["Prière pour les enseignants et les chercheurs de vérité"]
-  },
+    "prayers": [] },
   "maria-escobar": {
     "id": "maria-escobar",
     "name": "Maria Escobar",
@@ -390,7 +387,7 @@
     "miracles": [],
     "works": ["Introduction du blé en Amérique du Sud", "Construction de l’église de la Merced à Lima"],
     "quotes": ["Toute semence bénie porte son fruit."],
-    "prayers": ["Prière pour ceux qui cultivent la terre et nourrissent le monde"]
+    "prayers": []
   }
 
 
