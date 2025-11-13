@@ -5,7 +5,7 @@
   "saint-francois-dassise": {
   "id": "saint-francois-dassise",
   "name": "Saint François d’Assise",
-  "gender": "homme",
+  
   "category": "saint",
   "virtues": ["pauvreté", "humilité", "joie", "amour de la création", "charité"],
   "period": "12e-13e siècle",
@@ -560,7 +560,7 @@
 "sainte-therese-de-lisieux": {
   "id": "sainte-therese-de-lisieux",
   "name": "Sainte Thérèse de Lisieux",
-  "gender": "femme",
+  
   "category": "sainte",
   "virtues": ["amour", "simplicité", "humilité", "confiance", "offrande de soi"],
   "period": "19e siècle",
@@ -598,7 +598,7 @@
 "sainte-hildegarde-de-bingen": {
   "id": "sainte-hildegarde-de-bingen",
   "name": "Sainte Hildegarde de Bingen",
-  "gender": "femme",
+  
   "category": "sainte",
   "virtues": ["sagesse", "foi", "créativité", "discernement", "équilibre"],
   "period": "12e siècle",
@@ -637,7 +637,7 @@
 "sainte-catherine-de-sienne": {
   "id": "sainte-catherine-de-sienne",
   "name": "Sainte Catherine de Sienne",
-  "gender": "femme",
+ 
   "category": "sainte",
   "virtues": ["charité", "audace", "humilité", "foi", "zèle pour l’unité de l’Église"],
   "period": "14e siècle",
@@ -673,7 +673,7 @@
 "sainte-therese-d-avila": {
   "id": "sainte-therese-d-avila",
   "name": "Sainte Thérèse d’Ávila",
-  "gender": "femme",
+  
   "category": "sainte",
   "virtues": ["oraison", "humilité", "courage", "réforme", "amour de Dieu"],
   "period": "16e siècle",
@@ -708,7 +708,7 @@
 "sainte-mere-teresa": {
   "id": "sainte-mere-teresa",
   "name": "Sainte Mère Teresa de Calcutta",
-  "gender": "femme",
+  
   "category": "sainte",
   "virtues": ["charité", "humilité", "service", "foi", "compassion"],
   "period": "20e siècle",
@@ -744,7 +744,7 @@
 "saint-jean-de-la-croix": {
   "id": "saint-jean-de-la-croix",
   "name": "Saint Jean de la Croix",
-  "gender": "homme",
+ 
   "category": "saint",
   "virtues": ["contemplation", "détachement", "foi", "obéissance", "humilité"],
   "period": "16e siècle",
@@ -782,7 +782,7 @@
 "saint-francois-xavier": {
   "id": "saint-francois-xavier",
   "name": "Saint François Xavier",
-  "gender": "homme",
+ 
   "category": "saint",
   "virtues": ["zèle missionnaire", "foi", "charité", "audace", "dévouement"],
   "period": "16e siècle",
@@ -818,7 +818,7 @@
 "saint-louis": {
   "id": "saint-louis",
   "name": "Saint Louis (Louis IX de France)",
-  "gender": "homme",
+ 
   "category": "saint",
   "virtues": ["justice", "piété", "charité", "sagesse", "dévotion"],
   "period": "13e siècle",
@@ -856,7 +856,7 @@
 "elisabeth-de-france": {
   "id": "elisabeth-de-france",
   "name": "Élisabeth de France (Vénérable Élisabeth, sœur de Louis XVI)",
-  "gender": "femme",
+ 
   "category": "vénérable",
   "virtues": ["charité", "pureté", "courage", "fidélité", "humilité"],
   "period": "18e siècle",
@@ -891,7 +891,7 @@
 "louis-xvi": {
   "id": "louis-xvi",
   "name": "Le Bienveillant Louis XVI",
-  "gender": "homme",
+ 
   "category": "roi chrétien",
   "virtues": ["justice", "bienveillance", "patience", "piété", "miséricorde"],
   "period": "18e siècle",
@@ -926,7 +926,7 @@
 "marie-antoinette": {
   "id": "marie-antoinette",
   "name": "Marie-Antoinette d'Autriche, reine de France",
-  "gender": "femme",
+ 
   "category": "reine chrétienne",
   "virtues": ["courage", "fidélité", "charité", "force d'âme", "dignité"],
   "period": "18e siècle",
@@ -956,9 +956,46 @@
   "prayers": [
     ""
   ]
+},
+
+
+"jeanne-d-arc": {
+  "id": "jeanne-d-arc",
+  "name": "Sainte Jeanne d’Arc",
+  "category": "sainte",
+  "virtues": ["courage", "foi", "obéissance", "pureté", "patriotisme"],
+  "period": "15e siècle",
+  "country": "France",
+  "type": "reine de France, héroïne nationale, martyre",
+  "birthDate": "1412",
+  "deathDate": "1431-05-30",
+  "feastDay": "30 mai",
+  "image": "/images/saints/jeanne-d-arc.jpg",
+  "shortDescription": "Jeanne d’Arc, jeune paysanne lorraine guidée par la foi et les voix célestes, mena les armées françaises à la victoire d’Orléans et permit le sacre de Charles VII à Reims, avant d’être trahie, jugée et brûlée vive à Rouen.",
+  "biography": "Née vers 1412 à Domrémy (maison de Rémy), Jeanne d’Arc grandit dans une période terrible pour le pays : la France est ravagée par la guerre de Cent Ans. Dès l’âge de 13 ans, elle affirme entendre des « voix venues de Dieu » : celles de saint Michel Archange, sainte Catherine d’Alexandrie et sainte Marguerite d’Antioche. Ces voix lui disent qu’il y a « grande pitié au royaume de France » et qu’elle doit aller trouver le dauphin Charles pour le faire sacrer à Reims. Jeanne parle un excellent français. En 1429, les anglais exécutent 70 % des nobles français, Charles d’Orléans est fait prisonnier et les Bourguignons se sont alliés aux anglais, seul le Mont-Saint-Michel a résisté et si Orléans tombe, c’est fini. Elle se rend à Vaucouleurs, où elle rencontre le capitaine Robert de Baudricourt, fidèle au roi. Au début, il la prend pour une fille exaltée, mais Jeanne lui prédit qu’à ce moment même, les troupes du roi viennent de perdre la bataille des Harengs. Impressionné, Baudricourt finit par lui fournir un cheval, une armure et une petite escorte composée notamment de Jean de Metz et Bertrand de Poulengy. Elle part alors pour rejoindre le dauphin Charles à Chinon, qu’elle atteint le 6 mars 1429, après un dangereux voyage. Arrivée au château, Jeanne reconnaît le roi parmi ses courtisans, sans jamais l’avoir vu auparavant. Le roi, l’écoute en privé le lendemain ; elle lui révèle des secrets personnels que personne d’autre ne pouvait connaître. Convaincu, Charles VII décide de lui donner la commande, malgré la méfiance de ses conseillers et de ses capitaines. Quand on lui propose une épée pour aller au combat, Jeanne refuse car ses voix lui ont dit de prendre l’épée cachée derrière l’autel de l’église Sainte-Catherine-de-Fierbois, marquée de cinq croix. On creuse à l’endroit indiqué, et l’arme est effectivement retrouvée. Jeanne d’Arc rejoint les troupes françaises en route vers Orléans, alors assiégée par les Anglais depuis des mois. Là, elle rencontre le duc d’Orléans qui propose une stratégie mais Jeanne leur dit que ses « conseils viennent du roi du Ciel »et ajoutent que saint Louis et Charlemagne eux-mêmes se tiennent à genoux devant le trône de Dieu pour implorer le salut de la France. Les vents et la crue de la Loire empêchent toute traversée. Jeanne, convaincue que Dieu interviendra, annonce qu’il faut attendre. Puis, le vent tourne, le niveau de l’eau baisse, et le 29 avril 1429, elle entre enfin dans Orléans. Le 4 mai, Jeanne se réveille en pleine nuit, avertie par ses voix que les chefs ont fait de « mauvais choix » et qu’il faut attaquer autrement. Donc elle guide les troupes françaises vers la bastille de Saint-Loup. Le 4 mai, les Français remportent là leur première grande victoire depuis des années. Le 7 mai, elle participe, blessée au pied, à l’assaut décisif. Avant la bataille, elle annonce à ses hommes qu’elle sera blessée par une flèche près de la clavicule. Et en effet, au cours de l’assaut, elle est atteinte près de la clavicule par une flèche qu’elle arrache elle-même. Le lendemain, les Anglais lèvent le siège : Orléans est libérée.  Ensuite, Jeanne d’Arc convainc le roi qu’il doit être couronné à Reims, pas Orléans. En chemin, l’armée affronte les Anglais à Patay, le 18 juin 1429. Les Anglais, voulant venger Orléans, préparent une embuscade, mais un cerf s’aventure dans la plaine, trahissant leur position. Les Français, menés par La Hire, grâce à un cerf, chargent avant que les archers anglais n’aient le temps de se déployer. Plusieurs milliers d’Anglais sont tués, tandis qu’un seul soldat français trouve la mort, « un de trop », dit Jeanne. L’armée française avance vers Reims : les villes sur le passage finissent par ouvrir leurs portes au roi. Le 17 juillet 1429, à Reims, Jeanne demande au roi de lui remettre son royaume, ce qu’il fait solennellement ; puis elle déclare à son tour le donner au Christ, avant d’ajouter que le Christ le rend ensuite au roi Charles, devenu ainsi le lieutenant du Christ sur terre. Jeanne considère alors que l’essentiel de sa mission est accompli mais pas fini. Mais Charles VII hésite à poursuivre la reconquête vers Paris. De par ses voix, Jeanne savait qu’elle devait être capturée pour sauver la France. Ce qui arrivera à Compiègne. Son procès s’ouvre à Rouen en 1431. 70 chefs d’accusation sont portés contre elle. Mais Jeanne tient tête à des juges ecclésiastiques souvent piégés par ses réponses. Le 30 mai 1431, sur la place du Vieux-Marché à Rouen, Jeanne d’Arc est brûlée vive. Son cœur ne se consume pas et fut jeté dans la Seine. Témoin de son supplice, le bourreau déclarera qu’il avait « brûlé une sainte ».",
+    "miracles": [
+    "Victoire miraculeuse d’Orléans attribuée à son intercession et à la providence divine",
+    "Reconnaissance du roi Charles VII sans l’avoir jamais vu",
+    "Prédiction exacte de sa blessure à Orléans",
+    "Résistance surnaturelle et lucidité durant son procès"
+  ],
+  "works": [
+    "Libération d’Orléans (1429)",
+    "Victoire française à Patay (1429)",
+    "Sacre de Charles VII à Reims (1429)",
+    "Réaffirmation de la légitimité divine du royaume de France"
+  ],
+  "quotes": [
+    "Les hommes combattront, mais Dieu donnera la victoire.",
+    "Je suis venue de la part de Dieu, le Roi du Ciel, pour bouter hors de France les Anglais.",
+    "Mieux vaut obéir à Dieu qu’aux hommes.",
+    "Je ne crains que trahir Dieu.",
+    "Si je ne suis pas, que Dieu me mette ; si je suis, que Dieu me garde."
+  ],
+  "prayers": [
+    "Sainte Jeanne d’Arc, vierge et guerrière du Christ, toi qui as entendu les voix du Ciel et obéi sans crainte, enseigne-nous la fidélité, la force et le courage dans les épreuves. Intercède pour notre patrie et pour tous ceux qui luttent pour la vérité et la justice. Amen."
+  ]
 }
-
-
 
 
   

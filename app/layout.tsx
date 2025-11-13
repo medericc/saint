@@ -3,7 +3,7 @@ import { Inter, Playfair_Display } from 'next/font/google'
 import './globals.css'
 import Navbar from './components/Layout/Navbar'
 import Footer from './components/Layout/Footer'
-
+import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ['latin'] })
 const playfair = Playfair_Display({ 
   subsets: ['latin'],
@@ -32,6 +32,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+          <Analytics />
       </body>
     </html>
   )
