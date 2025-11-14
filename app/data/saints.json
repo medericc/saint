@@ -55,7 +55,7 @@
   "biography": {
     "origines-et-contexte": "Princesse nubienne, Iphigénie est la fille du roi de Nubie. Après la Résurrection du Christ, l’Évangile atteint l’Éthiopie grâce à saint Matthieu, qui y organise les premières structures chrétiennes.",
 
-    "appel-et-vie-consacree": "Saint Matthieu fonde un couvent en Éthiopie et en confie la direction à Iphigénie, faisant d’elle la première femme de l’histoire chrétienne à diriger une abbaye. Dévouée au Christ, elle choisit la virginité consacrée comme voie de fidélité totale à son Époux divin.",
+    "appel-et-vie-consacree": "Saint Matthieu fonde un couvent en Éthiopie et en confie la direction à Iphigénie, faisant d’elle la première personne de l’histoire chrétienne à diriger une abbaye.",
 
     "persecution-et-martyr-de-matthieu": "Hirtacus, oncle d’Iphigénie, tente de l'épouser, mais Matthieu lui répond qu’elle est unie à l’Époux éternel, le Christ. Furieux de ce refus, Hirtacus fait assassiner Matthieu pendant la liturgie. Atteint ensuite de la lèpre, il met fin à ses jours.",
 
@@ -274,9 +274,9 @@
   "shortDescription": "Mystique polonaise, mère de neuf enfants, elle mena une vie de pénitence et devint recluse à Marienwerder, où elle mourut en odeur de sainteté.",
 
   "biography": {
-    "jeunesse-et-vie-familiale": "Dorothée de Montau naquit en 1347 en Prusse (actuelle Pologne). Très pieuse dès son enfance, elle fut mariée à un artisan, Adalbert, avec lequel elle eut neuf enfants. Malgré les épreuves familiales et les violences conjugales, elle demeura fidèle à Dieu et consacra beaucoup de temps à la prière.",
+    "jeunesse-et-vie-familiale": "Dorothée de Montau naquit en 1347 en Prusse (actuelle Pologne). Très pieuse dès son enfance, elle fut mariée à un artisan, Adalbert, avec lequel elle eut neuf enfants.",
     
-    "conversion-de-son-mari-et-pelerinages": "En 1384, elle convainquit son mari de se convertir et d’adopter une vie plus religieuse. Ensemble, ils accomplirent plusieurs pèlerinages pénitentiels, notamment à Cologne et à Einsiedeln, témoignant d’un profond désir de sanctification.",
+    "conversion-de-son-mari-et-pelerinages": "Adalbert était extrêment violent avec elle, donc Dorothée consacra beaucoup de temps à la prière pour qu'il puisse lui aussi vivre dans l'amour du Chrsit. Et en 1384, elle convainquit son mari de se convertir et d’adopter une vie plus religieuse. Ensemble, ils accomplirent plusieurs pèlerinages pénitentiels, notamment à Cologne et à Einsiedeln.",
     
     "veuvage-et-vocation-de-recluse": "Devenue veuve en 1390, Dorothée sentit l'appel à une vie plus radicale d’union avec Dieu. Inspirée par une vision du Christ, elle demanda à devenir recluse. Après un temps d’épreuve et de discernement, l’Église accepta sa demande.",
     
@@ -585,13 +585,11 @@
   "image": "/images/saints/augustin.jpg",
   "shortDescription": "Évêque d’Hippone et grand docteur de l’Église, il passa d’une jeunesse tourmentée à une foi profonde. Sa conversion fut guidée par les prières de sa mère, sainte Monique. Auteur des 'Confessions' et de 'La Cité de Dieu', il est l’un des plus grands penseurs chrétiens.",
   "biography": {
-  "naissance-et-jeunesse": "Saint Augustin est né en 354 à Tagaste, dans l’actuelle Algérie. Jeune, brillant mais dissipé, il recherche le plaisir, la gloire et la réussite. Dans ses 'Confessions', il raconte avoir volé des poires uniquement pour le plaisir de faire le mal, symbole de sa jeunesse égarée. Sa mère, sainte Monique, prie sans cesse pour sa conversion.",
-  "quete-intellectuelle-et-vie-mondaine": "Longtemps, Augustin mène une vie mondaine et ambitieuse, préférant la philosophie païenne à la Bible qu’il juge naïve.",
+  "naissance-et-jeunesse": "Saint Augustin est né en 354 à Tagaste, dans l’actuelle Algérie. Jeune, brillant mais dissipé, il recherche le plaisir, la gloire et la réussite. Dans ses 'Confessions', il raconte avoir volé des poires uniquement pour le plaisir de faire le mal, symbole de sa jeunesse égarée.",
+  "vie-mondaine": "Sa mère, sainte Monique, prie sans cesse pour sa conversion. Longtemps, Augustin mène une vie mondaine et ambitieuse, préférant la philosophie païenne à la Bible qu’il juge naïve. ",
   "rencontre-avec-saint-ambroise": "Tout change lorsqu’il rencontre saint Ambroise, évêque de Milan. Séduit par son intelligence et sa foi, Augustin commence à douter de ses certitudes.",
-  "lutte-interieure-et-conversion": "Après une profonde lutte intérieure, il découvre que Dieu habite au plus intime de l’âme. Baptisé par Ambroise en 387, il devient prêtre, puis évêque d’Hippone.",
-  "ministere-et-oeuvres": "Il consacre le reste de sa vie à enseigner la foi et à écrire. Dans 'La Cité de Dieu', il oppose la cité des hommes, fondée sur l’orgueil, à la Cité de Dieu, fondée sur l’amour et la foi. Il enseigne la valeur spirituelle de la pureté et du mariage, qu’il appelle le 'bonum coniugale', un bien fondé sur la fidélité, la fécondité et l’unité. Pour lui, la chasteté, qu’elle soit vécue dans la virginité ou le mariage, exprime l’amour pur de Dieu.",
-  "mort-et-heritage": "Il meurt en 430, laissant une œuvre immense qui inspire encore le monde entier. De jeune rebelle à grand saint, il montre que la paix se trouve dans l’écoute de la voix de Dieu en soi."
-}
+  "lutte-interieure": "Après une profonde lutte intérieure, il découvre que Dieu habite au plus intime de l’âme. Baptisé par Ambroise en 387, il devient prêtre, puis évêque d’Hippone. Il consacre le reste de sa vie à enseigner la foi et à écrire.",
+  "ministere-et-oeuvres": "Dans 'La Cité de Dieu', il oppose la cité des hommes, fondée sur l’orgueil, à la Cité de Dieu, fondée sur l’amour et la foi. Il enseigne la valeur spirituelle de la pureté et du mariage, qu’il appelle le 'bonum coniugale', un bien fondé sur la fidélité, la fécondité et l’unité. Pour lui, la chasteté, qu’elle soit vécue dans la virginité ou le mariage, exprime l’amour pur de Dieu."}
 
 },
 
@@ -632,7 +630,7 @@
   "biography": {
   "naissance-et-enfance": "Lúcia dos Santos naît le 28 mars 1907 à Aljustrel, au Portugal, dans une famille de bergers croyants.",
   "apparitions-de-fatima": "En 1917, alors qu’elle garde les moutons avec ses cousins Jacinta et Francisco Marto, la Vierge Marie leur apparaît six fois à la Cova da Iria. Marie leur demande de prier le rosaire pour la paix et la conversion des pécheurs et confie trois secrets sur l’avenir de l’Église et du monde.",
-  "message-de-marie": "La Vierge annonce : 'Jacinta et Francisco viendront bientôt au Ciel, mais toi, Lúcia, tu resteras encore quelque temps sur la terre. Jésus veut se servir de toi pour me faire connaître et aimer.' Lúcia vivra presque cent ans pour porter ce message.",
+  "message-de-marie": "La Vierge annonce : 'Jacinta et Francisco viendront bientôt au Ciel, mais toi, Lúcia, tu resteras encore quelque temps sur la terre. Jésus veut se servir de toi pour me faire connaître et aimer.' Lúcia vivra presque cent ans pour porter ce message. Marie avait aussi averti que 'la Russie répandra ses erreurs dans le monde' si ses demandes n’étaient pas écoutées, appelant à la consécration de la Russie à son Cœur Immaculé.",
   "miracle-du-soleil": "Le 13 octobre 1917 a lieu le célèbre 'miracle du soleil', vu par des dizaines de milliers de témoins.",
   "vie-religieuse": "Après les apparitions, Lúcia devient religieuse chez les Sœurs de Sainte Dorothée, puis carmélite à Coimbra. Elle mène une vie de prière, de silence et de fidélité.",
   "mission-spirituelle": "Toute sa vie, elle rappelle l'appel de Marie à la prière, au rosaire, à la pénitence et à la paix. Elle participe spirituellement à la consécration du monde au Cœur Immaculé de Marie.",
@@ -689,7 +687,7 @@
   "direction-et-fondations": "À la mort de Jutte en 1136, Hildegarde est élue magistra du monastère. En 1150, elle fonde son propre monastère au Rupertsberg, puis en 1165 un second à Eibingen, où elle forme une communauté florissante.",
   "oeuvre-theologique-et-visionnaire": "Elle rédige des ouvrages monumentaux comme le 'Scivias', le 'Liber Vitae Meritorum' et le 'Liber Divinorum Operum', où elle expose ses visions sur la création, la sagesse divine et la destinée humaine.",
   "musique-et-medicina-hildegardiana": "Compositrice prolifique, elle laisse des hymnes et chants sacrés d’une grande intensité. Dans ses traités 'Physica' et 'Causae et Curae', elle développe une approche holistique de la santé fondée sur l’équilibre des forces vitales, notamment la 'viriditas', la force verte de Dieu dans la nature.",
-  "rayonnement-public": "Elle correspond avec papes, évêques, rois et empereurs, et prêche même publiquement, une rareté pour une femme du XIIe siècle. Son influence spirituelle et intellectuelle marque tout l’Occident chrétien.",
+  "rayonnement-public": "Elle correspond avec papes, évêques, rois et empereurs, et prêche même publiquement. Ses écrits médicaux et spirituels eurent une influence durable, faisant d’elle une pionnière de la médecine naturelle européenne.",
   "mort-et-heritage": "Hildegarde meurt le 17 septembre 1179 au Rupertsberg. Canonisée et proclamée docteur de l’Église en 2012, elle reste l’une des figures féminines les plus lumineuses et polyvalentes du Moyen Âge, appelée 'la Sibylle du Rhin'."
 }
 
@@ -860,19 +858,13 @@
   "image": "/images/saints/saint-louis.jpg",
   "shortDescription": "Roi de France et modèle du souverain chrétien, Saint Louis allia une profonde piété à un sens exceptionnel de la justice et du service du peuple. Son règne incarne l’idéal du roi juste, pacificateur et dévoué à Dieu.",
   "biography": {
-  "jeunesse-et-famille": "Louis IX naît le 25 avril 1214 à Poissy. Il est le fils du roi Louis VIII et de Blanche de Castille, une femme profondément pieuse et énergique qui marque durablement son éducation. À la mort de son père en 1226, Louis n’a que douze ans : il devient roi très jeune, tandis que Blanche de Castille assure la régence. Elle lui transmet une foi ardente, un sens aigu de la justice et la conviction que le devoir du roi est de protéger son peuple avant de rechercher la gloire. Selon la tradition, elle lui aurait déclaré : « Je préfère te voir mort que coupable d’un seul péché mortel. »",
+  "jeunesse-et-famille": "Louis IX naît le 25 avril 1214 à Poissy, dans le royaume de France. Fils du roi Louis VIII et de Blanche de Castille, il perd son père en 1226 et devient roi alors qu’il n’a que douze ans. Sa mère assure la régence et façonne la personnalité du jeune roi. Blanche de Castille lui inculque la piété, le sens de la justice et le devoir royal : « Le but d’un roi est de protéger le peupl pas d’être aimé ». Elle lui disait aussi : « Je préfère te voir mort que coupable d’un seul péché mortel. » ",
 
-  "accession-au-trone-et-regence": "Durant la régence de Blanche, Louis reçoit une formation intellectuelle, religieuse et politique intense. Il apprend la prudence, la maîtrise de soi et le rôle du roi comme garant de la paix. Au début des années 1230, Louis IX assume personnellement le pouvoir. Il gouverne avec sérieux, animé d’un profond désir de servir Dieu à travers la justice et le bon ordre du royaume.",
+  "reforme-et-justice-royale": "Louis IX assume pleinement le pouvoir au début des années 1230 et se distingue immédiatement comme un roi profondément attaché à la justice et au bien commun. Il réforme les pratiques judiciaires : il supprime les duels judiciaires et les ordalies, encourage les enquêtes impartiales, renforce l’action des baillis et prévôts, et veille à limiter les abus des seigneurs locaux. Soucieux d’entendre directement son peuple, il rend souvent la justice lui-même, notamment sous le chêne de Vincennes, où il reçoit indistinctement riches et pauvres.",
 
-  "reforme-et-justice-royale": "Saint Louis se distingue par son sens de la justice. Il visite les tribunaux, écoute les plaintes de ses sujets, et cherche toujours l’équité. Il interdit les duels judiciaires et les ordalies, renforce les enquêtes impartiales, limite les abus des seigneurs locaux et améliore les procédures. Il développe le rôle des baillis et des prévôts, et veut un roi au service du bien commun, non un tyran arbitraire. Il rend souvent la justice lui-même, assis sous un chêne à Vincennes, recevant riches comme pauvres. Son règne devient le modèle même du roi juste et pacificateur.",
+  "foi-et-piete": "Monarque chrétien et protecteur des arts, Louis fait édifier la Sainte-Chapelle pour abriter les reliques de la Passion, dont la couronne d’épines. Parallèlement à son rôle de bâtisseur et de réformateur, il intervient aussi dans les questions religieuses et sociales de son temps. À la demande de Nicolas Donin, un juif converti au christianisme qui accuse le Talmud de contenir des passages hostiles à la foi, Louis ordonne en 1240 un procès public des textes rabbiniques. Les maîtres de l’Université de Paris examinent les ouvrages, et plusieurs dizaines de manuscrits talmudiques sont finalement condamnés et brûlés en 1242.",
 
-  "foi-et-piete": "Profondément croyant, Louis IX fait de sa foi le cœur de son gouvernement. Il finance des œuvres charitables, soutient les pauvres, soigne les malades, et vit en chrétien exemplaire malgré son statut royal. Il fait construire la Sainte-Chapelle pour abriter des reliques précieuses, notamment la couronne d’épines du Christ. Sa piété guide toutes ses décisions politiques et personnelles, et il cherche constamment à conformer sa vie à l’Évangile.",
-
-  "politique-exterieure": "En politique étrangère, Louis IX privilégie la paix et la stabilité. En 1259, il conclut le traité de Paris avec l’Angleterre, apaisant durablement les tensions entre les deux royaumes. Il agit comme médiateur dans plusieurs conflits européens, renforçant le prestige moral du royaume de France.",
-
-  "croisades": "Marqué par son engagement religieux, Louis IX prend la croix en 1244. Il dirige la septième croisade et débarque en Égypte en 1248. Il s’empare de Damiette mais subit un revers à Mansourah, puis est capturé à Fariskur en 1250. Libéré, il choisit de rester quatre ans en Terre sainte pour consolider les États croisés et négocier la libération de prisonniers. En 1270, animé par la même ferveur, il lance la huitième croisade, mais il meurt peu après son arrivée près de Tunis, victime d’une épidémie.",
-
-  "mort-et-canonisation": "Louis IX meurt le 25 août 1270 à Tunis, entouré de prières. Son exemple de sainteté, de justice et de dévouement à Dieu conduit à sa canonisation le 11 août 1297 par le pape Boniface VIII. Il demeure le seul roi de France élevé officiellement à la sainteté. Sa mémoire incarne l’idéal du souverain chrétien : humble, juste, charitable et entièrement au service de son peuple et de Dieu."
+  "croisades": "En politique étrangère, il rétablit la paix avec l’Angleterre grâce au traité de Paris (1259). Profondément marqué par sa foi, Louis IX prend la croix en 1244 et dirige la septième croisade en 1248. Après avoir pris Damiette, il subit un revers à Mansourah puis est capturé à Fariskur en 1250. Libéré, il demeure quatre années en Terre sainte, où il consolide les États croisés, organise l’aide matérielle et spirituelle aux chrétiens d’Orient et leur promet que la France demeurera toujours à leurs côtés pour les défendre. En 1270, il repart pour la huitième croisade, animé du même souci de protection des chrétiens orientaux, mais meurt le 25 août, près de Tunis, victime d’une épidémie."
 }
 
 },
@@ -924,17 +916,16 @@
  "image": "/images/saints/louis-xvi.jpg",
   "shortDescription": "Roi de France de 1774 à 1793, Louis XVI fut un souverain pacifique, bienveillant et soucieux de justice, cherchant jusqu’au bout à réformer le royaume sans violence. Son exécution durant la Révolution en fit une figure de martyr et de pardon chrétien.",
  "biography": {
-  "jeunesse-et-formation": "Louis XVI naît le 23 août 1754 à Versailles. Enfant réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale, les langues, l’histoire et le sens profond du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le fait devenir dauphin et futur roi.",
+  "jeunesse-et-formation": "Louis XVI naît le 23 août 1754 à Versailles. Par tempérament réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale et le sens du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le conduit à devenir dauphin, puis roi en 1774. Dès le début de son règne, il se montre animé d’un désir sincère de justice, d’équité et de paix sociale.",
 
-  "montee-sur-le-trone-et-intentions": "Devenu roi en 1774, il manifeste un désir sincère de justice, d’équité et de paix sociale. Sa bienveillance est connue à la cour et parmi le peuple. Attaché à la dignité de toute vie humaine, il refuse par exemple que la première montgolfière soit testée avec des condamnés, jugeant cela immoral.",
+  "montee-sur-le-trone-et-intentions": "Attaché à la dignité de toute vie humaine, il refuse qu’on teste la montgolfière avec des condamnés, jugeant cela immoral, et préfère risquer des animaux plutôt que sacrifier des hommes pour l’expérimentation scientifique. Homme curieux et ouvert aux progrès, il soutient les sciences, les explorations et les réformes.",
 
-  "gouvernement-et-reformes": "Conscient des difficultés financières du royaume, il tente des réformes prudentes et réfléchies. Il fait appel à des ministres réformateurs, convoque les assemblées de notables, puis les États généraux en 1789. Sa méthode lente n’est pas de la faiblesse mais du respect envers les provinces et les sujets. Il cherche à éviter toute violence et refuse de gouverner par la force.",
+  "gouvernement-et-reformes": "Conscient des graves difficultés financières du royaume, il tente d’y répondre par des réformes prudentes et concertées. Il appelle successivement ministres réformateurs, assemblées de notables, puis les États généraux en 1789. Sa démarche est lente non par faiblesse, mais par respect des provinces et de ses sujets. Contrairement à la République, il refuse de gouverner par la force ou la terreur.",
 
-  "crise-revolutionnaire": "Lorsque la Révolution éclate, Louis XVI poursuit inlassablement la recherche d’un compromis pacifique. Mais la monarchie est progressivement dissoute, et le roi est arrêté puis jugé par la Convention. Le vote de sa mort se joue à une voix près, celle de son cousin, membre de la franc-maçonnerie. Louis XVI demande un appel au peuple pour que la nation puisse décider elle-même — on le lui refuse.",
+  "crise-revolutionnaire": "Lorsque la Révolution éclate, Louis XVI continue de chercher un compromis politique. Cependant, la monarchie est peu à peu dissoute et le roi est jugé par la Convention. La décision de l’exécuter est votée à une voix près, celle de son cousin franc-maçon. Louis XVI demande un appel au peuple pour que la nation entière puisse se prononcer ; cela lui est refusé.",
 
-  "processus-et-mort": "Le 21 janvier 1793, conduit à la guillotine, il reste fidèle à la charité chrétienne. Avant de mourir, il proclame son innocence, pardonne à ses ennemis et prie pour que son sang ne soit pas cause de nouvelles divisions. Il meurt dans une attitude de paix et de foi profonde, uni au sacrifice du Christ et de la France qu’il aime.",
+  "processus-et-mort": "Le 21 janvier 1793, conduit à l’échafaud, il demeure fidèle à la charité chrétienne. Avant de mourir, il proclame qu’il pardonne à ses ennemis et demande que son sang ne soit pas cause de nouvelles divisions. Il meurt en homme de paix, unissant son sacrifice à Dieu et à la France qu’il aime."
 
-  "heritage": "Son exécution fait de lui une figure de martyr dans la mémoire chrétienne et historique. Son pardon, sa douceur et son sens de la justice inspirent encore aujourd’hui des conversions, des réconciliations et des engagements spirituels."
 }
 
 },
@@ -953,19 +944,19 @@
  "image": "/images/saints/marie-antoinette.jpg",
   "shortDescription": "Épouse de Louis XVI et mère de famille, Marie-Antoinette fut injustement défigurée par la propagande révolutionnaire. Durant la Révolution, elle fit preuve d’un courage et d’une dignité remarquables, pardonnant même à ceux qui la conduisirent à la mort.",
  "biography": {
-  "jeunesse-et-origines": "Marie-Antoinette naît le 2 novembre 1755 à Vienne, neuvième fille de l’impératrice Marie-Thérèse. Elle reçoit une éducation princière solide, mêlant musique, danse et culture de cour. À quatorze ans, elle est envoyée en France pour épouser le dauphin Louis, futur Louis XVI, découvrant la vie brillante et mondaine de Versailles.",
+  "jeunesse-et-origines": "Marie-Antoinette naît le 2 novembre 1755 à Vienne, neuvième fille de l'impératrice Marie-Thérèse d'Autriche. Arrivée en France à l'âge de quatorze ans pour épouser le dauphin Louis, futur Louis XVI, elle découvre un monde de cour brillant.",
 
-  "vie-a-la-cour-et-relations": "À Versailles, elle s’entoure de quelques proches, dont la princesse de Lamballe, sa confidente. Lorsqu’elle voit son amie s’engager dans la franc-maçonnerie, elle l’exhorte à s’en éloigner, la jugeant trop influençable et souhaitant avant tout la protéger. Les premières années de son mariage sont marquées par l’insouciance, les fêtes et la jeunesse.",
+  "vie-a-la-cour-et-relations": "Parmi ces proches, la princesse de Lamballe, amie très intime. Marie-Antoinette, en la voyant s’engager en franc-maçonnerie, l’exhorte à s’en éloigner car elle la juge trop féministe, souhaitant avant tout la protéger.",
 
-  "revolution-et-epreuves-familiales": "Quand la Révolution éclate, Marie-Antoinette ne quitte ni son mari, ni ses enfants. Séparée de ceux-ci, elle est emprisonnée à la Conciergerie dans une solitude extrême. La plus terrible épreuve est l’arrachement de son jeune fils, manipulé par la République jusqu’à signer une fausse déposition l’accusant d’inceste. À cette accusation infâme, elle répond : « La nature même se refuse à répondre à une telle accusation. »",
+  "revolution-et-epreuves-familiales": "Lorsque la Révolution éclate, la reine n’abandonne ni ses proches, ni son mari, ni ses enfants. Séparée de ses enfants, elle est transférée à la Conciergerie, dans la solitude la plus complète. La perte de ses enfants, en particulier l’arrachement de son jeune fils, est l’épreuve la plus profonde de sa vie.",
 
-  "pertes-et-violences-subies": "Quelques semaines plus tôt, son amie la princesse de Lamballe est massacrée, son corps atrocement mutilé et sa tête promenée jusque sous ses fenêtres. Son mari Louis XVI a été exécuté neuf mois auparavant. Marie-Antoinette comprend que son tour viendra, mais affronte chaque épreuve avec une dignité et une foi remarquables.",
+  "pertes-et-violences-subies": "La République brise psychologiquement son fils Louis XVII et le manipule en lui faisant signer une fausse déposition, l'accusant de viol sur sa personne (loi modifiée auparavant) et il sera assassiné par la République juste derrière. Marie-Antoinette répond alors d'une seule phrase : « La nature même se refuse à répondre à une telle accusation. »",
 
-  "captivite-et-derniere-lettre": "À la Conciergerie, elle vit dans des conditions indignes, privée de sommeil, surveillée en permanence. Dans sa dernière lettre — son testament spirituel — elle pardonne à tous ceux qui lui ont fait du mal et demande à Dieu de leur accorder miséricorde. Elle y exprime son amour pour ses enfants et sa confiance en la Providence.",
+  "captivite-et-derniere-lettre": "Quelques semaines auparavant, son amie la princesse de Lamballe pour soutenir toujours sa gouvernante, a été massacrée et son corps profané (tête découpée, poils pubiens arrachés) jusqu'à sous ses fenêtres. Son mari Louis XVI a été exécuté neuf mois plus tôt. Marie-Antoinette sait qu'elle mourra. Pourtant, dans sa dernière lettre, elle pardonne à ceux qui lui ont fait du mal, priant Dieu de leur accorder miséricorde.",
 
-  "execution": "Le 16 octobre 1793, elle est conduite à la guillotine. La mise à mort est précédée d’humiliations : on lui coupe ses cheveux, on la prive de tout signe de dignité. Pourtant, elle demeure calme et droite. Même ses bourreaux reconnaissent son courage. Elle monte à l’échafaud sans haine, conservant sa foi, sa dignité et son cœur de mère.",
+  "execution": "Le 16 octobre 1793, elle est conduite à la guillotine. Malgré l'humiliation de sa toilette, sa dignité demeure intacte. Elle monte à l'échafaud droite, calme, sans haine. Ses bourreaux eux-mêmes reconnaîtront son courage. Dépouillée de tout, elle conserva cependant ce qui ne peut être pris : sa foi, sa dignité et son cœur de mère."
 
-  "heritage": "Longtemps défigurée par la propagande révolutionnaire, Marie-Antoinette est aujourd’hui reconnue pour son courage, sa fidélité et sa noblesse d’âme. Son exemple inspire le pardon, la vérité historique et la compassion envers les victimes de la Terreur."
+ 
 }
 
 },
