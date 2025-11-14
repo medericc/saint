@@ -16,14 +16,14 @@
   --font-mono: "Geist Mono", monospace;
 }
 
-/* 🌙 Mode sombre automatique */
+/* 🌙 Mode sombre automatique
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
     --cream: #1a1a1a;
   }
-}
+} */
 
 /* 🧩 Définition du thème Tailwind v4 inline */
 @theme inline {
