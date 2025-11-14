@@ -311,7 +311,7 @@
 
 ,
 
-  "sainte-jeanne-de-valois": {
+  "sainte-jeanne-de-france": {
   "id": "sainte-jeanne-de-france",
   "name": "Sainte Jeanne de France",
   "virtues": ["humilite", "foi", "charite", "obeissance"],
@@ -467,7 +467,7 @@
   "retour-a-rome-et-mort": "De retour à Rome, elle continua sa vie de charité jusqu’à sa mort en 399."
 }
 },
-  "herade-de-landsberg": {
+  "herrade-de-landsberg": {
     "id": "herrade-de-landsberg",
     "name": "Herrade de Landsberg",
     "virtues": ["sagesse", "enseignement", "foi", "creation"],
