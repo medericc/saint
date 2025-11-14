@@ -543,7 +543,7 @@
     "biography": {
   "naissance-et-enfance": "Isabelle Flore de Oliva, née à Lima le 20 avril 1586, fut surnommée 'Rosa' dès son enfance après qu'une domestique remarqua la beauté lumineuse de son visage. Très jeune, elle manifesta un attrait profond pour la prière, la solitude et la mortification.",
   "premieres-pratiques-de-penitence": "À six ans, elle commença déjà à imiter les austérités des religieux, se frottant le visage de poivre pour en ternir l’éclat et se coupant les cheveux pour résister à la vanité. À onze ans, elle prononça un vœu secret de chasteté et adopta des pratiques de pénitence rigoureuses.",
-  "vie-interieure-et-appartenance-dominicaine": "Malgré les inquiétudes de ses parents, elle conserva un équilibre intérieur marqué par la paix et la joie spirituelle. Empêchée d’entrer dans un couvent, elle rejoignit le tiers-ordre dominicain et mena une vie religieuse laïque dans un petit ermitage au fond du jardin familial.",
+  "vie-interieure": "Malgré les inquiétudes de ses parents, elle conserva un équilibre intérieur marqué par la paix et la joie spirituelle. Empêchée d’entrer dans un couvent, elle rejoignit le tiers-ordre dominicain et mena une vie religieuse laïque dans un petit ermitage au fond du jardin familial.",
   "priere-service-et-vie-mystique": "Rosa se consacra à la prière, au jeûne et au service des pauvres et des malades, les soignant avec des remèdes simples et les réconfortant par sa foi. Elle connut de profondes extases mystiques et des visions du Christ, qu’elle unissait à sa passion. Sa maison devint un lieu de prière et de guérison pour de nombreux habitants de Lima.",
   "offrande-de-sa-souffrance": "Elle offrit toutes ses souffrances pour la conversion des pécheurs et le bien de l’Église.",
   "mort-et-canonisation": "Morte à 31 ans, le 24 août 1617, elle fut canonisée en 1671 par le pape Clément X, devenant la première sainte du continent américain."
@@ -771,7 +771,7 @@
   "biography": {
   "jeunesse-et-appel-religieux": "Mère Teresa, née Anjezë Gonxhe Bojaxhiu en 1910 à Skopje, grandit dans une famille catholique albanaise profondément croyante. Dès son enfance, elle ressent l’appel à servir Dieu et les plus pauvres. À 18 ans, elle entre chez les Sœurs de Lorette en Irlande avant d’être envoyée en Inde.",
   
-  "vie-chez-les-soeurs-de-lorette-et-premiers-engagements": "En 1931, elle prononce ses vœux et prend le nom de Sœur Teresa en hommage à sainte Thérèse de Lisieux. Enseignante dans un collège de Calcutta, elle se dévoue à l’éducation des jeunes filles indiennes. Sa vie prend un tournant décisif en 1946 lorsqu’elle reçoit, dans un train, “l’appel dans l’appel” : Jésus lui demande de quitter le couvent pour servir les plus pauvres parmi les pauvres.",
+  "premiers-engagements": "En 1931, elle prononce ses vœux et prend le nom de Sœur Teresa en hommage à sainte Thérèse de Lisieux. Enseignante dans un collège de Calcutta, elle se dévoue à l’éducation des jeunes filles indiennes. Sa vie prend un tournant décisif en 1946 lorsqu’elle reçoit, dans un train, “l’appel dans l’appel” : Jésus lui demande de quitter le couvent pour servir les plus pauvres parmi les pauvres.",
   
   "fondation-des-missionnaires-de-la-charite": "En 1950, après avoir quitté les Sœurs de Lorette et obtenu l’autorisation de l’Église, elle fonde la Congrégation des Missionnaires de la Charité. Celle-ci se consacre au service de ceux qui “n’ont personne pour les aimer”. Elle ouvre des foyers pour les mourants, recueille les malades, les lépreux, les orphelins et soutient les plus démunis. Son œuvre connaît un rayonnement mondial.",
   
@@ -802,7 +802,7 @@
   
   "entree-au-carmel-et-ordination": "En 1563, il entre chez les Carmes à Medina del Campo où il reçoit l’habit religieux. Ordonné prêtre en 1567, il envisage un temps de rejoindre les Chartreux, mais sa rencontre avec sainte Thérèse d’Ávila change le cours de sa vie.",
   
-  "rencontre-avec-therese-d-avila-et-reforme-du-carmel": "Sous l’impulsion de Thérèse d’Ávila, Jean s’engage dans la réforme du Carmel, appelée Carmel Déchaussé, orientée vers une vie plus austère, silencieuse et contemplative. Il devient l’un des piliers de cette réforme, fondant plusieurs communautés et accompagnant spirituellement les frères et les sœurs réformés.",
+  "rencontre-avec-therese-d-avila": "Sous l’impulsion de Thérèse d’Ávila, Jean s’engage dans la réforme du Carmel, appelée Carmel Déchaussé, orientée vers une vie plus austère, silencieuse et contemplative. Il devient l’un des piliers de cette réforme, fondant plusieurs communautés et accompagnant spirituellement les frères et les sœurs réformés.",
   
   "epreuves-et-emprisonnement": "La réforme suscitant de fortes résistances, Jean est arrêté en 1577 et enfermé dans un couvent de Tolède. Il y subit un emprisonnement très dur. C’est pourtant durant cette captivité qu’il compose certains de ses plus grands poèmes mystiques, méditant sur la souffrance, la foi et la lumière divine.",
   
@@ -830,7 +830,7 @@
  "biography": {
   "jeunesse-et-etudes": "François Xavier naît en 1506 au château de Xavier, dans le royaume de Navarre, au sein d’une famille noble. Après la mort de son père, il poursuit des études brillantes qui le mènent à l’Université de Paris en 1525.",
   
-  "rencontre-avec-ignace-et-fondation-de-la-compagnie-de-jesus": "À Paris, il rencontre Ignace de Loyola, dont l’influence spirituelle est décisive. Avec lui et cinq autres compagnons, il prononce en 1534 les vœux de Montmartre, posant les bases de la Compagnie de Jésus. Ordonné prêtre à Venise en 1537, il se met au service du nouvel ordre.",
+  "fondation-de-la-compagnie-de-jesus": "À Paris, il rencontre Ignace de Loyola, dont l’influence spirituelle est décisive. Avec lui et cinq autres compagnons, il prononce en 1534 les vœux de Montmartre, posant les bases de la Compagnie de Jésus. Ordonné prêtre à Venise en 1537, il se met au service du nouvel ordre.",
   
   "premiere-mission-en-asie": "Envoyé par le Portugal, François part en 1542 pour l’Asie. Il débarque à Goa en Inde, où il évangélise les pêcheurs de perles et les populations locales. Son zèle, son énergie et sa capacité d’adaptation marquent profondément les communautés rencontrées.",
   
@@ -918,7 +918,7 @@
  "biography": {
   "jeunesse-et-formation": "Louis XVI naît le 23 août 1754 à Versailles. Par tempérament réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale et le sens du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le conduit à devenir dauphin, puis roi en 1774. Dès le début de son règne, il se montre animé d’un désir sincère de justice, d’équité et de paix sociale.",
 
-  "montee-sur-le-trone-et-intentions": "Attaché à la dignité de toute vie humaine, il refuse qu’on teste la montgolfière avec des condamnés, jugeant cela immoral, et préfère risquer des animaux plutôt que sacrifier des hommes pour l’expérimentation scientifique. Homme curieux et ouvert aux progrès, il soutient les sciences, les explorations et les réformes.",
+  "montee-sur-le-trone": "Attaché à la dignité de toute vie humaine, il refuse qu’on teste la montgolfière avec des condamnés, jugeant cela immoral, et préfère risquer des animaux plutôt que sacrifier des hommes pour l’expérimentation scientifique. Homme curieux et ouvert aux progrès, il soutient les sciences, les explorations et les réformes.",
 
   "gouvernement-et-reformes": "Conscient des graves difficultés financières du royaume, il tente d’y répondre par des réformes prudentes et concertées. Il appelle successivement ministres réformateurs, assemblées de notables, puis les États généraux en 1789. Sa démarche est lente non par faiblesse, mais par respect des provinces et de ses sujets. Contrairement à la République, il refuse de gouverner par la force ou la terreur.",
 
