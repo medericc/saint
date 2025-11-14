@@ -76,74 +76,25 @@ export default async function SaintPage({ params }: PageProps) {
           </div>
         </div>
 
-        {/* Sections détaillées */}
-        <div className="space-y-6 max-w-3xl mx-auto">
-          <CollapsibleSection title="Vie du Saint" defaultOpen={true}>
-            <div className="prose prose-lg max-w-none">
-              <p className="text-gray-700 leading-relaxed whitespace-pre-line">
-                {saint.biography}
-              </p>
-            </div>
-          </CollapsibleSection>
+     
+       {/* Sections détaillées : biographie découpée */}
+<div className="space-y-6 max-w-3xl mx-auto">
+  {saint.biography &&
+    Object.entries(saint.biography).map(([sectionKey, sectionText]) => (
+      <CollapsibleSection 
+        key={sectionKey} 
+        title={sectionKey.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase())}
+        defaultOpen={sectionKey === Object.keys(saint.biography)[0]} // ouvre la première section
+      >
+        <div className="prose prose-lg max-w-none">
+          <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+            {sectionText}
+          </p>
+        </div>
+      </CollapsibleSection>
+  ))}
 
-          <CollapsibleSection title="Miracles et Œuvres">
-            <div className="space-y-6">
-              <div>
-                <h4 className="font-semibold text-gray-800 mb-3 text-lg">Miracles célèbres</h4>
-                <ul className="space-y-2">
-                  {saint.miracles.map((miracle, index) => (
-                    <li key={index} className="flex items-start space-x-3 text-gray-700">
-                      <div className="w-2 h-2 bg-gold rounded-full mt-2 flex-shrink-0" />
-                      <span>{miracle}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div>
-                <h4 className="font-semibold text-gray-800 mb-3 text-lg">Œuvres principales</h4>
-                <ul className="space-y-2">
-                  {saint.works.map((work, index) => (
-                    <li key={index} className="flex items-start space-x-3 text-gray-700">
-                      <div className="w-2 h-2 bg-sky rounded-full mt-2 flex-shrink-0" />
-                      <span>{work}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </CollapsibleSection>
 
-          <CollapsibleSection title="Citations et Prières">
-            <div className="space-y-8">
-              <div>
-                <h4 className="font-semibold text-gray-800 mb-4 text-lg">Citations inspirantes</h4>
-                <div className="space-y-4">
-                  {saint.quotes.map((quote, index) => (
-                    <blockquote 
-                      key={index} 
-                      className="border-l-4 border-gold pl-6 py-2 bg-white/50 rounded-r-lg"
-                    >
-                      <p className="text-gray-700 italic text-lg leading-relaxed">
-                        &ldquo;{quote}&rdquo;
-                      </p>
-                    </blockquote>
-                  ))}
-                </div>
-              </div>
-              <div>
-                <h4 className="font-semibold text-gray-800 mb-4 text-lg">
-                  Prière{saint.prayers.length > 1 ? 's' : ''}
-                </h4>
-                <ul className="space-y-3">
-                  {saint.prayers.map((prayer, index) => (
-                    <li key={index} className="text-gray-700 bg-white/30 rounded-lg p-4 border border-gray-200">
-                      {prayer}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </CollapsibleSection>
         </div>
 
         {/* Saints similaires - Section discrète */}

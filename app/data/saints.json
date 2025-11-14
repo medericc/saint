@@ -1,11 +1,9 @@
 {
   
   
-  
   "saint-francois-dassise": {
   "id": "saint-francois-dassise",
   "name": "Saint François d’Assise",
-  
   "category": "saint",
   "virtues": ["pauvreté", "humilité", "joie", "amour de la création", "charité"],
   "period": "12e-13e siècle",
@@ -14,311 +12,440 @@
   "birthDate": "1181",
   "deathDate": "1226-10-03",
   "feastDay": "4 octobre",
-   "image": "/images/saints/francois-assise.jpg",
-  "shortDescription": "Fondateur de l’Ordre des Franciscains, Saint François d’Assise incarna la pauvreté évangélique et l’amour universel de la création. Par sa vie simple et joyeuse, il rappela au monde la beauté du service, de la fraternité et de la paix.",
-  "biography": "François d’Assise naît vers 1181 ou 1182 à Assise, dans le duché de Spolète (Ombrie, Italie), au sein d’une famille aisée. Son père, Pietro di Bernardone, est un riche marchand de draps, et sa mère, Pica, serait originaire de Provence. Baptisé Giovanni, il est renommé ‘Francesco’ — ‘le petit Français’ — par son père, en souvenir de ses affaires en France. Dans sa jeunesse, François mène une vie insouciante et fastueuse, aimant les fêtes et les beaux vêtements. Vers 1202, il participe à une guerre contre la ville voisine de Pérouse, où il est fait prisonnier pendant près d’un an. À sa libération, marqué par la maladie et l’épreuve, il commence une profonde conversion. Une vision dans l’église de San Damiano lui révèle la mission que Dieu lui confie : ‘Répare ma maison, qui tombe en ruine’. Dès lors, il renonce à son héritage, abandonne toute richesse et choisit de vivre dans la pauvreté, au service des pauvres et des lépreux. En 1209, il fonde l’Ordre des Frères Mineurs, approuvé par le pape Innocent III. Il inspire aussi la création de l’Ordre des Pauvres Dames (Clarisses) avec sainte Claire d’Assise, et du Tiers-Ordre destiné aux laïcs. François prêche la fraternité universelle, la paix, et l’amour de toute la création. En 1224, retiré au mont Alverne, il reçoit les stigmates du Christ, signe mystique de son union à Jésus crucifié. Il meurt à Assise le 3 octobre 1226, dans la pauvreté et la joie. Deux ans plus tard, le 16 juillet 1228, il est canonisé par le pape Grégoire IX. Son Cantique des créatures, hymne à la beauté du monde, résume son âme fraternelle et poétique. Saint François est aujourd’hui le patron des animaux, de l’écologie et des artisans de paix.",
-  "miracles": [
-    "Réception des stigmates du Christ en 1224 au mont Alverne",
-    "Guérisons et conversions spirituelles liées à son intercession",
-    "Protection miraculeuse de lieux et de personnes invoquant son nom"
-  ],
-  "works": [
-    "Fondation de l’Ordre des Frères Mineurs (Franciscains)",
-    "Cantique des créatures",
-    "Règle franciscaine approuvée par le pape Honorius III (1223)"
-  ],
-  "quotes": [
-    "Seigneur, fais de moi un instrument de ta paix.",
-    "C’est en donnant qu’on reçoit, c’est en s’oubliant qu’on se retrouve.",
-    "Commencez par faire le nécessaire, puis faites ce qui est possible, et vous accomplirez l’impossible.",
-    "Heureux celui qui n’a rien à perdre, car il possède tout en Dieu.",
-    "Loué sois-tu, mon Seigneur, avec toutes tes créatures."
-  ],
-  "prayers": [
-    "Saint François d’Assise, toi qui as aimé Dieu dans chaque créature, apprends-nous la simplicité du cœur, la joie du don et la paix de la fraternité. Inspire-nous à vivre dans la louange, l’humilité et le respect de toute vie. Amen."
-  ]
+  "image": "/images/saints/francois-assise.jpg",
+  "shortDescription": "Fondateur de l’Ordre des Franciscains, Saint François d’Assise incarna la pauvreté évangélique et l’amour universel de la création.",
+  
+  "biography": {
+    "naissance-et-jeunesse": "François d’Assise naît vers 1181 ou 1182 à Assise, dans le duché de Spolète, au sein d’une famille aisée. Son père, Pietro di Bernardone, est un riche marchand de draps, et sa mère, Pica, serait originaire de Provence. Baptisé Giovanni, il est renommé ‘Francesco’ par son père en souvenir de ses affaires en France. Dans sa jeunesse, François mène une vie insouciante et fastueuse, aimant les fêtes et les beaux vêtements.",
+    
+    "captivite-et-conversion": "Vers 1202, François participe à une guerre contre Pérouse et est fait prisonnier pendant près d’un an. À sa libération, marqué par la maladie et la souffrance, il commence une profonde conversion. Dans l’église délabrée de San Damiano, il reçoit une vision du Christ lui disant : ‘Répare ma maison, qui tombe en ruine’. Cet appel bouleverse sa vie.",
+    
+    "renoncement-et-vie-de-pauvrete": "François renonce publiquement à son héritage devant l’évêque d’Assise, abandonne ses richesses et choisit de vivre dans la pauvreté radicale. Il se met au service des pauvres et des lépreux, considérés comme les exclus de son époque. Sa joie et sa simplicité attirent d’autres hommes désireux de vivre l’Évangile à sa manière.",
+    
+    "fondation-des-ordres-franciscains": "En 1209, François fonde l’Ordre des Frères Mineurs, approuvé par le pape Innocent III. Avec sainte Claire, il inspire la fondation de l’Ordre des Pauvres Dames (Clarisses). Il met également en place un Tiers-Ordre destiné aux laïcs désirant vivre l’esprit franciscain sans quitter le monde.",
+    
+    "amour-de-la-creation": "François prêche la fraternité universelle, l’amour de toute créature et le respect de la nature comme reflet de la bonté divine. Son 'Cantique des créatures' exprime son émerveillement devant le soleil, le vent, l’eau, la terre et toutes les formes de vie, qu’il appelle ‘frères’ et ‘sœurs’.",
+    
+    "stigmates-et-derniers-jours": "En 1224, retiré au mont Alverne pour prier et jeûner, François reçoit les stigmates du Christ, signe mystique de son union profonde au Crucifié. Éprouvé par la maladie mais toujours joyeux, il meurt à Assise le 3 octobre 1226, couché sur la terre nue, en chantant sa fidélité au Seigneur.",
+    
+    "canonisation-et-heritage": "Deux ans plus tard, le 16 juillet 1228, il est canonisé par le pape Grégoire IX. François reste l’une des figures les plus lumineuses du christianisme : témoin de paix, ami de la création, modèle de pauvreté évangélique et inspirateur de millions de croyants. Il est aujourd’hui le patron des animaux, de l’écologie et des artisans de paix."
+  }
+}
+,
+
+
+"sainte-iphigenie": {
+  "id": "sainte-iphigenie",
+  "name": "Sainte Iphigénie",
+
+  "category": "sainte",
+  "virtues": ["foi", "purete", "courage", "fidelite"],
+  "period": "1er siècle",
+  "country": "Éthiopie",
+  "type": "abbesse",
+
+  "birthDate": "",
+  "deathDate": "",
+  "feastDay": "21 septembre",
+
+  "image": "/images/saints/iphigenie.jpg",
+
+  "shortDescription": "Princesse nubienne devenue abbesse et disciple de saint Matthieu, elle consacra sa vie au Christ et fonda la première abbaye chrétienne d'Éthiopie.",
+
+  "biography": {
+    "origines-et-contexte": "Princesse nubienne, Iphigénie est la fille du roi de Nubie. Après la Résurrection du Christ, l’Évangile atteint l’Éthiopie grâce à saint Matthieu, qui y organise les premières structures chrétiennes.",
+
+    "appel-et-vie-consacree": "Saint Matthieu fonde un couvent en Éthiopie et en confie la direction à Iphigénie, faisant d’elle la première femme de l’histoire chrétienne à diriger une abbaye. Dévouée au Christ, elle choisit la virginité consacrée comme voie de fidélité totale à son Époux divin.",
+
+    "persecution-et-martyr-de-matthieu": "Hirtacus, oncle d’Iphigénie, tente de l'épouser, mais Matthieu lui répond qu’elle est unie à l’Époux éternel, le Christ. Furieux de ce refus, Hirtacus fait assassiner Matthieu pendant la liturgie. Atteint ensuite de la lèpre, il met fin à ses jours.",
+
+    "heritage": "Le frère d’Iphigénie monte sur le trône et favorise l’expansion du christianisme. Grâce à elle et à l'action fondatrice de Matthieu, l’Éthiopie devient l’un des premiers royaumes profondément marqués par la foi chrétienne."
+  }
+}
+,
+
+"sainte-paule": {
+  "id": "sainte-paule",
+  "name": "Sainte Paule",
+
+  "category": "sainte",
+  "virtues": ["charite", "sagesse", "humilite", "foi"],
+  "period": "4e-5e siècle",
+  "country": "Rome",
+  "type": "fondatrice",
+
+  "birthDate": "347",
+  "deathDate": "404",
+  "feastDay": "26 janvier",
+
+  "image": "/images/saints/paule.jpg",
+
+  "shortDescription": "Noble romaine devenue moniale, elle fonda avec saint Jérôme des monastères à Bethléem et consacra sa vie à l’étude des Écritures et à la prière.",
+
+  "biography": {
+    "jeunesse-et-famille": "Née à Rome en 347 dans une famille aristocratique, Paule grandit dans un milieu très cultivé. Elle épousa un sénateur et eut cinq enfants.",
+
+    "conversion-et-vie-ascetique": "Veuve à 32 ans, elle se rapproche de sainte Marcelle et de saint Jérôme. Sous son influence, elle se consacre davantage à la prière et transforme sa maison en prieuré. Elle apprend le grec et l’hébreu pour approfondir sa compréhension des Écritures.",
+
+    "voyage-et-fondations-a-bethleem": "Après la mort de sa fille Blésille, elle quitte Rome avec sa fille Eustochium et rejoint Jérôme en Terre Sainte. Ensemble, ils fondent un double monastère à Bethléem, l’un pour les hommes, l’autre pour les femmes, devenant un grand centre spirituel et intellectuel.",
+
+    "mort-et-heritage": "Elle meurt en 404. Sa fille Eustochium prend la direction du monastère et perpétue son œuvre. Paule reste un modèle d’étude, de prière et de charité pour toute la tradition chrétienne."
+  }
+}
+,
+
+"sainte-eustochium": {
+  "id": "sainte-eustochium",
+  "name": "Sainte Eustochium",
+
+  "category": "sainte",
+  "virtues": ["purete", "savoir", "foi", "devotion"],
+  "period": "4e-5e siècle",
+  "country": "Rome",
+  "type": "abbesse",
+
+  "birthDate": "368",
+  "deathDate": "",
+  "feastDay": "28 septembre",
+
+  "image": "/images/saints/eustochium.jpg",
+
+  "shortDescription": "Fille de sainte Paule et disciple de saint Jérôme, elle dirigea les monastères de Bethléem après la mort de sa mère.",
+
+  "biography": {
+    "jeunesse-et-famille": "Née à Rome en 368, Eustochium est la fille de sainte Paule. Elle grandit dans un milieu chrétien cultivé et pieux, marqué par l’influence des grandes dames romaines converties à l’ascèse.",
+
+    "vœu-de-virginite-et-formation-spirituelle": "Encore jeune, elle fit vœu de virginité perpétuelle malgré les pressions de sa famille. Sous la direction de saint Jérôme, elle se consacra à l'étude des Écritures et apprit le grec, le latin et l’hébreu afin de mieux comprendre les textes sacrés.",
+
+    "voyage-et-vie-monastique-a-bethleem": "En 386, elle quitta Rome avec sa mère Paule pour la Terre Sainte. Ensemble, elles fondèrent un grand monastère de femmes à Bethléem, qui devint un centre reconnu d'étude biblique et de vie spirituelle.",
+
+    "direction-et-heritage": "À la mort de sainte Paule en 404, Eustochium assuma la direction du monastère. Elle poursuivit l’œuvre spirituelle de saint Jérôme, qui lui dédia plusieurs commentaires bibliques. Sa fidélité à l’ascèse et à l’étude fit d’elle une figure majeure du monachisme ancien."
+  }
 }
 ,
 
 
 
-"sainte-iphigenie": {
-    "id": "sainte-iphigenie",
-    "name": "Sainte Iphigénie",
-    "virtues": ["foi", "purete", "courage", "fidelite"],
-    "period": "1er siècle",
-    "country": "Éthiopie",
-    "type": "abbesse",
-    "birthDate": "",
-    "deathDate": "",
-    "feastDay": "21 septembre",
-    "image": "/images/saints/iphigenie.jpg",
-    "shortDescription": "Princesse nubienne devenue abbesse, disciple de saint Matthieu, elle consacra sa vie au Christ et fonda la première abbaye chrétienne d'Éthiopie.",
-    "biography": "Après la résurrection, Saint Matthieu l’Apôtre organisa l’Église éthiopienne et fonda un couvent, dont il confia la direction à Iphigénie, fille du roi de Nubie, qui devint la première personne de l’histoire chrétienne à diriger une abbaye. Son oncle Hirtacus voulut l’épouser, mais Matthieu lui répondit qu’elle était unie à l’Époux éternel, le Christ. Furieux, Hirtacus fit assassiner Matthieu pendant la liturgie. Atteint ensuite de la lèpre, il finit par se donner la mort. Le frère d’Iphigénie monta sur le trône et favorisa l’expansion du christianisme dans le royaume.",
-    "miracles": [],
-    "works": ["Fondation de la première abbaye d’Éthiopie"],
-    "quotes": [],
-    "prayers": []
-  },
-
-  "sainte-paule": {
-    "id": "sainte-paule",
-    "name": "Sainte Paule",
-    "virtues": ["charite", "sagesse", "humilite", "foi"],
-    "period": "4e-5e siècle",
-    "country": "Rome",
-    "type": "fondatrice",
-    "birthDate": "347",
-    "deathDate": "404",
-    "feastDay": "26 janvier",
-    "image": "/images/saints/paule.jpg",
-    "shortDescription": "Noble romaine devenue moniale, elle fonda avec saint Jérôme des monastères à Bethléem et consacra sa vie à l’étude des Écritures et à la prière.",
-    "biography": "Née à Rome en 347 dans une famille noble, Paule épousa un sénateur et eut cinq enfants. Veuve à 32 ans, elle se rapprocha de sainte Marcelle et de saint Jérôme. Sur ses conseils, elle transforma sa maison en prieuré et apprit le grec et l’hébreu pour mieux comprendre les Écritures. Après la mort de sa fille Blésille, elle partit pour Jérusalem avec sa fille Eustochium et fonda avec Jérôme un double monastère à Bethléem. Elle mourut en 404, laissant son œuvre à sa fille.",
-    "miracles": [],
-    "works": ["Fondation des monastères de Bethléem", "Promotion de l’étude des Écritures à Rome"],
-    "quotes": [],
-    "prayers": []
-  },
-  "sainte-eustochium": {
-    "id": "sainte-eustochium",
-    "name": "Sainte Eustochium",
-    "virtues": ["purete", "savoir", "foi", "devotion"],
-    "period": "4e-5e siècle",
-    "country": "Rome",
-    "type": "abbesse",
-    "birthDate": "368",
-    "deathDate": "",
-    "feastDay": "28 septembre",
-    "image": "/images/saints/eustochium.jpg",
-    "shortDescription": "Fille de sainte Paule et disciple de saint Jérôme, elle dirigea les monastères de Bethléem après la mort de sa mère.",
-    "biography": "Née à Rome en 368, fille de sainte Paule, Eustochium fit vœu de virginité perpétuelle malgré les pressions familiales. Sous la direction de saint Jérôme, elle approfondit les Écritures et apprit le grec, le latin et l’hébreu. En 386, elle partit avec sa mère pour Bethléem, où elles fondèrent un monastère de femmes. À la mort de Paule, en 404, Eustochium assuma la direction des communautés et poursuivit l’œuvre spirituelle de Jérôme, qui lui dédia plusieurs commentaires bibliques.",
-    "miracles": [],
-    "works": ["Direction des monastères de Bethléem", "Collaboration aux œuvres de saint Jérôme"],
-    "quotes": [],
-    "prayers": []
-  },
 
 
+ "bienheureuse-isabelle-de-france": {
+  "id": "bienheureuse-isabelle-de-france",
+  "name": "Bienheureuse Isabelle de France",
 
+  "category": "bienheureuse",
+  "virtues": ["purete", "humilite", "charite", "detachement"],
+  "period": "13e siècle",
+  "country": "France",
+  "type": "fondatrice",
 
+  "birthDate": "1225",
+  "deathDate": "1270",
+  "feastDay": "22 février",
 
-  "bienheureuse-isabelle-de-france": {
-    "id": "bienheureuse-isabelle-de-france",
-    "name": "Bienheurese Isabelle de France",
-    "virtues": ["purete", "humilite", "charite", "detachement"],
-    "period": "13e siècle",
-    "country": "France",
-    "type": "fondatrice",
-    "birthDate": "1225",
-    "deathDate": "1270",
-    "feastDay": "22 février",
-    "image": "/images/saints/isabelle-france.jpg",
-    "shortDescription": "Sœur de Saint Louis, elle refusa le mariage pour se consacrer à Dieu et fonda le monastère de Longchamp sous la règle de l’humilité de la Bienheureuse Vierge Marie.",
-    "biography": "Née en 1225, fille du roi Louis VIII et de la reine Blanche de Castille, Isabelle reçut une éducation profonde, fondée sur la prière, la théologie et la discipline. Très jeune, elle se consacra à Dieu et refusa plusieurs mariages prestigieux, choisissant de vivre dans la chasteté et la simplicité. Conseillée spirituellement par saint Bonaventure, elle mena une vie de prière et de charité, soutenant les pauvres et acceptant la maladie dans l’humilité. En 1256, avec l’aide de son frère Saint Louis, elle fonda le monastère de Longchamp près de Paris et rédigea une règle originale, celle de l’humilité de la Bienheureuse Vierge Marie. Sans prononcer de vœux, elle mena une vie consacrée dans une cellule attenante au monastère, recevant religieux et pauvres. Elle mourut le 23 février 1270, vénérée comme “la sainte de Longchamp”.",
-    "miracles": [],
-    "works": ["Fondation du monastère de Longchamp", "Rédaction de la règle de l’humilité de la Bienheureuse Vierge Marie"],
-    "quotes": [],
-    "prayers": []
-  },
+  "image": "/images/saints/isabelle-france.jpg",
+
+  "shortDescription": "Sœur de Saint Louis, elle refusa le mariage pour se consacrer à Dieu et fonda le monastère de Longchamp sous la règle de l’humilité de la Bienheureuse Vierge Marie.",
+
+  "biography": {
+    "jeunesse-et-education": "Née en 1225, fille du roi Louis VIII et de la reine Blanche de Castille, Isabelle reçut une éducation profondément marquée par la prière, la théologie et la discipline chrétienne.",
+
+    "appel-a-la-vie-consacree": "Très jeune, elle se consacra à Dieu et refusa plusieurs mariages prestigieux proposés pour des raisons politiques. Elle choisit une vie de chasteté, de simplicité et de service, mûrement guidée par une forte intuition spirituelle.",
+
+    "vie-spirituelle-et-charite": "Sous la direction spirituelle de saint Bonaventure, elle mena une vie intense de prière, de pénitence et de charité envers les pauvres. Elle supporta diverses maladies dans une grande humilité et la confiance en Dieu.",
+
+    "fondation-du-monastere-de-longchamp": "En 1256, avec le soutien de son frère Saint Louis, elle fonda le monastère de Longchamp près de Paris. Elle rédigea elle-même une règle originale centrée sur l’humilité de la Bienheureuse Vierge Marie. Bien qu’elle n’ait jamais prononcé de vœux religieux, elle vécut dans une cellule attenante au monastère et mena une vie quasi monastique.",
+
+    "mort-et-heritage": "Elle mourut le 23 février 1270, entourée de la réputation d’une grande sainteté. Connue comme “la sainte de Longchamp”, elle laissa un exemple lumineux de pureté, de charité et de renoncement royal au service du Christ."
+  }
+}
+,
   "sainte-bathilde": {
-    "id": "sainte-bathilde",
-    "name": "Sainte Bathilde",
-    "virtues": ["charite", "justice", "humilite", "misericorde"],
-    "period": "7e siècle",
-    "country": "France",
-    "type": "reine et religieuse",
-    "birthDate": "626",
-    "deathDate": "680",
-    "feastDay": "30 janvier",
-    "image": "/images/saints/bathilde.jpg",
-    "shortDescription": "Ancienne esclave devenue reine des Francs, elle œuvra pour la justice, la libération des esclaves et la réforme de l’Église avant de finir sa vie au monastère de Chelles.",
-    "biography": "Née en Angleterre vers 626, Bathilde fut capturée et réduite en esclavage avant d’être achetée par Archambaut, maire du palais. Remarquée pour sa modestie et sa sagesse, elle gagna le respect du roi Clovis II, qu’elle épousa. Devenue reine, elle favorisa les pauvres, racheta des esclaves pour les libérer et encouragea la fondation de monastères inspirés par la spiritualité de saint Colomban. À la mort de Clovis, elle assuma la régence avec prudence, soutenue par saint Éloi et saint Ouen. Elle interdit la vente d’esclaves chrétiens, réforma le clergé et promut une gouvernance juste. Retirée plus tard au monastère de Chelles qu’elle avait fondé, elle y mena une vie humble, partageant les travaux des religieuses. Elle mourut vers 680, vénérée pour sa charité et sa sagesse.",
-    "miracles": [],
-    "works": ["Abolition de la vente d’esclaves chrétiens", "Fondation du monastère de Chelles", "Réforme du clergé franc"],
-    "quotes": [],
-    "prayers": []
-  },
+  "id": "sainte-bathilde",
+  "name": "Sainte Bathilde",
+
+  "category": "sainte",
+  "virtues": ["charite", "justice", "humilite", "misericorde"],
+  "period": "7e siècle",
+  "country": "France",
+  "type": "reine et religieuse",
+
+  "birthDate": "626",
+  "deathDate": "680",
+  "feastDay": "30 janvier",
+
+  "image": "/images/saints/bathilde.jpg",
+
+  "shortDescription": "Ancienne esclave devenue reine des Francs, elle œuvra pour la justice, la libération des esclaves et la réforme de l’Église avant de finir sa vie au monastère de Chelles.",
+
+  "biography": {
+    "origine-et-captivite": "Née en Angleterre vers 626, Bathilde fut capturée très jeune et réduite en esclavage. Elle fut achetée par Archambaut, maire du palais, qui remarqua rapidement sa modestie, sa douceur et sa grande intelligence.",
+
+    "mariage-royal-et-charite": "Grâce à ses qualités, elle gagna l'estime du roi Clovis II, qui l’épousa. Devenue reine des Francs, elle se distingua par sa charité envers les pauvres, son soutien aux plus vulnérables et le rachat d’esclaves pour les libérer.",
+
+    "oeuvres-politiques-et-ecclesiales": "À la mort de Clovis II, Bathilde assuma la régence du royaume. Soutenue par saint Éloi et saint Ouen, elle gouverna avec justice. Elle interdit la vente d’esclaves chrétiens, favorisa une réforme du clergé et encouragea la fondation de monastères inspirés de la règle de saint Colomban.",
+
+    "vie-monastique-a-chelles": "Plus tard, elle se retira au monastère de Chelles, qu’elle avait elle-même fondé. Là, elle mena une vie humble et laborieuse, partageant les travaux quotidiens avec les religieuses et persévérant dans la prière et le service.",
+
+    "mort-et-heritage": "Elle mourut vers 680, entourée d’une grande réputation de sainteté. La tradition chrétienne la vénère comme une reine modèle, symbole de charité, de justice sociale et de profonde humilité."
+  }
+}
+,
   "anne-de-bretagne": {
-    "id": "anne-de-bretagne",
-    "name": "Anne de Bretagne",
-    "virtues": ["piété", "justice", "sagesse", "foi"],
-    "period": "15e-16e siècle",
-    "country": "France",
-    "type": "reine",
-    "birthDate": "1477",
-    "deathDate": "1514",
-    "feastDay": "",
-    "image": "/images/saints/anne-bretagne.jpg",
-    "shortDescription": "Duchesse de Bretagne et deux fois reine de France, elle allia piété et sens politique pour préserver l’identité bretonne et soutenir la foi et les arts.",
-    "biography": "Anne de Bretagne naquit en 1477 au château des ducs de Bretagne à Nantes. Fille du duc François II et de Marguerite de Foix, elle reçut une éducation raffinée et pieuse, apprenant le latin, le français et la musique. Orpheline jeune, elle hérita d’un duché convoité par la France. En 1491, pour protéger son peuple et maintenir la paix, elle épousa le roi Charles VIII, puis après sa mort, se remaria en 1499 avec Louis XII. Très cultivée et fervente chrétienne, Anne soutint les artistes, les humanistes et les ordres religieux. Elle fit construire et restaurer des églises, protégea les pauvres et encouragea l’éducation. Morte le 9 janvier 1514 à Blois, elle laissa l’image d’une souveraine sage, pieuse et fidèle à sa terre natale.",
-    "miracles": [],
-    "works": ["Protection du duché de Bretagne", "Soutien aux arts et à la foi", "Fondations pieuses en Bretagne et en France"],
-    "quotes": [],
-    "prayers": []
-  },
+  "id": "anne-de-bretagne",
+  "name": "Anne de Bretagne",
+
+  "category": "figure-historique",
+  "virtues": ["piété", "justice", "sagesse", "foi"],
+  "period": "15e-16e siècle",
+  "country": "France",
+  "type": "reine",
+
+  "birthDate": "1477",
+  "deathDate": "1514",
+  "feastDay": "",
+
+  "image": "/images/saints/anne-bretagne.jpg",
+
+  "shortDescription": "Duchesse de Bretagne et deux fois reine de France, elle allia piété et sens politique pour préserver l’identité bretonne et soutenir la foi et les arts.",
+
+  "biography": {
+    "enfance-et-formation": "Anne de Bretagne naquit en 1477 au château des ducs de Bretagne à Nantes. Fille du duc François II et de Marguerite de Foix, elle reçut une éducation raffinée et profondément chrétienne, apprenant le latin, le français, la musique et l’art du gouvernement.",
+    
+    "heritage-et-menaces-politiques": "Orpheline jeune, elle hérita d’un duché stratégique convoité par la couronne de France. Malgré son jeune âge, elle manifesta déjà un sens politique aigu pour protéger l’indépendance bretonne.",
+    
+    "mariages-royaux-et-gouvernance": "En 1491, afin de préserver la paix et défendre son peuple, elle épousa le roi Charles VIII. Après la mort de celui-ci, elle se remaria en 1499 avec Louis XII, devenant ainsi reine de France pour la seconde fois. Elle demeura toujours très attachée à la Bretagne et défendit ses droits avec constance.",
+    
+    "foi-culture-et-charite": "Très cultivée et fervente chrétienne, Anne soutint les artistes, les humanistes et les ordres religieux. Elle fit bâtir et restaurer des églises, protégea les pauvres, encouragea l’éducation et favorisa l’essor des arts de la Renaissance.",
+    
+    "mort-et-heritage": "Elle mourut le 9 janvier 1514 à Blois. L’histoire retient d’elle une souveraine sage, pieuse et résolue, qui sut concilier foi profonde, amour de sa terre natale et compétences politiques remarquables."
+  }
+}
+,
   
   "bienheureuse-marguerite-de-lorraine": {
-    "id": "bienheureuse-marguerite-de-lorraine",
-    "name": "Bienheureuse Marguerite de Lorraine",
-    "virtues": ["charite", "humilite", "detachement", "justice"],
-    "period": "15e-16e siècle",
-    "country": "France",
-    "type": "duchesse et religieuse",
-    "birthDate": "1463",
-    "deathDate": "1521",
-    "feastDay": "2 novembre",
-    "image": "/images/saints/marguerite-lorraine.jpg",
-    "shortDescription": "Duchesse d'Alençon, femme de prière et de justice, elle fonda des monastères et se retira chez les Clarisses, où elle mourut dans la sainteté.",
-    "biography": "Née en 1463, fille de Ferri II de Vaudémont et de Yolande d’Anjou, Marguerite de Lorraine fut élevée par son grand-père, le bon roi René d’Anjou, en Provence. Elle reçut une éducation solide, apprenant le latin, l’histoire des saints et la lecture des Écritures. Dédaignant les plaisirs du monde, elle se consacra à la prière et aux œuvres de charité. Mariée à René d’Alençon à 25 ans, elle devint veuve quatre ans plus tard, avec trois enfants et un duché ruiné. Elle se distingua par sa justice et sa fermeté, réformant l’administration et défendant les pauvres. Marguerite fonda des hôpitaux, restaura des églises et créa des monastères, notamment pour les Clarisses. En 1518, elle rejoignit elle-même le monastère qu’elle avait fondé et y mourut le 2 novembre 1521. Son corps, resté incorruptible pendant près de trois siècles, fut profané en 1793 durant la Révolution française.",
-    "miracles": ["Incorruptibilité de son corps pendant plusieurs siècles"],
-    "works": ["Fondation du monastère des Clarisses d’Alençon", "Réforme du duché d’Alençon", "Œuvres de charité et aide aux pauvres"],
-    "quotes": [],
-    "prayers": []
-  },
-  "sainte-dorothee-de-montau": {
-    "id": "sainte-dorothee-de-montau",
-    "name": "Sainte Dorothée de Montau",
-    "virtues": ["foi", "patience", "ascese", "priere"],
-    "period": "14e siècle",
-    "country": "Pologne",
-    "type": "mystique et recluse",
-    "birthDate": "1347",
-    "deathDate": "1394",
-    "feastDay": "25 juin",
-    "image": "/images/saints/dorothee-montau.jpg",
-    "shortDescription": "Mystique polonaise, mère de neuf enfants, elle mena une vie de pénitence et devint recluse à Marienwerder, où elle mourut en odeur de sainteté.",
-    "biography": "Dorothée de Montau naquit en 1347 en Prusse (actuelle Pologne). Très pieuse dès l’enfance, elle fut mariée à un artisan, Adalbert, avec lequel elle eut neuf enfants. Malgré les épreuves et les violences conjugales, elle demeura fidèle à Dieu, passant de longues heures en prière. En 1384, elle convainquit son mari de se convertir et de mener une vie religieuse. Ensemble, ils accomplirent plusieurs pèlerinages, notamment à Cologne et Einsiedeln. Veuve en 1390, Dorothée demanda à vivre en recluse, inspirée par une vision du Christ. Après un temps d’épreuve, son souhait fut accordé et elle s’installa le 2 mai 1393 dans une cellule attenante à la cathédrale de Marienwerder. Elle y mena une vie de prière intense et reçut des visions mystiques. Elle mourut le 25 juin 1394. Canonisée pour sa foi et ses prophéties, elle est l’une des grandes figures spirituelles de la Pologne médiévale.",
-    "miracles": ["Visions prophétiques", "Protection miraculeuse de chevaliers teutoniques"],
-    "works": ["Vie de pénitence et d’intercession", "Témoignage spirituel consigné par son confesseur Jean de Marienwerder"],
-    "quotes": [],
-    "prayers": []
-  },
-  "margaret-de-beverley": {
-    "id": "margaret-de-beverley",
-    "name": "Margaret de Beverley",
-    "virtues": ["courage", "foi", "perseverance", "charite"],
-    "period": "12e siècle",
-    "country": "Angleterre",
-    "type": "pèlerine et religieuse",
-    "birthDate": "vers 1150",
-    "deathDate": "inconnue",
-    "feastDay": "",
-    "image": "/images/saints/margarette-beverley.jpg",
-    "shortDescription": "Pèlerine anglaise ayant combattu pour Jérusalem, réduite en esclavage, elle témoigna d’un courage héroïque et finit sa vie comme religieuse cistercienne.",
-    "biography": "Née en Terre sainte de parents anglais, Margarette de Beverley perdit ses parents très jeune et éleva seule son frère Thomas. Vers 1180, après son entrée au monastère, elle entreprit un pèlerinage en Terre sainte. Lors du siège de Jérusalem en 1187, elle participa courageusement à la défense de la ville, protégeant les habitants avec un casque improvisé en chaudron. Capturée après la chute de Jérusalem, elle fut réduite en esclavage, subissant de dures épreuves qu’elle supporta avec foi. Libérée grâce à une rançon, elle parcourut Antioche, Saint-Jean-d’Acre, Rome et Compostelle avant de rentrer en Europe. Suivant l’exemple de son frère, elle entra chez les Cisterciennes à Montreuil-sur-Mer, où elle mena une vie de prière et d’humilité. Son courage et sa ferveur firent d’elle un modèle de foi féminine médiévale.",
-    "miracles": [],
-    "works": ["Défense héroïque de Jérusalem", "Pèlerinages à Rome et Compostelle", "Vie religieuse chez les Cisterciennes"],
-    "quotes": [],
-    "prayers": []
-  },
+  "id": "bienheureuse-marguerite-de-lorraine",
+  "name": "Bienheureuse Marguerite de Lorraine",
+
+  "category": "bienheureuse",
+  "virtues": ["charite", "humilite", "detachement", "justice"],
+  "period": "15e-16e siècle",
+  "country": "France",
+  "type": "duchesse et religieuse",
+
+  "birthDate": "1463",
+  "deathDate": "1521",
+  "feastDay": "2 novembre",
+
+  "image": "/images/saints/marguerite-lorraine.jpg",
+
+  "shortDescription": "Duchesse d'Alençon, femme de prière et de justice, elle fonda des monastères et se retira chez les Clarisses, où elle mourut dans la sainteté.",
+
+  "biography": {
+    "jeunesse-et-education": "Née en 1463, fille de Ferri II de Vaudémont et de Yolande d’Anjou, Marguerite fut élevée par son grand-père, le bon roi René d’Anjou, en Provence. Elle reçut une éducation solide, apprenant le latin, la vie des saints et la lecture des Écritures.",
+    
+    "vie-de-priere-et-charite": "Dès sa jeunesse, elle dédaigna les plaisirs du monde pour se consacrer à la prière, à la pénitence et aux œuvres de charité. Sa douceur et sa compassion envers les pauvres la firent rapidement connaître comme une femme de grande piété.",
+    
+    "mariage-ephemere-et-gouvernance": "À 25 ans, elle épousa René d’Alençon. Quatre ans plus tard, elle devint veuve avec trois enfants et un duché ruiné. Elle se distingua alors par son sens de la justice et sa fermeté, réformant l’administration, luttant contre les abus et défendant les plus faibles.",
+    
+    "fondations-et-oeuvres": "Marguerite fonda des hôpitaux, restaura des églises et établit plusieurs monastères, notamment pour les Clarisses, témoignant d’un profond désir de renouveau spirituel dans son duché.",
+    
+    "vie-religieuse-et-mort": "En 1518, elle rejoignit le monastère des Clarisses d’Alençon qu’elle avait fondé. Elle y vécut dans l’humilité, le silence et la prière jusqu’à sa mort le 2 novembre 1521.",
+    
+    "heritage": "Son corps demeura incorruptible pendant près de trois siècles, signe de la vénération populaire. Il fut malheureusement profané en 1793 durant la Révolution. Sa mémoire demeure celle d’une femme de charité, de justice et de profonde sainteté."
+  }
+}
+,
+ "sainte-dorothee-de-montau": {
+  "id": "sainte-dorothee-de-montau",
+  "name": "Sainte Dorothée de Montau",
+
+  "category": "sainte",
+  "virtues": ["foi", "patience", "ascese", "priere"],
+  "period": "14e siècle",
+  "country": "Pologne",
+  "type": "mystique et recluse",
+
+  "birthDate": "1347",
+  "deathDate": "1394",
+  "feastDay": "25 juin",
+
+  "image": "/images/saints/dorothee-montau.jpg",
+
+  "shortDescription": "Mystique polonaise, mère de neuf enfants, elle mena une vie de pénitence et devint recluse à Marienwerder, où elle mourut en odeur de sainteté.",
+
+  "biography": {
+    "jeunesse-et-vie-familiale": "Dorothée de Montau naquit en 1347 en Prusse (actuelle Pologne). Très pieuse dès son enfance, elle fut mariée à un artisan, Adalbert, avec lequel elle eut neuf enfants. Malgré les épreuves familiales et les violences conjugales, elle demeura fidèle à Dieu et consacra beaucoup de temps à la prière.",
+    
+    "conversion-de-son-mari-et-pelerinages": "En 1384, elle convainquit son mari de se convertir et d’adopter une vie plus religieuse. Ensemble, ils accomplirent plusieurs pèlerinages pénitentiels, notamment à Cologne et à Einsiedeln, témoignant d’un profond désir de sanctification.",
+    
+    "veuvage-et-vocation-de-recluse": "Devenue veuve en 1390, Dorothée sentit l'appel à une vie plus radicale d’union avec Dieu. Inspirée par une vision du Christ, elle demanda à devenir recluse. Après un temps d’épreuve et de discernement, l’Église accepta sa demande.",
+    
+    "vie-a-marienwerder": "Le 2 mai 1393, elle fut enfermée dans une cellule attenante à la cathédrale de Marienwerder. Elle y mena une vie de prière intense, de pénitence et d’intercession, recevant de nombreuses visions mystiques qui furent consignées par son confesseur Jean de Marienwerder.",
+    
+    "mort-et-heritage": "Elle mourut le 25 juin 1394 en réputation de sainteté. De nombreuses grâces furent rapportées par ceux qui l’avaient connue. Canonisée pour sa foi, sa persévérance et ses dons mystiques, elle demeure l’une des grandes figures spirituelles de la Pologne médiévale."
+  }
+}
+,
+ "margaret-de-beverley": {
+  "id": "margaret-de-beverley",
+  "name": "Margaret de Beverley",
+  "virtues": ["courage", "foi", "perseverance", "charite"],
+  "period": "12e siècle",
+  "country": "Angleterre",
+  "type": "pèlerine et religieuse cistercienne",
+  "birthDate": "vers 1150",
+  "deathDate": "inconnue",
+  "feastDay": "",
+  "image": "/images/saints/margaret-beverley.jpg",
+  "shortDescription": "Pèlerine anglaise ayant défendu Jérusalem lors du siège de 1187, réduite en esclavage puis libérée, elle témoigna d’un courage héroïque et termina sa vie comme religieuse cistercienne.",
+
+  "biography": {
+    "origines-et-pelerinage": "Originaire d’Angleterre, Margaret de Beverley entreprit très jeune un pèlerinage en Terre sainte.",
+    "siege-de-jerusalem": "En 1187, elle se trouva à Jérusalem lors du siège mené par Saladin et participa courageusement à la défense de la ville, se protégeant la tête avec un simple chaudron.",
+    "captivite": "Capturée à la chute de Jérusalem, elle fut réduite en esclavage et endura de durs traitements qu’elle affronta avec une foi inébranlable.",
+    "liberation-et-voyages": "Libérée grâce à une rançon, elle poursuivit ses pèlerinages à Antioche, Saint-Jean-d’Acre, Rome et Compostelle.",
+    "vie-religieuse": "De retour en Europe, elle rejoignit les Cisterciennes de Montreuil-sur-Mer et mena une vie de prière, de pénitence et d’humilité.",
+    "heritage": "Son témoignage, rapporté par son frère Thomas, est devenu un exemple exceptionnel de courage chrétien féminin au Moyen Âge."
+  }
+}
+
+,
 
   "sainte-jeanne-de-valois": {
-    "id": "sainte-jeanne-de-france",
-    "name": "Sainte Jeanne de France",
-    "virtues": ["humilite", "foi", "charite", "obeissance"],
-    "period": "15e-16e siècle",
-    "country": "France",
-    "type": "reine et fondatrice",
-    "birthDate": "1464",
-    "deathDate": "1505",
-    "feastDay": "4 février",
-    "image": "/images/saints/jeanne-valois.jpg",
-    "shortDescription": "Fille de Louis XI, reine de France durant quelques mois, elle fonda l’ordre de l’Annonciade, dédié à la Vierge Marie.",
-    "biography": "Née le 23 avril 1464 à Nogent-le-Roi, fille de Louis XI et de Charlotte de Savoie, Jeanne de Valois fut de santé fragile. Envoyée au château de Linières dans le Berry, elle grandit dans la prière et l’étude des Écritures. Mariée à Louis d’Orléans, leur union resta sans affection et sans enfants. Lorsque Louis devint roi sous le nom de Louis XII, leur mariage fut annulé en 1498. Jeanne accepta cette épreuve dans la paix et se retira à Bourges. Elle y fonda avec le père Gabriel-Maria l’ordre de la Vierge Marie, appelé plus tard les Annonciades, centré sur l’imitation des vertus de Marie. D’une grande humilité, elle refusa tout honneur et vécut dans la prière jusqu’à sa mort le 4 février 1505. En 1792, la Révolution française supprima l’ordre et dispersa les religieuses.",
-    "miracles": [],
-    "works": ["Fondation de l’ordre de l’Annonciade", "Rédaction de la règle avec Gabriel-Maria", "Aide aux pauvres et aux malades"],
-    "quotes": ["Je suis née pour servir."],
-    "prayers": ["Prière à la Vierge Marie pour l’humilité"]
-  },
-  "sainte-clotilde": {
-    "id": "sainte-clotilde",
-    "name": "Sainte Clotilde",
-    "virtues": ["foi", "esperance", "pardon", "charite"],
-    "period": "5e-6e siècle",
-    "country": "Burgondie (France actuelle)",
-    "type": "reine",
-    "birthDate": "vers 475",
-    "deathDate": "545",
-    "feastDay": "3 juin",
-    "image": "/images/saints/clotilde.jpg",
-    "shortDescription": "Reine des Francs et épouse de Clovis, elle œuvra à la conversion du royaume au christianisme et vécut ensuite dans la prière.",
-    "biography": "Née vers 475 à Lyon, fille du roi burgonde Chilpéric Ier, Clotilde connut très tôt la tragédie : ses parents furent tués par son oncle Gondebaud, qui prit le pouvoir. Exilée, elle fut remarquée par Clovis, roi des Francs, qu’elle épousa vers 492. Chrétienne fervente, elle tenta de convertir son époux païen. Malgré la mort de leur premier enfant après le baptême, elle persévéra dans la prière. En 496, lors de la bataille de Tolbiac, Clovis invoqua le Dieu de Clotilde et remporta la victoire. Il reçut alors le baptême à Reims avec 3000 guerriers, fondant le royaume chrétien des Francs. Devenue veuve, Clotilde se retira à Tours, près du tombeau de saint Martin, où elle vécut dans la prière et la charité jusqu’à sa mort le 3 juin 545. Elle fut inhumée auprès de Clovis dans la basilique Sainte-Geneviève à Paris.",
-    "miracles": ["Conversion de Clovis et de son peuple", "Guérison de son fils Clodomir"],
-    "works": ["Conversion du royaume franc", "Fondation d’églises et d’abbayes"],
-    "quotes": ["J’offre mes larmes à Dieu."],
-    "prayers": ["Prière pour la paix dans les familles"]
-  },
-  "sainte-leonie-aviat": {
-    "id": "sainte-leonie-aviat",
-    "name": "Sainte Léonie Aviat",
-    "virtues": ["charite", "devouement", "service", "foi"],
-    "period": "19e-20e siècle",
-    "country": "France",
-    "type": "fondatrice religieuse",
-    "birthDate": "1844",
-    "deathDate": "1914",
-    "feastDay": "10 janvier",
-    "image": "/images/saints/leonie-aviat.jpg",
-    "shortDescription": "Religieuse française, fondatrice des Oblates de Saint-François de Sales, dédiée à la jeunesse ouvrière et à l’éducation chrétienne.",
-    "biography": "Née en 1844 à Sézanne, Léonie Aviat fut marquée dès l’enfance par la spiritualité salésienne et une attention profonde envers les plus fragiles. Avec l’abbé Louis Brisson, elle fonda un foyer pour jeunes ouvrières, donnant naissance à la congrégation des Oblates de Saint-François de Sales, dédiée à l’éducation et à la dignité des jeunes filles. En 1872, elle prit le nom de sœur Françoise de Sales et devint supérieure générale. La congrégation connut un essor rapide, en France et à l’étranger. Au début du XXe siècle, les lois antireligieuses de la Troisième République entraînèrent la fermeture des maisons et l’exil des religieuses. Léonie mena alors la communauté en Italie, à Pérouse, où elle mourut le 10 janvier 1914. Elle fut canonisée en 2001 par Jean-Paul II.",
-    "miracles": ["Guérisons attribuées à son intercession"],
-    "works": ["Fondation des Oblates de Saint-François de Sales", "Formation des jeunes ouvrières", "Développement de l’éducation chrétienne en Europe"],
-    "quotes": ["Travaillons à rendre Dieu aimable."],
-    "prayers": ["Prière pour les éducateurs et les jeunes"]
+  "id": "sainte-jeanne-de-france",
+  "name": "Sainte Jeanne de France",
+  "virtues": ["humilite", "foi", "charite", "obeissance"],
+  "period": "15e-16e siècle",
+  "country": "France",
+  "type": "reine et fondatrice",
+  "birthDate": "1464",
+  "deathDate": "1505",
+  "feastDay": "4 février",
+  "image": "/images/saints/jeanne-valois.jpg",
+  "shortDescription": "Fille de Louis XI, reine de France durant quelques mois, elle fonda l’ordre de l’Annonciade, dédié à la Vierge Marie.",
+
+  "biography": {
+    "naissance-et-enfance": "Née le 23 avril 1464 à Nogent-le-Roi, fille de Louis XI et de Charlotte de Savoie, Jeanne de Valois était de santé fragile et fut envoyée au château de Linières dans le Berry. Elle y grandit dans la prière et l’étude des Écritures.",
+    "mariage-avec-louis-dorleans": "Mariée à Louis d’Orléans, leur union resta sans affection et demeura sans enfants. Jeanne affronta cette situation avec patience et humilité.",
+    "annulation-du-mariage": "Lorsque Louis devint roi sous le nom de Louis XII, leur mariage fut annulé en 1498. Jeanne accepta cette épreuve avec paix et résignation chrétienne.",
+    "fondation-de-lannonciade": "Retirée à Bourges, elle fonda avec le père Gabriel-Maria l’ordre de la Vierge Marie, plus tard appelé les Annonciades, centré sur l’imitation des vertus de la Vierge Marie.",
+    "vie-spirituelle": "D’une grande humilité, elle refusa les honneurs et mena une vie de prière, de charité et d’obéissance.",
+    "mort-et-heritage": "Elle mourut le 4 février 1505. En 1792, la Révolution française supprima l’ordre et dispersa les religieuses, mais son œuvre spirituelle demeure vivante aujourd’hui."
+  }
+}
+,
+ "sainte-clotilde": {
+  "id": "sainte-clotilde",
+  "name": "Sainte Clotilde",
+  "virtues": ["foi", "esperance", "pardon", "charite"],
+  "period": "5e-6e siècle",
+  "country": "Burgondie (France actuelle)",
+  "type": "reine",
+  "birthDate": "vers 475",
+  "deathDate": "545",
+  "feastDay": "3 juin",
+  "image": "/images/saints/clotilde.jpg",
+  "shortDescription": "Reine des Francs et épouse de Clovis, elle œuvra à la conversion du royaume au christianisme et vécut ensuite dans la prière.",
+
+  "biography": {
+    "naissance-et-enfance": "Née vers 475 à Lyon, fille du roi burgonde Chilpéric Ier, Clotilde connut très tôt la tragédie : ses parents furent tués par son oncle Gondebaud, qui prit le pouvoir.",
+    "exil-et-mariage": "Exilée, elle fut remarquée par Clovis, roi des Francs, qu’elle épousa vers 492.",
+    "foi-et-conversion-de-clovis": "Chrétienne fervente, elle chercha à convertir son époux païen. Malgré la mort de leur premier enfant après le baptême, elle persévéra dans la prière.",
+    "bataille-de-tolbiac": "En 496, lors de la bataille de Tolbiac, Clovis invoqua le Dieu de Clotilde et remporta la victoire.",
+    "bapteme-de-clovis": "À la suite de cette victoire, Clovis reçut le baptême à Reims avec 3000 guerriers, établissant ainsi le royaume chrétien des Francs.",
+    "veuvage-et-vie-de-piete": "Devenue veuve, Clotilde se retira à Tours, près du tombeau de saint Martin, où elle vécut dans la prière et la charité jusqu’à sa mort le 3 juin 545.",
+    "mort-et-sepulture": "Elle fut inhumée auprès de Clovis dans la basilique Sainte-Geneviève à Paris."
+  }
   },
 
-  "isabelle-godin": {
-    "id": "isabelle-godin",
-    "name": "Isabelle Godin des Odonais",
-    "virtues": ["foi", "courage", "esperance", "perseverance"],
-    "period": "18e siècle",
-    "country": "Équateur / France",
-    "type": "laïque missionnaire",
-    "birthDate": "1728",
-    "deathDate": "1792",
-    "feastDay": "",
-    "image": "/images/saints/isabelle-godin.jpg",
-    "shortDescription": "Femme de foi et d’endurance, elle traversa seule l’Amazonie pendant plusieurs semaines, confiant sa survie à la Providence divine.",
-    "biography": "Née en 1728 à Riobamba, en Équateur, Isabelle Gramon reçut une solide formation et parlait plusieurs langues. En 1743, elle épousa Jean Godin, un savant français. Lorsque son mari se retrouva bloqué en Guyane, elle resta vingt ans en Équateur, affrontant de nombreuses épreuves, dont la perte de plusieurs enfants. En 1769, elle décida de le rejoindre en descendant l’Amazone, confiant son voyage à la Vierge Marie. Après la mort ou la fuite de ses compagnons, Isabelle continua seule dans la jungle, survivant par la prière et la foi. Secourue par deux autochtones, elle atteignit enfin la Guyane et retrouva son mari le 22 juillet 1770. Trois ans plus tard, ils rentrèrent en France et s’installèrent à Saint-Amand-Montrond. Son incroyable traversée témoigne d’une foi inébranlable et d’un courage extraordinaire.",
-    "miracles": [],
-    "works": ["Témoignage de foi et d’endurance dans l’épreuve"],
-    "quotes": ["Je confie tout à la Providence divine."] ,
-    "prayers": []},
+  "sainte-leonie-aviat": { 
+  "id": "sainte-leonie-aviat",
+  "name": "Sainte Léonie Aviat",
+  "virtues": ["charite", "devouement", "service", "foi"],
+  "period": "19e-20e siècle",
+  "country": "France",
+  "type": "fondatrice religieuse",
+  "birthDate": "1844",
+  "deathDate": "1914",
+  "feastDay": "10 janvier",
+  "image": "/images/saints/leonie-aviat.jpg",
+  "shortDescription": "Religieuse française, fondatrice des Oblates de Saint-François de Sales, dédiée à la jeunesse ouvrière et à l’éducation chrétienne.",
+
+  "biography": {
+    "enfance-et-vocation": "Née en 1844 à Sézanne, Léonie Aviat fut marquée dès l’enfance par la spiritualité salésienne et par une profonde attention envers les plus fragiles.",
+    "fondation-des-oblates": "Avec l’abbé Louis Brisson, elle fonda un foyer pour jeunes ouvrières, donnant naissance à la congrégation des Oblates de Saint-François de Sales, centrée sur l’éducation et la dignité des jeunes filles.",
+    "superieure-generale": "En 1872, elle prit le nom de sœur Françoise de Sales et devint supérieure générale, guidant une congrégation en plein essor en France et à l’étranger.",
+    "persecutions-et-exil": "Au début du XXe siècle, les lois antireligieuses de la Troisième République entraînèrent la fermeture des maisons et l’exil de la communauté. Léonie mena alors les religieuses en Italie, à Pérouse.",
+    "mort-et-canonisation": "Elle mourut à Pérouse le 10 janvier 1914. Elle fut canonisée en 2001 par le pape Jean-Paul II."
+  } },
+
+ "isabelle-godin": {
+  "id": "isabelle-godin",
+  "name": "Isabelle Godin des Odonais",
+  "virtues": ["foi", "courage", "esperance", "perseverance"],
+  "period": "18e siècle",
+  "country": "Équateur / France",
+  "type": "laïque missionnaire",
+  "birthDate": "1728",
+  "deathDate": "1792",
+  "feastDay": "",
+  "image": "/images/saints/isabelle-godin.jpg",
+  "shortDescription": "Femme de foi et d’endurance, elle traversa seule l’Amazonie pendant plusieurs semaines, confiant sa survie à la Providence divine.",
+
+  "biography": {
+    "origines-et-formation": "Née en 1728 à Riobamba, en Équateur, Isabelle Gramon reçut une solide formation et maîtrisait plusieurs langues.",
+    "mariage-et-epreuves": "En 1743, elle épousa Jean Godin, un savant français. Lorsque son mari se retrouva bloqué en Guyane, elle demeura vingt ans en Équateur, affrontant des épreuves terribles dont la perte de plusieurs enfants.",
+    "decision-du-voyage": "En 1769, elle décida de rejoindre son mari en descendant l’Amazone, confiant ce voyage périlleux à la Vierge Marie.",
+    "traversee-de-lamazonie": "Après la mort ou la fuite de tous ses compagnons, Isabelle continua seule dans la jungle, survivant grâce à la prière, la foi et son courage.",
+    "secours-et-retrouvailles": "Secourue par deux autochtones, elle atteignit enfin la Guyane et retrouva son mari le 22 juillet 1770.",
+    "retour-en-france": "Trois ans plus tard, le couple rentra en France et s’installa à Saint-Amand-Montrond.",
+    "heritage": "Son incroyable traversée demeure l’un des récits les plus impressionnants de foi et de ténacité au XVIIIe siècle."
+  }
+}
+,
   "hrosvita-de-gandersheim": {
-    "id": "hrosvita-de-gandersheim",
-    "name": "Hrosvita de Gandersheim",
-    "virtues": ["sagesse", "purete", "creativite", "foi"],
-    "period": "10e siècle",
-    "country": "Sainte Empire Romain Germanique",
-    "type": "chanoinesse et écrivaine",
-    "birthDate": "vers 935",
-    "deathDate": "vers 1002",
-    "feastDay": "",
-    "image": "/images/saints/hrosvita.jpg",
-    "shortDescription": "Religieuse saxonne et première dramaturge chrétienne connue, elle utilisa le théâtre pour transmettre la foi et la vertu.",
-    "biography": "Née vers 935, probablement en Saxe, Hrosvita (ou Roswitha) entra très jeune comme chanoinesse au prestigieux monastère de Gandersheim, soutenu par les empereurs ottoniens et doté d’une vaste bibliothèque. Elle y écrivit des poèmes hagiographiques célébrant la sainteté et la foi, ainsi que six comédies inspirées de l’auteur antique Térence. Elle transforma les intrigues païennes en histoires chrétiennes exaltant la chasteté, la foi et la victoire de la grâce sur le désir. Par son œuvre, Hrosvita chercha à opposer à la culture païenne un idéal de vertu et de dignité chrétienne. Elle mourut vers l’an 1002 au monastère de Gandersheim.",
-    "miracles": [],
-    "works": ["Comédies chrétiennes", "Poèmes hagiographiques", "Hymnes et écrits spirituels"],
-    "quotes": ["Je chante la victoire du Christ sur le monde."] ,
-    "prayers": []},
-  "sainte-mathilde": {
-    "id": "sainte-mathilde",
-    "name": "Sainte Mathilde",
-    "virtues": ["charite", "piete", "pardon", "humilite"],
-    "period": "9e-10e siècle",
-    "country": "Germanie",
-    "type": "reine et fondatrice",
-    "birthDate": "vers 895",
-    "deathDate": "968",
-    "feastDay": "14 mars",
-    "image": "/images/saints/mathilde.jpg",
-    "shortDescription": "Reine d’Allemagne, mère d’Otton le Grand, elle fut célèbre pour sa charité et la fondation de nombreux monastères.",
-    "biography": "Fille du comte saxon Théodoric, Mathilde naquit vers 895 et fut élevée au couvent d’Erfurt, en Thuringe. Mariée à Henri, futur roi de Germanie, elle mena une vie de foi et de justice, élevant cinq enfants, dont Otton le Grand. Devenue veuve, elle consacra ses richesses aux pauvres et fonda plusieurs monastères. Accusée par ses fils de dilapider le trésor royal, elle fut dépouillée de ses biens, mais pardonna et pria pour eux. Réconciliée avec sa famille, elle poursuivit son œuvre charitable. Elle mourut à l’abbaye de Quedlinbourg, qu’elle avait fondée en mémoire de son époux, le 14 mars 968. Modèle de foi et de douceur, elle fut honorée comme sainte dès le Moyen Âge.",
-    "miracles": ["Guérisons près de son tombeau", "Protection des familles chrétiennes"],
-    "works": ["Fondation de l’abbaye de Quedlinbourg", "Aide aux pauvres et aux veuves"],
-    "quotes": ["Je veux répondre au mal par la charité."],
-    "prayers": ["Prière pour les familles et les veuves"]
-  },
+  "id": "hrosvita-de-gandersheim",
+  "name": "Hrosvita de Gandersheim",
+  "virtues": ["sagesse", "purete", "creativite", "foi"],
+  "period": "10e siècle",
+  "country": "Sainte Empire Romain Germanique",
+  "type": "chanoinesse et écrivaine",
+  "birthDate": "vers 935",
+  "deathDate": "vers 1002",
+  "feastDay": "",
+  "image": "/images/saints/hrosvita.jpg",
+  "shortDescription": "Religieuse saxonne et première dramaturge chrétienne connue, elle utilisa le théâtre pour transmettre la foi et la vertu.",
+
+  "biography": {
+    "origine-et-formation": "Née vers 935, probablement en Saxe, Hrosvita entra très jeune comme chanoinesse au prestigieux monastère de Gandersheim, doté d’une grande bibliothèque.",
+    "oeuvres-hagiographiques": "Elle écrivit des poèmes hagiographiques célébrant la sainteté, la foi et la victoire de la grâce.",
+    "comédies-chretiennes": "Inspirée du dramaturge antique Térence, elle composa six comédies en transformant les intrigues païennes en récits exaltant la chasteté et la vertu chrétienne.",
+    "vision-chretienne": "Par son théâtre et sa poésie, Hrosvita proposa une alternative morale et spirituelle à la culture littéraire païenne.",
+    "fin-de-vie": "Elle mourut vers l’an 1002 au monastère de Gandersheim, laissant une œuvre fondatrice pour la littérature chrétienne."
+  }
+}
+,
+ "sainte-mathilde": {
+  "id": "sainte-mathilde",
+  "name": "Sainte Mathilde",
+  "virtues": ["charite", "piete", "pardon", "humilite"],
+  "period": "9e-10e siècle",
+  "country": "Germanie",
+  "type": "reine et fondatrice",
+  "birthDate": "vers 895",
+  "deathDate": "968",
+  "feastDay": "14 mars",
+  "image": "/images/saints/mathilde.jpg",
+  "shortDescription": "Reine d’Allemagne, mère d’Otton le Grand, elle fut célèbre pour sa charité et la fondation de nombreux monastères.",
+"biography": {
+  "origine-et-enfance": "Fille du comte saxon Théodoric, Mathilde naquit vers 895 et fut élevée au couvent d’Erfurt, en Thuringe.",
+  "mariage-et-vie-de-reine": "Mariée à Henri, futur roi de Germanie, elle mena une vie de foi et de justice, élevant cinq enfants, dont Otton le Grand.",
+  "veuvage-et-charite": "Devenue veuve, elle consacra ses richesses aux pauvres et fonda plusieurs monastères.",
+  "epreuves-familiales": "Accusée par ses fils de dilapider le trésor royal, elle fut dépouillée de ses biens, mais pardonna et pria pour eux.",
+  "reconciliation-et-fin-de-vie": "Réconciliée avec sa famille, elle poursuivit son œuvre charitable. Elle mourut à l’abbaye de Quedlinbourg, qu’elle avait fondée en mémoire de son époux, le 14 mars 968."
+}
+}
+,
 
    "sainte-fabiola": {
     "id": "sainte-fabiola",
@@ -332,12 +459,14 @@
     "feastDay": "27 décembre",
     "image": "/images/saints/fabiola.jpg",
     "shortDescription": "Noble romaine convertie, elle fonda le premier hôpital chrétien d’Occident et consacra sa vie au service des malades et des pauvres.",
-    "biography": "Issue de la noble gens Fabia, Fabiola vécut au 4e siècle à Rome. Mariée à un homme violent, elle obtint le divorce et se remaria, ce qui fut considéré comme une faute. Devenue veuve, elle fit pénitence publique à la basilique Saint-Jean de Latran, vêtue de cendres et d’un cilice, et reçut l’absolution du pape. Sous l’influence de saint Jérôme, elle consacra sa fortune aux œuvres de miséricorde. Elle fonda à Rome le premier grand hôpital chrétien d’Occident, où elle servait personnellement les malades, y compris les lépreux. En 395, elle fit pèlerinage en Terre sainte et séjourna à Bethléem auprès de saint Jérôme et de sainte Paule. De retour à Rome, elle continua sa vie de charité jusqu’à sa mort en 399.",
-    "miracles": [],
-    "works": ["Fondation du premier hôpital chrétien de Rome", "Soutien à saint Jérôme et à sainte Paule"],
-    "quotes": ["La pénitence m’a rendu la paix de Dieu."],
-    "prayers": ["Prière pour la miséricorde et la conversion"]
-  },
+  "biography": {
+  "origine-et-vie-familiale": "Issue de la noble gens Fabia, Fabiola vécut au 4e siècle à Rome. Mariée à un homme violent, elle obtint le divorce et se remaria, ce qui fut considéré comme une faute.",
+  "penitence-et-conversion": "Devenue veuve, elle fit pénitence publique à la basilique Saint-Jean de Latran, vêtue de cendres et d’un cilice, et reçut l’absolution du pape.",
+  "vie-de-service-et-fondations": "Sous l’influence de saint Jérôme, elle consacra sa fortune aux œuvres de miséricorde. Elle fonda à Rome le premier grand hôpital chrétien d’Occident, où elle servait personnellement les malades, y compris les lépreux.",
+  "pelerinage-en-terre-sainte": "En 395, elle fit pèlerinage en Terre sainte et séjourna à Bethléem auprès de saint Jérôme et de sainte Paule.",
+  "retour-a-rome-et-mort": "De retour à Rome, elle continua sa vie de charité jusqu’à sa mort en 399."
+}
+},
   "herade-de-landsberg": {
     "id": "herrade-de-landsberg",
     "name": "Herrade de Landsberg",
@@ -350,11 +479,14 @@
     "feastDay": "",
     "image": "/images/saints/herade.jpg",
     "shortDescription": "Abbesse bénédictine, auteure du célèbre Jardin des Délices, une encyclopédie illustrée alliant foi et savoir.",
-    "biography": "Née en 1130 en Alsace, Hérade (ou Herrade) entra très jeune au monastère de Hohenbourg, aussi appelé Mont Sainte-Odile. À 37 ans, elle en devint abbesse et se dévoua à l’éducation intellectuelle et spirituelle de ses religieuses. Elle composa pour elles une œuvre monumentale : le Jardin des Délices (Hortus deliciarum), une encyclopédie chrétienne illustrée en latin. Elle y réunit la théologie, la philosophie, les sciences, la nature et la poésie, s’inspirant autant de la Bible que des Pères de l’Église et des penseurs antiques. Son œuvre témoigne de la conviction que foi et raison ne s’opposent pas, mais se complètent. Hérade mourut vers 1195, laissant une trace durable dans la culture monastique médiévale.",
-    "miracles": [],
-    "works": ["Le Jardin des Délices", "Poésies et hymnes latins"],
-    "quotes": ["Foi et raison sont les deux ailes de la sagesse."],
-    "prayers": [] },
+   "biography": {
+  "origine-et-entree-au-monastere": "Née en 1130 en Alsace, Hérade (ou Herrade) entra très jeune au monastère de Hohenbourg, aussi appelé Mont Sainte-Odile.",
+  "abbesse-et-formation-des-religieuses": "À 37 ans, elle en devint abbesse et se dévoua à l’éducation intellectuelle et spirituelle de ses religieuses.",
+  "oeuvre-littéraire-et-encyclopedique": "Elle composa pour elles une œuvre monumentale : le Jardin des Délices (Hortus deliciarum), une encyclopédie chrétienne illustrée en latin. Elle y réunit la théologie, la philosophie, les sciences, la nature et la poésie, s’inspirant autant de la Bible que des Pères de l’Église et des penseurs antiques.",
+  "vision-spirituelle-et-intellectuelle": "Son œuvre témoigne de la conviction que foi et raison ne s’opposent pas, mais se complètent.",
+  "mort-et-heritage": "Hérade mourut vers 1195, laissant une trace durable dans la culture monastique médiévale."
+}
+},
   "maria-escobar": {
     "id": "maria-escobar",
     "name": "Maria Escobar",
@@ -367,12 +499,13 @@
     "feastDay": "",
     "image": "/images/saints/maria-escobar.jpg",
     "shortDescription": "Espagnole installée au Pérou, elle introduisit la culture du blé en Amérique du Sud et soutint la fondation de la première église de Lima.",
-    "biography": "Née en Espagne au début du 16e siècle, Maria Escobar rejoignit le Nouveau Monde avec son mari et s’installa dans la vice-royauté du Pérou. Elle apporta avec elle des graines de blé et d’orge, qu’elle fit pousser avec succès près de Lima — permettant la première production de farine et de pain en Amérique du Sud. En 1542, elle finança la construction du grand autel de la première église de la Merced à Lima, au cœur de la ville. En reconnaissance, elle reçut le privilège d’y être enterrée. Sa vie témoigne d’une foi active et d’un esprit pionnier au service de Dieu et de la communauté.",
-    "miracles": [],
-    "works": ["Introduction du blé en Amérique du Sud", "Construction de l’église de la Merced à Lima"],
-    "quotes": ["Toute semence bénie porte son fruit."],
-    "prayers": []
-  },
+  "biography": {
+  "origine-et-arrivee-au-nouveau-monde": "Née en Espagne au début du 16e siècle, Maria Escobar rejoignit le Nouveau Monde avec son mari et s’installa dans la vice-royauté du Pérou.",
+  "introduction-des-cereales": "Elle apporta avec elle des graines de blé et d’orge, qu’elle fit pousser avec succès près de Lima — permettant la première production de farine et de pain en Amérique du Sud.",
+  "oeuvres-et-engagement-religieux": "En 1542, elle finança la construction du grand autel de la première église de la Merced à Lima, au cœur de la ville. En reconnaissance, elle reçut le privilège d’y être enterrée.",
+  "heritage-et-temoignage": "Sa vie témoigne d’une foi active et d’un esprit pionnier au service de Dieu et de la communauté."
+}
+},
   "sainte-rose-philippine-duchesne": {
     "id": "sainte-rose-philippine-duchesne",
     "name": "Sainte Rose Philippine Duchesne",
@@ -385,20 +518,15 @@
     "feastDay": "18 novembre",
     "image": "/images/saints/rose-philippine-duchesne.jpg",
     "shortDescription": "Religieuse française du Sacré-Cœur, missionnaire aux États-Unis, elle fonda la première école du Sacré-Cœur en Amérique et se dévoua aux Amérindiens avec une foi infatigable.",
-    "biography": "Sainte Rose Philippine Duchesne naquit à Grenoble en 1769. Dès son enfance, elle manifesta un grand amour pour la prière et le service des pauvres. Élève au couvent de la Visitation, elle rêvait de devenir religieuse, mais son père s’y opposa et la retira de l’école. Plus tard, soutenue par sa tante, elle réalisa son rêve et entra au couvent de la Visitation. La Révolution française dispersa les communautés religieuses, mais Philippine resta fidèle à sa vocation, aidant clandestinement les prêtres et les prisonniers malgré les risques. Après la Révolution, elle rencontra sainte Madeleine-Sophie Barat et rejoignit la Société du Sacré-Cœur. Envoyée en mission aux États-Unis en 1818, elle fonda à Saint-Charles (Missouri) la première école du Sacré-Cœur sur le continent américain. Plus tard, elle rejoignit les Amérindiens Potawatomis au Kansas, où elle fut surnommée « la femme qui prie toujours ». Elle mourut en 1852, vénérée pour sa foi, sa persévérance et son amour des peuples autochtones.",
-    "miracles": [],
-    "works": [
-      "Fondation de la première école du Sacré-Cœur aux États-Unis",
-      "Mission auprès des Amérindiens Potawatomis",
-      "Soutien aux prêtres et prisonniers durant la Révolution française"
-    ],
-    "quotes": [
-      "Je désire être partout où Dieu veut que je sois.",
-      "Le travail ne m’effraie pas, mais le manque de foi me trouble."
-    ],
-    "prayers": [
-      "Sainte Rose Philippine Duchesne, modèle de foi et de courage, intercédez pour nous afin que nous restions fidèles à notre mission, quelles que soient les épreuves. Amen."
-    ]
+    "biography": {
+  "origine-et-enfance": "Sainte Rose Philippine Duchesne naquit à Grenoble en 1769. Dès son enfance, elle manifesta un grand amour pour la prière et le service des pauvres. Élève au couvent de la Visitation, elle rêvait de devenir religieuse, mais son père s’y opposa et la retira de l’école.",
+  "vocation-et-entree-en-vie-religieuse": "Plus tard, soutenue par sa tante, elle réalisa son rêve et entra au couvent de la Visitation. La Révolution française dispersa les communautés religieuses, mais Philippine resta fidèle à sa vocation, aidant clandestinement les prêtres et les prisonniers malgré les risques.",
+  "rencontre-avec-madeleine-sophie-barat": "Après la Révolution, elle rencontra sainte Madeleine-Sophie Barat et rejoignit la Société du Sacré-Cœur.",
+  "mission-aux-etats-unis": "Envoyée en mission aux États-Unis en 1818, elle fonda à Saint-Charles (Missouri) la première école du Sacré-Cœur sur le continent américain.",
+  "mission-aupres-des-amerindiens": "Plus tard, elle rejoignit les Amérindiens Potawatomis au Kansas, où elle fut surnommée « la femme qui prie toujours ».",
+  "mort-et-heritage": "Elle mourut en 1852, vénérée pour sa foi, sa persévérance et son amour des peuples autochtones."
+}
+
   },
    "sainte-rose-de-lima": {
     "id": "sainte-rose-de-lima",
@@ -412,24 +540,15 @@
     "feastDay": "23 août",
     "image": "/images/saints/rose-de-lima.jpg",
     "shortDescription": "Première sainte du continent américain, elle mena une vie de pénitence et de prière à Lima, consacrant son existence à Dieu, aux pauvres et à la réparation des péchés du monde.",
-    "biography": "Isabelle Flore de Oliva, née à Lima le 20 avril 1586, fut surnommée 'Rosa' dès son enfance après qu'une domestique remarqua la beauté lumineuse de son visage. Très jeune, elle manifesta un attrait profond pour la prière, la solitude et la mortification. À six ans, elle commença déjà à imiter les austérités des religieux, se frottant le visage de poivre pour en ternir l’éclat et se coupant les cheveux pour résister à la vanité. À onze ans, elle prononça un vœu secret de chasteté et adopta des pratiques de pénitence rigoureuses. Malgré les inquiétudes de ses parents, elle conserva un équilibre intérieur marqué par la paix et la joie spirituelle. Empêchée d’entrer dans un couvent, elle rejoignit le tiers-ordre dominicain et mena une vie religieuse laïque dans un petit ermitage au fond du jardin familial. Rosa se consacra à la prière, au jeûne et au service des pauvres et des malades, les soignant avec des remèdes simples et les réconfortant par sa foi. Elle connut de profondes extases mystiques et des visions du Christ, qu’elle unissait à sa passion. Sa maison devint un lieu de prière et de guérison pour de nombreux habitants de Lima. Elle offrit toutes ses souffrances pour la conversion des pécheurs et le bien de l’Église. Morte à 31 ans, le 24 août 1617, elle fut canonisée en 1671 par le pape Clément X, devenant la première sainte du continent américain.",
-    "miracles": [
-      "Multiplication de la nourriture pour les pauvres qu’elle accueillait",
-      "Guérisons de malades par sa prière et ses soins",
-      "Phénomènes lumineux pendant ses extases"
-    ],
-    "works": [
-      "Service des pauvres et des malades à Lima",
-      "Vie d’oraison et de pénitence dans le tiers-ordre dominicain",
-      "Témoignage spirituel ayant inspiré la foi en Amérique latine"
-    ],
-    "quotes": [
-      "Hors de la croix, il n’y a point d’autre échelle pour monter au ciel.",
-      "Quand nous souffrons quelque chose pour Dieu, les douleurs se changent en délices."
-    ],
-    "prayers": [
-      "Sainte Rose de Lima, toi qui as trouvé la joie dans la souffrance unie à celle du Christ, apprends-nous à aimer Dieu dans la simplicité, la prière et le service des plus pauvres. Amen."
-    ]
+    "biography": {
+  "naissance-et-enfance": "Isabelle Flore de Oliva, née à Lima le 20 avril 1586, fut surnommée 'Rosa' dès son enfance après qu'une domestique remarqua la beauté lumineuse de son visage. Très jeune, elle manifesta un attrait profond pour la prière, la solitude et la mortification.",
+  "premieres-pratiques-de-penitence": "À six ans, elle commença déjà à imiter les austérités des religieux, se frottant le visage de poivre pour en ternir l’éclat et se coupant les cheveux pour résister à la vanité. À onze ans, elle prononça un vœu secret de chasteté et adopta des pratiques de pénitence rigoureuses.",
+  "vie-interieure-et-appartenance-dominicaine": "Malgré les inquiétudes de ses parents, elle conserva un équilibre intérieur marqué par la paix et la joie spirituelle. Empêchée d’entrer dans un couvent, elle rejoignit le tiers-ordre dominicain et mena une vie religieuse laïque dans un petit ermitage au fond du jardin familial.",
+  "priere-service-et-vie-mystique": "Rosa se consacra à la prière, au jeûne et au service des pauvres et des malades, les soignant avec des remèdes simples et les réconfortant par sa foi. Elle connut de profondes extases mystiques et des visions du Christ, qu’elle unissait à sa passion. Sa maison devint un lieu de prière et de guérison pour de nombreux habitants de Lima.",
+  "offrande-de-sa-souffrance": "Elle offrit toutes ses souffrances pour la conversion des pécheurs et le bien de l’Église.",
+  "mort-et-canonisation": "Morte à 31 ans, le 24 août 1617, elle fut canonisée en 1671 par le pape Clément X, devenant la première sainte du continent américain."
+}
+
   },
 "sainte-josephine-bakhita": {
     "id": "sainte-josephine-bakhita",
@@ -443,23 +562,15 @@
     "feastDay": "8 février",
     "image": "/images/saints/josephine-bakhita.jpg",
     "shortDescription": "Née esclave au Soudan, libérée en Italie, elle devint religieuse canossienne et témoigna d’une foi rayonnante fondée sur le pardon et la miséricorde. Patronne des victimes de la traite humaine.",
-    "biography": "Sainte Joséphine Bakhita naquit vers 1869 dans la région du Darfour, au Soudan. Enfant, elle fut enlevée par des trafiquants d’esclaves et séparée de sa famille. Elle subit de multiples ventes et de nombreuses violences, mais conserva toujours une force intérieure étonnante. Ses ravisseurs la surnommèrent 'Bakhita', signifiant 'la chanceuse' en arabe. En 1883, elle fut achetée par le consul italien Callisto Legnani, qui la ramena en Italie. Là, elle fut confiée à la famille Micheli à Venise, où elle découvrit la bonté, le respect et la foi chrétienne grâce aux Sœurs Canossiennes. Lorsque ses maîtres voulurent la ramener au Soudan, elle refusa, et la justice italienne reconnut sa liberté, l’esclavage étant illégal en Italie. Libre, Joséphine choisit de devenir religieuse chez les Sœurs Canossiennes. Pendant plus de cinquante ans, elle servit avec joie et humilité, rayonnant de douceur et de paix. Son sourire et sa foi marquèrent profondément tous ceux qui la rencontraient. Elle mourut à Schio, en 1947, et fut canonisée en 2000 par saint Jean-Paul II. Aujourd’hui, elle est la patronne des victimes de l’esclavage et du trafic humain, symbole vivant d’espérance, de réconciliation et de liberté intérieure.",
-    "miracles": [
-      "Guérisons attribuées à son intercession après sa mort",
-      "Protection reconnue de victimes de la traite humaine grâce à ses prières"
-    ],
-    "works": [
-      "Service humble et charitable au sein des Sœurs Canossiennes",
-      "Témoignage universel de pardon et de réconciliation",
-      "Inspiration spirituelle pour les victimes de la traite humaine"
-    ],
-    "quotes": [
-      "Si je rencontrais les négriers qui m’ont enlevée et torturée, je m’agenouillerais pour leur baiser les mains, car sans eux je ne serais pas chrétienne.",
-      "Le Seigneur m’a tellement aimée : il faut aimer tout le monde, il faut pardonner !"
-    ],
-    "prayers": [
-      "Sainte Joséphine Bakhita, toi qui as connu l’esclavage et trouvé la liberté dans le Christ, intercédez pour tous ceux qui souffrent encore de la haine, de la peur et de l’injustice. Obtiens pour nous un cœur capable de pardonner et d’aimer. Amen."
-    ]
+   "biography": {
+  "naissance-et-enlevement": "Sainte Joséphine Bakhita naquit vers 1869 dans la région du Darfour, au Soudan. Enfant, elle fut enlevée par des trafiquants d’esclaves et séparée de sa famille. Elle subit de multiples ventes et de nombreuses violences, mais conserva toujours une force intérieure étonnante. Ses ravisseurs la surnommèrent 'Bakhita', signifiant 'la chanceuse' en arabe.",
+  "transfert-en-italie": "En 1883, elle fut achetée par le consul italien Callisto Legnani, qui la ramena en Italie. Là, elle fut confiée à la famille Micheli à Venise, où elle découvrit la bonté, le respect et la foi chrétienne grâce aux Sœurs Canossiennes.",
+  "recouvrement-de-la-liberte": "Lorsque ses maîtres voulurent la ramener au Soudan, elle refusa, et la justice italienne reconnut sa liberté, l’esclavage étant illégal en Italie.",
+  "entree-en-vie-religieuse": "Libre, Joséphine choisit de devenir religieuse chez les Sœurs Canossiennes. Pendant plus de cinquante ans, elle servit avec joie et humilité, rayonnant de douceur et de paix. Son sourire et sa foi marquèrent profondément tous ceux qui la rencontraient.",
+  "mort-et-canonisation": "Elle mourut à Schio, en 1947, et fut canonisée en 2000 par saint Jean-Paul II.",
+  "heritage-et-signification": "Aujourd’hui, elle est la patronne des victimes de l’esclavage et du trafic humain, symbole vivant d’espérance, de réconciliation et de liberté intérieure."
+}
+
   },
   "saint-augustin": {
   "id": "saint-augustin",
@@ -473,25 +584,15 @@
   "feastDay": "28 août",
   "image": "/images/saints/augustin.jpg",
   "shortDescription": "Évêque d’Hippone et grand docteur de l’Église, il passa d’une jeunesse tourmentée à une foi profonde. Sa conversion fut guidée par les prières de sa mère, sainte Monique. Auteur des 'Confessions' et de 'La Cité de Dieu', il est l’un des plus grands penseurs chrétiens.",
-  "biography": "Saint Augustin est né en 354 à Tagaste, dans l’actuelle Algérie. Jeune, brillant mais dissipé, il recherche le plaisir, la gloire et la réussite. Dans ses 'Confessions', il raconte avoir volé des poires uniquement pour le plaisir de faire le mal, symbole de sa jeunesse égarée. Sa mère, sainte Monique, prie sans cesse pour sa conversion. Longtemps, Augustin mène une vie mondaine et ambitieuse, préférant la philosophie païenne à la Bible qu’il juge naïve. Tout change lorsqu’il rencontre saint Ambroise, évêque de Milan. Séduit par son intelligence et sa foi, Augustin commence à douter de ses certitudes. Après une profonde lutte intérieure, il découvre que Dieu habite au plus intime de l’âme. Baptisé par Ambroise en 387, il devient prêtre, puis évêque d’Hippone. Il consacre le reste de sa vie à enseigner la foi et à écrire. Dans 'La Cité de Dieu', il oppose la cité des hommes, fondée sur l’orgueil, à la Cité de Dieu, fondée sur l’amour et la foi. Il enseigne la valeur spirituelle de la pureté et du mariage, qu’il appelle le 'bonum coniugale', un bien fondé sur la fidélité, la fécondité et l’unité. Pour lui, la chasteté, qu’elle soit vécue dans la virginité ou le mariage, exprime l’amour pur de Dieu. Il meurt en 430, laissant une œuvre immense qui inspire encore le monde entier. De jeune rebelle à grand saint, il montre que la paix se trouve dans l’écoute de la voix de Dieu en soi.",
-  "miracles": [
-    "Conversions spirituelles profondes obtenues par son intercession",
-    "Protection et guidance des chercheurs de vérité à travers ses écrits"
-  ],
-  "works": [
-    "Les Confessions",
-    "La Cité de Dieu",
-    "De la Trinité",
-    "Nombreux sermons et lettres pastorales"
-  ],
-  "quotes": [
-    "Tu nous as faits pour toi, Seigneur, et notre cœur est sans repos tant qu’il ne repose pas en toi.",
-    "Aime et fais ce que tu veux.",
-    "Mieux vaut boiter sur le bon chemin que courir sur la mauvaise route."
-  ],
-  "prayers": [
-    "Seigneur, fais que je te cherche, toi qui t’es fait connaître à moi, que je te trouve, toi qui m’as donné la foi, et que je t’aime de tout mon cœur. Saint Augustin, docteur de la grâce, prie pour nous."
-  ]
+  "biography": {
+  "naissance-et-jeunesse": "Saint Augustin est né en 354 à Tagaste, dans l’actuelle Algérie. Jeune, brillant mais dissipé, il recherche le plaisir, la gloire et la réussite. Dans ses 'Confessions', il raconte avoir volé des poires uniquement pour le plaisir de faire le mal, symbole de sa jeunesse égarée. Sa mère, sainte Monique, prie sans cesse pour sa conversion.",
+  "quete-intellectuelle-et-vie-mondaine": "Longtemps, Augustin mène une vie mondaine et ambitieuse, préférant la philosophie païenne à la Bible qu’il juge naïve.",
+  "rencontre-avec-saint-ambroise": "Tout change lorsqu’il rencontre saint Ambroise, évêque de Milan. Séduit par son intelligence et sa foi, Augustin commence à douter de ses certitudes.",
+  "lutte-interieure-et-conversion": "Après une profonde lutte intérieure, il découvre que Dieu habite au plus intime de l’âme. Baptisé par Ambroise en 387, il devient prêtre, puis évêque d’Hippone.",
+  "ministere-et-oeuvres": "Il consacre le reste de sa vie à enseigner la foi et à écrire. Dans 'La Cité de Dieu', il oppose la cité des hommes, fondée sur l’orgueil, à la Cité de Dieu, fondée sur l’amour et la foi. Il enseigne la valeur spirituelle de la pureté et du mariage, qu’il appelle le 'bonum coniugale', un bien fondé sur la fidélité, la fécondité et l’unité. Pour lui, la chasteté, qu’elle soit vécue dans la virginité ou le mariage, exprime l’amour pur de Dieu.",
+  "mort-et-heritage": "Il meurt en 430, laissant une œuvre immense qui inspire encore le monde entier. De jeune rebelle à grand saint, il montre que la paix se trouve dans l’écoute de la voix de Dieu en soi."
+}
+
 },
 
 "sainte-bernadette-soubirous": {
@@ -506,24 +607,15 @@
   "feastDay": "16 avril",
   "image": "/images/saints/bernadette-soubirous.jpg",
   "shortDescription": "Jeune fille simple et malade de Lourdes, témoin des apparitions de la Vierge Marie en 1858. Elle vécut ensuite dans l’humilité et la souffrance au couvent de Nevers. Modèle de foi, d’abandon et de pureté, elle nous rappelle que la vraie joie est en Dieu seul.",
-  "biography": "Sainte Bernadette Soubirous naît en 1844 à Lourdes, dans une famille très pauvre. Fragile et souvent malade, elle garde malgré tout une âme droite, simple et priante. En 1858, à 14 ans, elle se rend à la grotte de Massabielle avec sa sœur et une amie, où elle voit une 'belle Dame' vêtue de blanc, ceinture bleue et roses dorées sur les pieds. C’est le début des 18 apparitions de la Vierge Marie entre février et juillet. La Dame lui demande de prier pour les pécheurs et de boire à une source que Bernadette découvre en creusant la terre : c’est la source de Lourdes, symbole de purification et de guérison. La Vierge lui dit aussi : 'Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre.' Cette promesse s’accomplit dans la vie de Bernadette, marquée par la souffrance et la foi. Incomprise, interrogée, moquée parfois, elle supporte la maladie avec patience et prière. Entrée au couvent de Nevers, elle vit dans l’humilité et l’offrande de ses douleurs. Elle meurt en 1879 à 35 ans, en disant : 'Sainte Marie, Mère de Dieu, priez pour moi, pauvre pécheresse.' Son corps, resté incorrompu, repose à Nevers. Bernadette demeure un modèle d’humilité et de foi, rappelant que la vraie joie se trouve dans la fidélité à Dieu, même au cœur de la souffrance.",
-  "miracles": [
-    "Incorruptibilité de son corps, demeuré intact depuis sa mort",
-    "Guérisons miraculeuses survenues à Lourdes grâce à la source révélée par la Vierge",
-    "Conversions spirituelles profondes inspirées par son témoignage"
-  ],
-  "works": [
-    "Témoignage des apparitions de Lourdes",
-    "Vie de prière et de souffrance offerte à Dieu au couvent de Nevers"
-  ],
-  "quotes": [
-    "Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre.",
-    "Sainte Marie, Mère de Dieu, priez pour moi, pauvre pécheresse.",
-    "Je suis chargée de vous le dire, pas de vous le faire croire."
-  ],
-  "prayers": [
-    "Sainte Bernadette, toi qui as vu la Vierge Marie et cru malgré les épreuves, aide-nous à garder la foi dans la souffrance et la simplicité dans la joie. Apprends-nous à dire 'oui' à Dieu chaque jour, avec confiance et humilité. Amen."
-  ]
+ "biography": {
+  "naissance-et-enfance": "Sainte Bernadette Soubirous naît en 1844 à Lourdes, dans une famille très pauvre. Fragile et souvent malade, elle garde malgré tout une âme droite, simple et priante.",
+  "les-apparitions-de-lourdes": "En 1858, à 14 ans, elle se rend à la grotte de Massabielle avec sa sœur et une amie, où elle voit une 'belle Dame' vêtue de blanc, ceinture bleue et roses dorées sur les pieds. C’est le début des 18 apparitions de la Vierge Marie entre février et juillet. La Dame lui demande de prier pour les pécheurs et de boire à une source que Bernadette découvre en creusant la terre : c’est la source de Lourdes, symbole de purification et de guérison.",
+  "message-de-la-vierge-marie": "La Vierge lui dit aussi : 'Je ne vous promets pas de vous rendre heureuse en ce monde, mais dans l’autre.' Cette promesse s’accomplit dans la vie de Bernadette, marquée par la souffrance et la foi.",
+  "epreuves-et-foi": "Incomprise, interrogée, moquée parfois, elle supporte la maladie avec patience et prière.",
+  "vie-au-couvent-de-nevers": "Entrée au couvent de Nevers, elle vit dans l’humilité et l’offrande de ses douleurs.",
+  "mort-et-saintete": "Elle meurt en 1879 à 35 ans, en disant : 'Sainte Marie, Mère de Dieu, priez pour moi, pauvre pécheresse.' Son corps, resté incorrompu, repose à Nevers. Bernadette demeure un modèle d’humilité et de foi, rappelant que la vraie joie se trouve dans la fidélité à Dieu, même au cœur de la souffrance."
+}
+
 },
 "sainte-lucia-dos-santos": {
   "id": "sainte-lucia-dos-santos",
@@ -537,25 +629,16 @@
   "feastDay": "13 février",
   "image": "/images/saints/lucia-dos-santos.jpg",
   "shortDescription": "Voyante de Fatima, témoin des apparitions de la Vierge Marie en 1917, Sœur Lúcia consacra sa vie à faire connaître le message de prière, de pénitence et de paix confié par Marie. Carmélite à Coimbra, elle vécut presque cent ans dans le silence et la fidélité à Dieu.",
-  "biography": "Lúcia dos Santos naît le 28 mars 1907 à Aljustrel, au Portugal, dans une famille de bergers croyants. En 1917, alors qu’elle garde les moutons avec ses cousins Jacinta et Francisco Marto, la Vierge Marie leur apparaît six fois à la Cova da Iria, près de Fátima. Marie leur demande de prier le rosaire chaque jour pour la paix et la conversion des pécheurs, leur révèle la réalité du péché et du ciel, et confie trois secrets sur l’avenir de l’Église et du monde. Lors d’une apparition, la Vierge annonce : 'Jacinta et Francisco viendront bientôt au Ciel, mais toi, Lúcia, tu resteras encore quelque temps sur la terre. Jésus veut se servir de toi pour me faire connaître et aimer.' Cette prophétie s’accomplit : Jacinta et Francisco meurent jeunes, tandis que Lúcia vivra presque cent ans, portant le message de Fatima à travers le monde. Marie avait aussi averti que 'la Russie répandra ses erreurs dans le monde' si ses demandes n’étaient pas écoutées, appelant à la consécration de la Russie à son Cœur Immaculé. Le 13 octobre 1917, survient le célèbre 'miracle du soleil', vu par des dizaines de milliers de témoins. Après les apparitions, Lúcia devient religieuse chez les Sœurs de Sainte Dorothée, puis carmélite à Coimbra. Elle vit cachée, dans la prière et la fidélité, rappelant sans cesse l’appel de Marie à la conversion, au rosaire et à la paix. Elle meurt en 2005, à 97 ans, après une vie donnée à Dieu. Sœur Lúcia fut cette lampe fidèle, gardienne du message de Fatima jusqu’à la fin.",
-  "miracles": [
-    "Le miracle du soleil du 13 octobre 1917, vu par plus de 70 000 personnes",
-    "Conversions et guérisons spirituelles liées au message de Fatima",
-    "Prophéties accomplies concernant la paix, la Russie et la foi dans le monde"
-  ],
-  "works": [
-    "Diffusion du message de Fatima à travers ses écrits et témoignages",
-    "Vie de prière, de silence et de fidélité au Carmel de Coimbra",
-    "Participation spirituelle à la consécration du monde au Cœur Immaculé de Marie"
-  ],
-  "quotes": [
-    "Mon Cœur Immaculé sera ton refuge et le chemin qui te conduira jusqu’à Dieu.",
-    "Jésus veut se servir de toi pour me faire connaître et aimer.",
-    "Le rosaire est une arme puissante pour vaincre le mal et obtenir la paix."
-  ],
-  "prayers": [
-    "Sainte Lúcia de Fatima, témoin du Cœur Immaculé de Marie, aide-nous à répondre à son appel à la prière et à la conversion. Fais grandir en nous la foi, l’espérance et la paix du Christ, pour que le monde retrouve la lumière de Dieu. Amen."
-  ]
+  "biography": {
+  "naissance-et-enfance": "Lúcia dos Santos naît le 28 mars 1907 à Aljustrel, au Portugal, dans une famille de bergers croyants.",
+  "apparitions-de-fatima": "En 1917, alors qu’elle garde les moutons avec ses cousins Jacinta et Francisco Marto, la Vierge Marie leur apparaît six fois à la Cova da Iria. Marie leur demande de prier le rosaire pour la paix et la conversion des pécheurs et confie trois secrets sur l’avenir de l’Église et du monde.",
+  "message-de-marie": "La Vierge annonce : 'Jacinta et Francisco viendront bientôt au Ciel, mais toi, Lúcia, tu resteras encore quelque temps sur la terre. Jésus veut se servir de toi pour me faire connaître et aimer.' Lúcia vivra presque cent ans pour porter ce message.",
+  "miracle-du-soleil": "Le 13 octobre 1917 a lieu le célèbre 'miracle du soleil', vu par des dizaines de milliers de témoins.",
+  "vie-religieuse": "Après les apparitions, Lúcia devient religieuse chez les Sœurs de Sainte Dorothée, puis carmélite à Coimbra. Elle mène une vie de prière, de silence et de fidélité.",
+  "mission-spirituelle": "Toute sa vie, elle rappelle l'appel de Marie à la prière, au rosaire, à la pénitence et à la paix. Elle participe spirituellement à la consécration du monde au Cœur Immaculé de Marie.",
+  "mort-et-heritage": "Elle meurt en 2005 à l'âge de 97 ans, après une vie entièrement donnée à Dieu. Gardienne du message de Fatima, elle laisse un héritage spirituel immense."
+}
+
 },
 "sainte-therese-de-lisieux": {
   "id": "sainte-therese-de-lisieux",
@@ -571,27 +654,17 @@
   "feastDay": "1er octobre",
   "image": "/images/saints/therese-de-lisieux.jpg",
   "shortDescription": "Carmélite de Lisieux, Thérèse Martin a vécu une vie cachée d’amour, de simplicité et d’abandon total à Dieu. Par sa 'petite voie' de confiance et d’amour, elle enseigne que la sainteté se vit dans les gestes les plus ordinaires. Docteur de l’Église, elle est un modèle universel d’amour confiant envers Dieu.",
-  "biography": "Sainte Thérèse de l’Enfant-Jésus et de la Sainte-Face, dite Thérèse de Lisieux, naît le 2 janvier 1873 à Alençon, en France. Baptisée deux jours plus tard sous le nom de Marie-Françoise-Thérèse Martin, elle est la plus jeune d’une famille chrétienne très pieuse. Son père, Louis Martin, horloger-bijoutier, et sa mère, Zélie Guérin, dentellière, furent canonisés ensemble en 2015. À la mort de sa mère en 1877, Thérèse n’a que quatre ans et demi. La famille s’installe alors à Lisieux, dans la maison des Buissonnets. C’est là qu’elle grandit entourée de l’amour de ses sœurs, mais marquée par une sensibilité extrême. Élevée chez les Bénédictines, Thérèse est bonne élève mais sujette aux scrupules et à une profonde timidité. En 1883, à dix ans, elle guérit miraculeusement d’une maladie nerveuse après avoir vu une statue de la Vierge lui sourire. En 1884, elle reçoit la première communion, puis la confirmation. Dès l’enfance, elle désire ardemment devenir religieuse. À 15 ans, elle obtient du pape Léon XIII la permission d’entrer au Carmel de Lisieux. Elle y entre le 9 avril 1888, prend l’habit en 1889 et prononce ses vœux en 1890. Thérèse mène au Carmel une vie cachée, simple et ardente d’amour pour Jésus. Elle développe sa spiritualité de la 'petite voie', une voie d’enfance spirituelle fondée sur la confiance totale en Dieu et l’amour dans les petites choses. En 1896, atteinte de tuberculose, elle offre ses souffrances pour les âmes et pour l’Église. Avant de mourir, elle écrit 'Histoire d’une âme', où elle livre son itinéraire spirituel. Elle meurt le 30 septembre 1897, à l’âge de 24 ans, en disant : 'Mon Dieu, je vous aime !'. Canonisée en 1925, proclamée patronne des missions et docteur de l’Église, elle demeure l’un des visages les plus lumineux de la sainteté moderne.",
-  "miracles": [
-    "Guérisons physiques et spirituelles attribuées à son intercession dans le monde entier",
-    "Pluies de roses miraculeuses reçues comme signes de sa prière",
-    "Guérison du père Roulland, missionnaire, après une prière à Thérèse"
-  ],
-  "works": [
-    "Histoire d'une âme",
-    "Lettres et poésies spirituelles",
-    "Actes et prières de confiance et d’abandon à Dieu"
-  ],
-  "quotes": [
-    "Je veux passer mon ciel à faire du bien sur la terre.",
-    "La sainteté n’est pas dans telle ou telle pratique, mais dans une disposition du cœur qui nous rend humbles et petits entre les bras de Dieu.",
-    "Ma vocation, c’est l’amour !",
-    "Je ne meurs pas, j’entre dans la vie.",
-    "Mon Dieu, je vous aime !"
-  ],
-  "prayers": [
-    "Sainte Thérèse de l’Enfant-Jésus, toi qui as trouvé dans la simplicité et la confiance le chemin de la sainteté, aide-nous à aimer Dieu dans les petites choses de chaque jour. Fais-nous découvrir la joie d’un cœur humble et abandonné à sa volonté. Intercède pour nous et répands sur le monde ta pluie de roses. Amen."
-  ]
+  "biography": {
+  "naissance-et-famille": "Sainte Thérèse de l’Enfant-Jésus et de la Sainte-Face naît le 2 janvier 1873 à Alençon, dernière d’une famille chrétienne très pieuse. Ses parents, Louis Martin et Zélie Guérin, seront canonisés en 2015.",
+  "enfance-et-sensibilite": "À la mort de sa mère en 1877, la famille s’installe à Lisieux. Thérèse grandit entourée de ses sœurs, d’un tempérament sensible et scrupuleux. Élevée chez les Bénédictines, elle est bonne élève mais très timide.",
+  "graces-et-premieres-experiences": "En 1883, elle guérit miraculeusement d’une maladie nerveuse après avoir vu une statue de la Vierge sourire. Elle fait sa première communion en 1884 puis sa confirmation.",
+  "appel-a-la-vie-religieuse": "Très jeune, elle désire devenir carmélite. À 15 ans, elle obtient du pape Léon XIII la permission d’entrer au Carmel. Elle y entre en 1888, prend l’habit en 1889 et prononce ses vœux en 1890.",
+  "vie-au-carmel": "Thérèse mène une vie cachée et simple, entièrement dédiée à l’amour de Jésus. Elle développe la 'petite voie', une spiritualité de confiance totale et d’amour dans les petites choses du quotidien.",
+  "souffrances-et-offrande": "En 1896, atteinte de tuberculose, elle offre toutes ses souffrances pour les âmes et pour l’Église.",
+  "ecrits-et-doctrine": "Elle rédige 'Histoire d’une âme', où elle retrace son itinéraire spirituel et enseigne sa petite voie, qui deviendra un phare pour des millions de fidèles.",
+  "mort-et-gloire": "Elle meurt le 30 septembre 1897 à 24 ans, en disant : 'Mon Dieu, je vous aime !'. Canonisée en 1925, proclamée patronne des missions et docteur de l’Église, elle reste l’un des plus grands modèles de sainteté moderne."
+}
+
 
 
 },
@@ -609,30 +682,17 @@
   "feastDay": "17 septembre",
   "image": "/images/saints/hildegarde-de-bingen.jpg",
   "shortDescription": "Mystique bénédictine du XIIe siècle, Hildegarde de Bingen fut une visionnaire, théologienne, médecin, compositrice et docteur de l’Église. Par sa sagesse, sa science et sa foi, elle unit la contemplation à l’action, voyant en la création un reflet de la lumière divine.",
-  "biography": "Sainte Hildegarde de Bingen naît vers 1098 à Bermersheim vor der Höhe, dans la région du Rhin, au sein du Saint-Empire romain germanique. Issue d’une famille noble, elle est confiée très jeune au monastère bénédictin de Disibodenberg, sous la direction de Jutte von Sponheim. Dès son enfance, elle reçoit des visions mystiques qu’elle décrira plus tard comme des 'voyages intérieurs' de l’âme. Après la mort de Jutte en 1136, Hildegarde est élue magistra, supérieure du monastère. En 1150, elle fonde le monastère du Rupertsberg près de Bingen, puis en 1165 une nouvelle communauté à Eibingen. Elle écrit, compose, soigne, correspond avec papes, évêques et empereurs, et prêche même publiquement. Elle laisse une œuvre monumentale : ses écrits visionnaires comme le 'Scivias', le 'Liber Vitae Meritorum' et le 'Liber Divinorum Operum' décrivent ses révélations sur la création, la rédemption et la gloire de Dieu. Ses talents s’étendent à la musique — elle compose des hymnes d’une grande beauté — ainsi qu’à la médecine et à la botanique. Dans ses traités 'Physica' et 'Causae et Curae', elle développe une approche holistique de la santé fondée sur l’équilibre entre le corps, l’âme et la nature. Elle y introduit la notion de 'viriditas', la force vitale verte qui anime toute la création. Pour elle, guérir, c’est restaurer cette verdure divine dans l’être humain. Hildegarde préconise des remèdes naturels, des régimes équilibrés et une vie spirituelle unie à la prière. Ses écrits médicaux et spirituels eurent une influence durable, faisant d’elle une pionnière de la médecine naturelle européenne. Décédée le 17 septembre 1179 à Bingen, elle fut canonisée et proclamée docteur de l’Église par Benoît XVI en 2012. On l’appelle souvent 'la Sibylle du Rhin', symbole d’une sagesse féminine éclairée par la lumière de Dieu.",
-  "miracles": [
-    "Visions mystiques reconnues par l’Église, sources de guidance spirituelle",
-    "Guérisons attribuées à ses remèdes naturels et prières",
-    "Conversions suscitées par sa parole et ses lettres de conseil"
-  ],
-  "works": [
-    "Scivias (Connais les voies)",
-    "Liber Vitae Meritorum (Le Livre des mérites de la vie)",
-    "Liber Divinorum Operum (Le Livre des œuvres divines)",
-    "Physica (Liber Simplicis Medicinae)",
-    "Causae et Curae (Les Causes et les Remèdes)",
-    "Symphonia armonie celestium revelationum (œuvres musicales sacrées)"
-  ],
-  "quotes": [
-    "L’homme doit vivre en harmonie avec la nature, car Dieu est dans toutes ses créatures.",
-    "L’âme est une étincelle de la lumière divine, appelée à rayonner dans le monde.",
-    "Il y a une force verte, viriditas, dans tout ce qui vit ; elle vient de Dieu.",
-    "La musique est l’écho du souffle divin dans la création.",
-    "La santé du corps dépend de la paix de l’âme."
-  ],
-  "prayers": [
-    "Sainte Hildegarde, toi qui as contemplé la lumière vivante de Dieu et reconnu sa présence dans toute la création, enseigne-nous la sagesse du cœur et la paix intérieure. Aide-nous à retrouver l’harmonie entre le corps, l’âme et la nature, pour que la viriditas de Dieu refleurisse en nous. Amen."
-  ]
+  "biography": {
+  "naissance-et-enfance": "Hildegarde naît vers 1098 à Bermersheim vor der Höhe, dans la vallée du Rhin, au sein d’une famille noble. Enfant fragile mais dotée de dons spirituels précoces, elle reçoit dès son jeune âge des visions mystiques.",
+  "entree-au-monastere": "Très jeune, elle est confiée au monastère bénédictin de Disibodenberg, sous la guidance de Jutte von Sponheim. Elle y grandit dans la prière, l’étude et la contemplation.",
+  "visions-et-appel-spirituel": "Depuis l’enfance, Hildegarde reçoit des visions qu'elle décrit comme des illuminations intérieures. Ces expériences mystiques deviendront le cœur de son œuvre théologique.",
+  "direction-et-fondations": "À la mort de Jutte en 1136, Hildegarde est élue magistra du monastère. En 1150, elle fonde son propre monastère au Rupertsberg, puis en 1165 un second à Eibingen, où elle forme une communauté florissante.",
+  "oeuvre-theologique-et-visionnaire": "Elle rédige des ouvrages monumentaux comme le 'Scivias', le 'Liber Vitae Meritorum' et le 'Liber Divinorum Operum', où elle expose ses visions sur la création, la sagesse divine et la destinée humaine.",
+  "musique-et-medicina-hildegardiana": "Compositrice prolifique, elle laisse des hymnes et chants sacrés d’une grande intensité. Dans ses traités 'Physica' et 'Causae et Curae', elle développe une approche holistique de la santé fondée sur l’équilibre des forces vitales, notamment la 'viriditas', la force verte de Dieu dans la nature.",
+  "rayonnement-public": "Elle correspond avec papes, évêques, rois et empereurs, et prêche même publiquement, une rareté pour une femme du XIIe siècle. Son influence spirituelle et intellectuelle marque tout l’Occident chrétien.",
+  "mort-et-heritage": "Hildegarde meurt le 17 septembre 1179 au Rupertsberg. Canonisée et proclamée docteur de l’Église en 2012, elle reste l’une des figures féminines les plus lumineuses et polyvalentes du Moyen Âge, appelée 'la Sibylle du Rhin'."
+}
+
 },
 "sainte-catherine-de-sienne": {
   "id": "sainte-catherine-de-sienne",
@@ -648,28 +708,25 @@
   "feastDay": "29 avril",
  "image": "/images/saints/catherine-de-sienne.jpg",
   "shortDescription": "Mystique dominicaine et personnage politique, Catherine de Sienne allia contemplation et engagement. Par sa prière, ses lettres et son courage, elle œuvra pour la paix, la réforme de l’Église et le retour du pape à Rome. Docteur de l’Église et co-patronne de l’Europe, elle demeure un modèle de foi et de leadership spirituel.",
-  "biography": "Sainte Catherine de Sienne, née Caterina di Jacopo di Benincasa le 25 mars 1347 à Sienne, en Toscane, dans une famille de tisserands, manifesta dès l’enfance un profond attrait pour Dieu. À sept ans, elle eut une vision du Christ entouré des Apôtres, expérience fondatrice de sa vocation. Contre la volonté de ses parents, elle fit vœu de virginité et refusa le mariage. En 1363, elle rejoignit la tierce ordre dominicaine, les 'Mantellates', tout en vivant chez elle une vie de prière, de pénitence et de service envers les malades et les pauvres. Sa vie spirituelle intense s’accompagna d’un engagement actif : elle visita les prisonniers, consola les mourants et intervint dans les affaires publiques avec une rare audace. Elle écrivit près de 380 lettres adressées à des papes, des rois et des autorités, plaidant pour la réforme, la paix et l’unité de l’Église. Son œuvre majeure, 'Le Dialogue de la divine Providence', exprime sa relation intime avec Dieu et sa vision d’une Église purifiée par l’amour. Catherine ne craignit pas de s’impliquer dans la politique : lors du grand schisme et de la papauté d’Avignon, elle exhorta le pape Grégoire XI à revenir à Rome, ce qu’il fit en 1376. Elle œuvra aussi comme médiatrice entre cités rivales, notamment à Pise. Animée d’un profond amour de l’Église, elle répétait que la charité devait guider toute réforme. Morte le 29 avril 1380 à Rome à l’âge de 33 ans, elle fut canonisée en 1461 par Pie II, proclamée Docteur de l’Église en 1970 par Paul VI et co-patronne de l’Europe en 1999 par Jean-Paul II. Son message, d’une actualité toujours vive, invite à unir contemplation et action, prière et responsabilité, humilité et courage prophétique.",
-  "miracles": [
-    "Guérisons spirituelles et corporelles attribuées à ses prières",
-    "Vision du Christ et réception mystique des stigmates invisibles",
-    "Conversions profondes suscitées par sa parole et ses lettres"
-  ],
-  "works": [
-    "Le Dialogue de la divine Providence",
-    "Lettres spirituelles (plus de 380)",
-    "Prières et exhortations aux dirigeants et au clergé"
-  ],
-  "quotes": [
-    "Soyez ce que Dieu veut que vous soyez, et vous mettrez le feu au monde.",
-    "L’amour n’est pas aimé !",
-    "Dieu est fou d’amour pour sa créature.",
-    "La paix se fait par la guerre intérieure contre nos passions, et non par la fuite.",
-    "Ce n’est pas par la guerre que l’on réforme l’Église, mais par la sainteté."
-  ],
-  "prayers": [
-    "Sainte Catherine de Sienne, toi qui as aimé l’Église avec une passion brûlante, apprends-nous à servir Dieu dans la vérité et la charité. Donne-nous ton courage pour parler avec sagesse, ton humilité pour obéir à la volonté divine, et ta force pour travailler à la paix et à l’unité. Amen."
-  ]
+  "biography": {
+  "naissance-et-enfance": "Catherine de Sienne naît le 25 mars 1347 à Sienne, en Toscane, dans une famille de tisserands. Dès l’enfance, elle manifeste un attrait profond pour Dieu et, à sept ans, reçoit une vision du Christ entouré des Apôtres, événement fondateur de sa vocation.",
+  "vocation-et-choix-de-vie": "Contre la volonté de ses parents, elle fait vœu de virginité et refuse le mariage. En 1363, elle rejoint la tierce ordre dominicaine, les Mantellates, tout en restant chez elle. Elle y mène une vie de prière, de pénitence et de service des pauvres et des malades.",
+  "vie-spirituelle-et-service": "Sa relation avec Dieu s’intensifie dans la contemplation et l’ascèse. Catherine visite les prisonniers, console les mourants et se dévoue aux plus démunis. Elle se distingue par une charité ardente et une capacité unique à réconcilier les âmes.",
+  "engagement-dans-l-eglise-et-la-politique": "Par ses conseils spirituels et ses interventions publiques, elle exerce une influence considérable. Elle écrit près de 380 lettres à des papes, rois et dirigeants, plaidant pour la paix, la réforme de l’Église et l’unité du peuple chrétien.",
+  "oeuvres-ecrites-et-experience-mystique": "Son œuvre majeure, 'Le Dialogue de la divine Providence', exprime sa relation intime avec Dieu, sa vision de la sainteté et sa conception de l’Église purifiée dans l’amour. Sa vie est marquée par des phénomènes mystiques, dont les stigmates invisibles.",
+  "role-diplomatique-et-impact-historique": "Avec audace, elle exhorte le pape Grégoire XI à revenir de Rome en 1376, contribuant à mettre fin à la période de la papauté d’Avignon. Elle agit également comme médiatrice lors de conflits entre cités italiennes.",
+  "fin-de-vie": "Dévorée par l’amour de l’Église et épuisée par ses missions, elle meurt le 29 avril 1380 à Rome à l’âge de 33 ans. Son rayonnement spirituel continue de marquer l’Église et l’histoire.",
+  "heritage-et-titres": "Canonisée en 1461 par Pie II, proclamée Docteur de l’Église en 1970 par Paul VI et co-patronne de l’Europe en 1999 par Jean-Paul II, elle demeure un modèle d’unité entre contemplation et action, humilité et courage prophétique."
+}
+
 },
+
+
+
+
+
+
+
 "sainte-therese-d-avila": {
   "id": "sainte-therese-d-avila",
   "name": "Sainte Thérèse d’Ávila",
@@ -684,26 +741,20 @@
   "feastDay": "15 octobre",
   "image": "/images/saints/therese-d-avila.jpg",
   "shortDescription": "Mystique espagnole et grande réformatrice du Carmel, Thérèse d’Ávila a uni contemplation et action. Par ses écrits, sa prière et ses fondations, elle a renouvelé la vie spirituelle de l’Église. Elle demeure un modèle de foi profonde et de courage réformateur.",
-  "biography": "Thérèse d’Ávila, née en 1515 à Ávila en Espagne, appartient à une famille noble profondément chrétienne. Très jeune, elle montre un grand attrait pour la prière et les lectures spirituelles. À 20 ans, elle entre au couvent carmélite de l’Incarnation d’Ávila, où la vie religieuse est relâchée. Après une grave maladie et une longue convalescence, elle vit une conversion intérieure décisive : sa vocation doit être centrée sur Dieu et marquée par l’austérité. Animée d’un ardent désir de réforme, elle fonde en 1562 le couvent de Saint-Joseph à Ávila, premier monastère du Carmel réformé, dans la pauvreté et la prière. Malgré les oppositions, elle fonde de nombreux couvents en Espagne (Séville, Tolède, Burgos...) et inspire la réforme masculine avec saint Jean de la Croix. Éprouvée par la maladie, la suspicion et de grandes sécheresses spirituelles, Thérèse demeure fidèle à la prière et à l’amour du Christ. Ses expériences mystiques, marquées par les extases et l’union divine, nourrissent des œuvres majeures : Le Livre de la Vie, Le Chemin de la perfection et Le Château intérieur. Dans ce dernier, elle décrit l’âme comme un château de cristal traversé par sept demeures représentant les étapes de la vie spirituelle, jusqu’à l’union totale avec Dieu. Elle meurt en 1582 à Alba de Tormes, canonisée en 1622 et proclamée Docteur de l’Église en 1970.",
-  "miracles": [
-    "Visions du Christ et de la Vierge",
-    "Extases et lévitations observées par ses sœurs",
-    "Conversions spirituelles suscitées par ses écrits et son exemple"
-  ],
-  "works": [
-    "Le Livre de la Vie",
-    "Le Chemin de la perfection",
-    "Le Château intérieur"
-  ],
-  "quotes": [
-    "Rien ne te trouble, rien ne t’effraie, tout passe, Dieu ne change pas.",
-    "La patience obtient tout ; qui possède Dieu ne manque de rien.",
-    "Dieu seul suffit.",
-    "L’oraison n’est rien d’autre qu’un commerce d’amitié où l’on s’entretient souvent seul à seul avec Celui dont on se sait aimé."
-  ],
-  "prayers": [
-    "Sainte Thérèse d’Ávila, toi qui as enseigné la voie de l’oraison et de l’union avec Dieu, aide-nous à persévérer dans la prière, à traverser les épreuves avec confiance et à vivre chaque jour dans la présence de l’Amour divin. Amen."
-  ]
+  "biography": {
+  "jeunesse-et-vocation": "Thérèse d’Ávila naît en 1515 à Ávila, en Espagne, dans une famille noble profondément chrétienne. Très jeune, elle manifeste un goût marqué pour la prière, les récits de saints et les lectures spirituelles, développant un désir précoce de se donner entièrement à Dieu.",
+  
+  "entree-au-carmel-et-conversion-interieure": "À 20 ans, elle entre au couvent carmélite de l’Incarnation d’Ávila, où la discipline est relâchée. Une grave maladie suivie d’une longue convalescence provoque en elle une profonde conversion intérieure : elle comprend que sa vocation doit être centrée sur Dieu, dans l’austérité, la prière et le détachement.",
+  
+  "debut-de-la-reforme-du-carmel": "Animée d’un ardent désir de renouveau spirituel, Thérèse entreprend la réforme du Carmel. En 1562, elle fonde le couvent de Saint-Joseph d’Ávila, premier monastère du Carmel déchaussé, dans la pauvreté, la clôture et la prière silencieuse. Les oppositions sont vives, mais elle persévère, soutenue par une forte conviction intérieure.",
+  
+  "fondations-et-collaboration-avec-jean-de-la-croix": "Au fil des années, elle fonde de nombreuses communautés réformées en Espagne, notamment à Séville, Tolède et Burgos. Sa réforme inspire également la branche masculine grâce à sa collaboration spirituelle avec saint Jean de la Croix. Ensemble, ils posent les bases d’un renouveau profond de la vie carmélitaine.",
+  
+  "epreuves-et-vie-mystique": "Malgré la maladie, les incompréhensions et de grandes sécheresses spirituelles, Thérèse demeure fidèle à l’oraison et à l’amour du Christ. Ses expériences mystiques — extases, visions et unions profondes avec Dieu — nourrissent des écrits majeurs comme Le Livre de la Vie, Le Chemin de la perfection et Le Château intérieur.",
+  
+  "mort-et-heritage": "Elle meurt en 1582 à Alba de Tormes. Canonisée en 1622, elle est proclamée Docteur de l’Église en 1970. Par sa réforme, sa doctrine spirituelle et sa vie mystique, elle demeure l’une des plus grandes figures de la spiritualité chrétienne."
+}
+
 },
 "sainte-mere-teresa": {
   "id": "sainte-mere-teresa",
@@ -719,27 +770,20 @@
   "feastDay": "5 septembre",
   "image": "/images/saints/mere-teresa.jpg",
   "shortDescription": "Fondatrice des Missionnaires de la Charité, Mère Teresa consacra sa vie aux plus pauvres parmi les pauvres. Par sa foi, sa tendresse et son humilité, elle devint un symbole universel de la compassion chrétienne et du service désintéressé.",
-  "biography": "Mère Teresa, née Anjezë Gonxhe Bojaxhiu en 1910 à Skopje (alors dans l’Empire ottoman, aujourd’hui en Macédoine du Nord), grandit dans une famille catholique albanaise profondément croyante. Très jeune, elle ressent l’appel à servir Dieu et entre à 18 ans chez les Sœurs de Lorette en Irlande, avant d’être envoyée en Inde. En 1931, elle prononce ses vœux et prend le nom de Sœur Teresa en hommage à sainte Thérèse de Lisieux. Enseignante à Calcutta, elle reçoit en 1946, lors d’un voyage en train, “l’appel dans l’appel” : Jésus lui demande de quitter le couvent pour servir les plus pauvres parmi les pauvres. En 1950, elle fonde la Congrégation des Missionnaires de la Charité, vouée à servir “ceux qui n’ont personne pour les aimer”. Elle ouvre des foyers pour les mourants, recueille les malades, les lépreux, les orphelins et les sans-abri. Son œuvre se répand dans le monde entier. Pour elle, chaque personne, même la plus défigurée par la misère, porte le visage du Christ : “Ce que vous faites au plus petit d’entre les miens, c’est à moi que vous le faites.” Malgré de longues nuits spirituelles et un profond sentiment d’absence de Dieu, elle demeure fidèle à la charité et à la prière. En 1979, elle reçoit le prix Nobel de la paix, qu’elle accepte au nom des pauvres. Son message est clair : la paix commence dans la famille et dans le respect de toute vie. Elle meurt à Calcutta en 1997, à 87 ans, dans une immense vénération populaire. Béatifiée en 2003 par Jean-Paul II et canonisée en 2016 par le pape François, elle est aujourd’hui vénérée dans le monde entier comme sainte Teresa de Calcutta.",
-  "miracles": [
-    "Guérisons inexpliquées attribuées à son intercession, notamment la guérison d’une tumeur abdominale en Inde",
-    "Conversions spirituelles profondes suscitées par sa vie et son témoignage",
-    "Multiplication de ressources et aides matérielles pour ses œuvres de charité"
-  ],
-  "works": [
-    "Fondation des Missionnaires de la Charité (1950)",
-    "Maisons pour les mourants et orphelinats à travers le monde",
-    "Discours du prix Nobel de la paix (1979)"
-  ],
-  "quotes": [
-    "Ce n’est pas combien on fait, mais combien d’amour on met dans ce que l’on fait.",
-    "Si vous jugez les gens, vous n’avez pas le temps de les aimer.",
-    "La paix commence par un sourire.",
-    "Le plus grand destructeur de la paix aujourd’hui, c’est l’avortement.",
-    "Ce que vous faites au plus petit d’entre les miens, c’est à moi que vous le faites."
-  ],
-  "prayers": [
-    "Sainte Mère Teresa, toi qui as vu le Christ dans le visage des pauvres, apprends-nous à aimer sans compter, à servir sans chercher de récompense et à reconnaître Jésus dans chaque personne. Donne-nous un cœur humble, joyeux et compatissant. Amen."
-  ]
+  "biography": {
+  "jeunesse-et-appel-religieux": "Mère Teresa, née Anjezë Gonxhe Bojaxhiu en 1910 à Skopje, grandit dans une famille catholique albanaise profondément croyante. Dès son enfance, elle ressent l’appel à servir Dieu et les plus pauvres. À 18 ans, elle entre chez les Sœurs de Lorette en Irlande avant d’être envoyée en Inde.",
+  
+  "vie-chez-les-soeurs-de-lorette-et-premiers-engagements": "En 1931, elle prononce ses vœux et prend le nom de Sœur Teresa en hommage à sainte Thérèse de Lisieux. Enseignante dans un collège de Calcutta, elle se dévoue à l’éducation des jeunes filles indiennes. Sa vie prend un tournant décisif en 1946 lorsqu’elle reçoit, dans un train, “l’appel dans l’appel” : Jésus lui demande de quitter le couvent pour servir les plus pauvres parmi les pauvres.",
+  
+  "fondation-des-missionnaires-de-la-charite": "En 1950, après avoir quitté les Sœurs de Lorette et obtenu l’autorisation de l’Église, elle fonde la Congrégation des Missionnaires de la Charité. Celle-ci se consacre au service de ceux qui “n’ont personne pour les aimer”. Elle ouvre des foyers pour les mourants, recueille les malades, les lépreux, les orphelins et soutient les plus démunis. Son œuvre connaît un rayonnement mondial.",
+  
+  "spiritualite-et-nuits-de-la-foi": "Pour Mère Teresa, chaque personne, même la plus abandonnée, porte le visage du Christ. Elle répète souvent : “Ce que vous faites au plus petit d’entre les miens, c’est à moi que vous le faites.” Malgré une longue période de sécheresse spirituelle et un profond sentiment d’absence de Dieu — qu’elle confie à son directeur spirituel — elle demeure fidèle à la charité, à la prière et au service humble.",
+  
+  "reconnaissance-internationale": "En 1979, elle reçoit le prix Nobel de la paix, qu’elle accepte au nom des pauvres. Elle y rappelle que la paix commence dans la famille, dans le pardon et dans le respect de toute vie humaine, en particulier la plus fragile.",
+  
+  "mort-et-heritage": "Elle meurt à Calcutta en 1997 à l’âge de 87 ans, entourée d’une immense vénération populaire. Béatifiée en 2003 par Jean-Paul II puis canonisée en 2016 par le pape François, elle est aujourd’hui honorée dans le monde entier comme sainte Teresa de Calcutta, modèle de compassion, de service et d’amour pour les plus pauvres."
+}
+
 },
 "saint-jean-de-la-croix": {
   "id": "saint-jean-de-la-croix",
@@ -755,28 +799,20 @@
   "feastDay": "14 décembre",
   "image": "/images/saints/jean-de-la-croix.jpg",
   "shortDescription": "Mystique et réformateur du Carmel, Jean de la Croix est l’un des grands docteurs de la vie spirituelle. Son enseignement sur la ‘nuit obscure’ et l’union à Dieu fait de lui un guide pour les âmes en quête de pureté et de lumière divine.",
-  "biography": "Jean de la Croix, né Juan de Yepes y Álvarez le 24 juin 1542 à Fontiveros (province d’Ávila, Espagne), grandit dans une famille pauvre et éprouvée : son père, Gonzalo, est rejeté par les siens pour avoir épousé Catalina, de condition modeste, et meurt alors que Jean est encore enfant. Sa mère, courageuse, élève seule ses enfants et doit souvent déménager pour survivre. Dans sa jeunesse, Jean étudie dans une école pour enfants pauvres et travaille dans un hôpital. De 1559 à 1563, il reçoit une formation humaniste auprès des Jésuites. En 1563, il entre chez les Carmes à Medina del Campo et reçoit l’habit religieux. Ordonné prêtre en 1567, il rencontre sainte Thérèse d’Ávila, qui le pousse à s’engager dans la réforme du Carmel vers une vie plus austère et contemplative, donnant naissance au Carmel Déchaussé. Cette réforme provoque de fortes oppositions : en 1577, il est arrêté et emprisonné dans un couvent de Tolède, dans des conditions très dures. Pendant cette captivité, il compose plusieurs de ses poèmes mystiques majeurs, méditant sur la souffrance, la foi et la lumière divine. Libéré, il poursuit la réforme et fonde plusieurs maisons du Carmel réformé. Jean meurt à Úbeda, en Andalousie, le 14 décembre 1591, à 49 ans. Canonisé en 1726 par le pape Benoît XIII, il est proclamé Docteur de l’Église en 1926 par Pie XI. Poète et mystique, Jean de la Croix enseigne que l’âme s’élève vers Dieu à travers la purification, la foi nue et l’amour pur. Ses écrits, empreints de beauté poétique et de profondeur théologique, demeurent une référence majeure de la spiritualité chrétienne.",
-  "miracles": [
-    "Guérisons et conversions spirituelles attribuées à son intercession",
-    "Protection miraculeuse de religieux carmes pendant des périodes de persécution",
-    "Inspiration mystique profonde donnée à d’innombrables âmes en quête d’union divine"
-  ],
-  "works": [
-    "La Nuit obscure de l’âme (Noche oscura del alma)",
-    "La Montée du Carmel (Subida del Monte Carmelo)",
-    "Le Cantique spirituel (Cántico espiritual)",
-    "La Vive Flamme d’amour (Llama de amor viva)"
-  ],
-  "quotes": [
-    "Pour venir à goûter tout, ne veuille goûter quelque chose. Pour venir à posséder tout, ne veuille posséder quelque chose.",
-    "Au soir de la vie, tu seras jugé sur l’amour.",
-    "Le silence est la langue de Dieu, tout le reste n’est qu’une pauvre traduction.",
-    "Celui qui fuit toute joie créée trouve en Dieu la joie parfaite.",
-    "L’âme qui veut arriver à tout doit renoncer à tout."
-  ],
-  "prayers": [
-    "Saint Jean de la Croix, guide des âmes vers la lumière divine, toi qui as traversé la nuit obscure avec foi et amour, enseigne-nous à chercher Dieu au-delà de toute consolation. Obtiens-nous la grâce d’un cœur pur, détaché et brûlant du feu de l’Esprit. Amen."
-  ]
+  "biography": {
+  "jeunesse-et-formation": "Jean de la Croix, né Juan de Yepes y Álvarez en 1542 à Fontiveros, grandit dans une famille pauvre et marquée par l’adversité. Son père meurt alors qu’il est encore enfant, laissant sa mère Catalina élever seule ses fils. Jean étudie dans une école pour enfants pauvres, travaille dans un hôpital et reçoit une solide formation humaniste chez les Jésuites entre 1559 et 1563.",
+  
+  "entree-au-carmel-et-ordination": "En 1563, il entre chez les Carmes à Medina del Campo où il reçoit l’habit religieux. Ordonné prêtre en 1567, il envisage un temps de rejoindre les Chartreux, mais sa rencontre avec sainte Thérèse d’Ávila change le cours de sa vie.",
+  
+  "rencontre-avec-therese-d-avila-et-reforme-du-carmel": "Sous l’impulsion de Thérèse d’Ávila, Jean s’engage dans la réforme du Carmel, appelée Carmel Déchaussé, orientée vers une vie plus austère, silencieuse et contemplative. Il devient l’un des piliers de cette réforme, fondant plusieurs communautés et accompagnant spirituellement les frères et les sœurs réformés.",
+  
+  "epreuves-et-emprisonnement": "La réforme suscitant de fortes résistances, Jean est arrêté en 1577 et enfermé dans un couvent de Tolède. Il y subit un emprisonnement très dur. C’est pourtant durant cette captivité qu’il compose certains de ses plus grands poèmes mystiques, méditant sur la souffrance, la foi et la lumière divine.",
+  
+  "oeuvre-mystique-et-ministere": "Après sa libération, il poursuit son œuvre de fondateur et de guide spirituel. Ses écrits — La Montée du Carmel, La Nuit obscure, Le Cantique spirituel, La Vive Flamme d’amour — exposent un chemin exigeant : purification, renoncement, foi nue et union totale à Dieu. Sa pensée marque durablement la spiritualité chrétienne.",
+  
+  "mort-et-heritage": "Jean de la Croix meurt à Úbeda le 14 décembre 1591. Canonisé en 1726 et proclamé Docteur de l’Église en 1926, il demeure l’un des plus grands mystiques chrétiens et un maître de la vie intérieure."
+}
+
 },
 
 "saint-francois-xavier": {
@@ -793,26 +829,20 @@
   "feastDay": "3 décembre",
   "image": "/images/saints/francois-xavier.jpg",
   "shortDescription": "Cofondateur de la Compagnie de Jésus et grand missionnaire en Asie, saint François Xavier porta l’Évangile jusqu’en Inde, au Japon et aux portes de la Chine. Son zèle infatigable et sa foi ardente en font l’un des plus grands apôtres missionnaires de l’Église.",
-  "biography": "Saint François Xavier naît le 7 avril 1506 au château de Xavier, près de Sangüesa, dans le royaume de Navarre (actuelle Espagne), au sein d’une famille noble. Après la mort précoce de son père, il poursuit de brillantes études et se rend à l’Université de Paris en 1525, où il rencontre Ignace de Loyola. Ensemble, avec cinq autres compagnons, ils prononcent leurs vœux à Montmartre en 1534, posant les fondations de la Compagnie de Jésus. Ordonné prêtre à Venise en 1537, François se met au service de l’ordre jésuite naissant. En 1542, il part pour l’Asie sous la protection du Portugal, devenant l’un des premiers missionnaires de l’ordre. Il débarque à Goa, sur la côte ouest de l’Inde, où il consacre plusieurs années à évangéliser les pêcheurs et les populations locales. En 1545, il part vers Malacca et les Moluques, puis atteint le Japon en 1549, où il introduit la foi chrétienne avec un sens exceptionnel de l’adaptation culturelle et linguistique. Toujours animé par le désir d’atteindre la Chine, il entreprend ce voyage mais meurt le 3 décembre 1552 sur l’île de Shangchuan (Sancian), au large des côtes chinoises, à l’âge de 46 ans. Son corps est transporté à Goa, où il repose encore aujourd’hui. François Xavier fut béatifié en 1619 et canonisé en 1622 par le pape Grégoire XV, en même temps qu’Ignace de Loyola. En 1927, il est proclamé co-patron de toutes les missions étrangères. Son exemple reste un modèle d’audace, de foi et de don total au service de l’Évangile.",
-  "miracles": [
-    "Nombreuses guérisons et conversions survenues au cours de ses missions",
-    "Corps demeuré intact pendant plusieurs mois après sa mort, vénéré à Goa",
-    "Protection spirituelle accordée aux missionnaires invoquant son intercession"
-  ],
-  "works": [
-    "Évangélisation de l’Inde (Goa, Travancore)",
-    "Missions aux Moluques et au Japon",
-    "Lettres missionnaires (correspondance spirituelle et pastorale)"
-  ],
-  "quotes": [
-    "Beaucoup, en écoutant la parole de Dieu, se convertissent et croient ; mais faute de prêtres, ils ne peuvent être baptisés.",
-    "Je ne suis jamais fatigué d’aller dans les villages, je baptise, j’instruis, et tout cela m’est joie et lumière.",
-    "Je suis persuadé que si les hommes savaient combien Dieu les aime, ils ne cesseraient de pleurer de joie.",
-    "Ceux qui aiment Dieu véritablement ne trouvent pas de repos tant qu’ils n’ont pas travaillé à faire aimer Dieu des autres."
-  ],
-  "prayers": [
-    "Saint François Xavier, apôtre des Indes et de l’Extrême-Orient, toi qui brûlais du désir de faire connaître le Christ à toutes les nations, obtiens-nous le même zèle missionnaire et la joie de servir sans mesure. Fais de nos cœurs des témoins ardents de l’amour de Dieu. Amen."
-  ]
+ "biography": {
+  "jeunesse-et-etudes": "François Xavier naît en 1506 au château de Xavier, dans le royaume de Navarre, au sein d’une famille noble. Après la mort de son père, il poursuit des études brillantes qui le mènent à l’Université de Paris en 1525.",
+  
+  "rencontre-avec-ignace-et-fondation-de-la-compagnie-de-jesus": "À Paris, il rencontre Ignace de Loyola, dont l’influence spirituelle est décisive. Avec lui et cinq autres compagnons, il prononce en 1534 les vœux de Montmartre, posant les bases de la Compagnie de Jésus. Ordonné prêtre à Venise en 1537, il se met au service du nouvel ordre.",
+  
+  "premiere-mission-en-asie": "Envoyé par le Portugal, François part en 1542 pour l’Asie. Il débarque à Goa en Inde, où il évangélise les pêcheurs de perles et les populations locales. Son zèle, son énergie et sa capacité d’adaptation marquent profondément les communautés rencontrées.",
+  
+  "missions-dans-les-moluques-et-au-japon": "En 1545, il poursuit sa mission vers Malacca puis les Moluques. En 1549, il arrive au Japon, où il introduit la foi chrétienne en apprenant la langue et en respectant la culture locale. Son approche audacieuse et respectueuse ouvre la voie à une implantation durable du christianisme.",
+  
+  "desir-d-evangeliser-la-chine-et-mort": "Animé par le désir de porter l’Évangile en Chine, il entreprend ce voyage mais tombe malade. Il meurt le 3 décembre 1552 sur l’île de Shangchuan, au large des côtes chinoises, à seulement 46 ans.",
+  
+  "canonisation-et-heritage": "Transporté à Goa, son corps y est vénéré. Béatifié en 1619 et canonisé en 1622, il est proclamé en 1927 co-patron de toutes les missions étrangères. Son exemple demeure celui d’un apôtre infatigable, animé d’un amour passionné pour l’Évangile et les peuples qu’il rencontrait."
+}
+
 },
 
 "saint-louis": {
@@ -829,28 +859,22 @@
   "feastDay": "25 août",
   "image": "/images/saints/saint-louis.jpg",
   "shortDescription": "Roi de France et modèle du souverain chrétien, Saint Louis allia une profonde piété à un sens exceptionnel de la justice et du service du peuple. Son règne incarne l’idéal du roi juste, pacificateur et dévoué à Dieu.",
-  "biography": "Louis IX, plus connu sous le nom de Saint Louis, naît le 25 avril 1214 à Poissy, dans le royaume de France. Fils du roi Louis VIII et de Blanche de Castille, il perd son père en 1226 et devient roi alors qu’il n’a que douze ans. Sa mère, femme énergique et profondément croyante, assure la régence et façonne la personnalité du jeune roi. Blanche de Castille lui inculque la piété, le sens de la justice et le devoir royal : protéger le peuple plutôt que rechercher la gloire. Selon la tradition, elle lui aurait dit : « Je préfère te voir mort que coupable d’un seul péché mortel. » Louis assume pleinement le pouvoir au début des années 1230. Il s’impose comme un roi soucieux de justice et d’équité, visitant personnellement les tribunaux et écoutant les plaintes de ses sujets. Il interdit les duels judiciaires et les ordalies, réorganise les procédures et renforce l’autorité royale. Protecteur des arts et de la foi, il fait édifier la Sainte-Chapelle à Paris pour abriter les reliques de la Passion du Christ, dont la couronne d’épines. Il rendait souvent la justice lui-même, assis sous un chêne dans le parc de Vincennes, écoutant les plaintes de ses sujets, riches ou pauvres. Il interdit les duels judiciaires et les ordalies, encouragea les enquêtes impartiales et renforça le rôle des baillis et des prévôts pour limiter les abus des seigneurs locaux.  Il voulait que le roi soit le garant de la paix et du droit, non pas un maître arbitraire, symbole d’un pouvoir au service du bien commun. En politique étrangère, il rétablit la paix avec l’Angleterre par le traité de Paris (1259). Profondément marqué par son engagement religieux, il prend la croix en 1244 et dirige la septième croisade en 1248. Débarqué en Égypte, il prend Damiette mais subit un revers à Mansourah, avant d’être capturé à Fariskur en 1250. Libéré, il reste quatre ans en Terre sainte, travaillant à la consolidation des États croisés et à la libération de prisonniers. En 1270, il repart pour la huitième croisade et meurt le 25 août, près de Tunis, victime d’une épidémie. Canonisé le 11 août 1297 par le pape Boniface VIII, il demeure le seul roi de France élevé à la sainteté. Saint Louis incarne le modèle du souverain chrétien : humble, juste et dévoué au service de Dieu et de son peuple.",
-  "miracles": [
-    "Guérisons attribuées à son intercession après sa mort",
-    "Protection miraculeuse des villes et royaumes invoquant son nom",
-    "Conversions spirituelles suscitées par son exemple de roi juste et saint"
-  ],
-  "works": [
-    "Construction de la Sainte-Chapelle à Paris",
-    "Réformes judiciaires et centralisation du pouvoir royal",
-    "Traité de Paris (1259) avec l’Angleterre",
-    "Participation à la septième et à la huitième croisade"
-  ],
-  "quotes": [
-    "Je préfère te voir mort plutôt que de te savoir dans le péché mortel.",
-    "Le roi doit rendre justice comme un père rend justice à ses enfants.",
-    "Dieu ne regarde pas la grandeur du royaume, mais la droiture du cœur du roi.",
-    "Mieux vaut obéir à Dieu qu’aux hommes.",
-    "Aime la vérité, et fais justice pour l’amour de Dieu."
-  ],
-  "prayers": [
-    "Saint Louis, roi juste et serviteur de Dieu, toi qui as gouverné ton peuple avec sagesse et humilité, enseigne-nous à rechercher la justice, la paix et la pureté du cœur. Obtiens pour nos dirigeants la lumière et la force d’agir selon la volonté divine. Amen."
-  ]
+  "biography": {
+  "jeunesse-et-famille": "Louis IX naît le 25 avril 1214 à Poissy. Il est le fils du roi Louis VIII et de Blanche de Castille, une femme profondément pieuse et énergique qui marque durablement son éducation. À la mort de son père en 1226, Louis n’a que douze ans : il devient roi très jeune, tandis que Blanche de Castille assure la régence. Elle lui transmet une foi ardente, un sens aigu de la justice et la conviction que le devoir du roi est de protéger son peuple avant de rechercher la gloire. Selon la tradition, elle lui aurait déclaré : « Je préfère te voir mort que coupable d’un seul péché mortel. »",
+
+  "accession-au-trone-et-regence": "Durant la régence de Blanche, Louis reçoit une formation intellectuelle, religieuse et politique intense. Il apprend la prudence, la maîtrise de soi et le rôle du roi comme garant de la paix. Au début des années 1230, Louis IX assume personnellement le pouvoir. Il gouverne avec sérieux, animé d’un profond désir de servir Dieu à travers la justice et le bon ordre du royaume.",
+
+  "reforme-et-justice-royale": "Saint Louis se distingue par son sens de la justice. Il visite les tribunaux, écoute les plaintes de ses sujets, et cherche toujours l’équité. Il interdit les duels judiciaires et les ordalies, renforce les enquêtes impartiales, limite les abus des seigneurs locaux et améliore les procédures. Il développe le rôle des baillis et des prévôts, et veut un roi au service du bien commun, non un tyran arbitraire. Il rend souvent la justice lui-même, assis sous un chêne à Vincennes, recevant riches comme pauvres. Son règne devient le modèle même du roi juste et pacificateur.",
+
+  "foi-et-piete": "Profondément croyant, Louis IX fait de sa foi le cœur de son gouvernement. Il finance des œuvres charitables, soutient les pauvres, soigne les malades, et vit en chrétien exemplaire malgré son statut royal. Il fait construire la Sainte-Chapelle pour abriter des reliques précieuses, notamment la couronne d’épines du Christ. Sa piété guide toutes ses décisions politiques et personnelles, et il cherche constamment à conformer sa vie à l’Évangile.",
+
+  "politique-exterieure": "En politique étrangère, Louis IX privilégie la paix et la stabilité. En 1259, il conclut le traité de Paris avec l’Angleterre, apaisant durablement les tensions entre les deux royaumes. Il agit comme médiateur dans plusieurs conflits européens, renforçant le prestige moral du royaume de France.",
+
+  "croisades": "Marqué par son engagement religieux, Louis IX prend la croix en 1244. Il dirige la septième croisade et débarque en Égypte en 1248. Il s’empare de Damiette mais subit un revers à Mansourah, puis est capturé à Fariskur en 1250. Libéré, il choisit de rester quatre ans en Terre sainte pour consolider les États croisés et négocier la libération de prisonniers. En 1270, animé par la même ferveur, il lance la huitième croisade, mais il meurt peu après son arrivée près de Tunis, victime d’une épidémie.",
+
+  "mort-et-canonisation": "Louis IX meurt le 25 août 1270 à Tunis, entouré de prières. Son exemple de sainteté, de justice et de dévouement à Dieu conduit à sa canonisation le 11 août 1297 par le pape Boniface VIII. Il demeure le seul roi de France élevé officiellement à la sainteté. Sa mémoire incarne l’idéal du souverain chrétien : humble, juste, charitable et entièrement au service de son peuple et de Dieu."
+}
+
 },
 
 "elisabeth-de-france": {
@@ -867,25 +891,22 @@
   "feastDay": "10 mai",
   "image": "/images/saints/elisabeth-de-france.jpg",
   "shortDescription": "Sœur de Louis XVI, Élisabeth de France choisit la virginité et la charité plutôt que le mariage princier. Dans son domaine de Montreuil, elle se consacra aux pauvres et resta le soutien moral de sa famille durant la Révolution, allant jusqu’à offrir sa vie en union avec le sacrifice du Christ.",
-  "biography": "Née le 3 mai 1764 à Versailles, Élisabeth de France est la sœur de Louis XVI. Orpheline dès l’enfance, elle est élevée dans une atmosphère de piété et de tendresse familiale. Douée d’une grande sensibilité spirituelle, elle refuse tout projet de mariage, souhaitant se consacrer à Dieu et rester auprès de son frère, à qui elle est profondément attachée.\n\nInstallée à Montreuil, près de Versailles, elle transforme son domaine en un lieu de prière, d’accueil et de charité. Elle y soigne les malades, soutient les familles démunies, distribue des repas aux pauvres et visite personnellement les plus nécessiteux. Très pieuse, elle organise sa journée autour de la messe, de la prière et du service des autres.\n\nLorsque éclate la Révolution française, Élisabeth demeure le pilier moral de la famille royale. Calme, forte et résolue, elle encourage son frère et sa belle-sœur à garder courage et foi. On rapporte qu’elle fut prête à se faire passer pour la reine pour détourner le danger de Marie-Antoinette, affirmant que sa vie avait moins de valeur que la leur.\n\nEmprisonnée, après avoir vu tous ses proches se faire assassiner par la République, elle obtient clandestinement la présence d’un prêtre réfractaire pour célébrer les sacrements. Le 10 mai 1794, elle est condamnée à mort et conduite à la guillotine, malgré l’opposition de Robespierre lui-même. Avant d’être exécutée, elle confie qu’elle unit son sacrifice à celui de Jésus-Christ et réconforte les autres condamnés, leur disant de se réjouir de quitter une terre de souffrance, les hommes s'agenouillent devant elle et les femmes l'embrassent.\n\nSur l’échafaud, son voile se détache ; elle demande alors au bourreau de la couvrir « au nom de la pudeur ». Elle meurt à l’âge de 30 ans, en paix, portant une médaille de l’Immaculée Conception. Déclarée Vénérable en 2016, Élisabeth demeure un modèle de douceur, de fidélité et d’amour sacrificiel.",
- "miracles": [
-    "Consolation spirituelle et conversions attribuées à son exemple de pureté et de charité",
-    "Grâces obtenues par son intercession auprès de fidèles demandant courage ou fidélité dans l’épreuve"
-  ],
-  "works": [
-    "Accueil des pauvres et des malades à Montreuil",
-    "Soutien de la famille royale durant la Révolution",
-    "Promotion d'une vie chrétienne fondée sur la prière et la charité"
-  ],
-  "quotes": [
-    "J’unis mon sacrifice à celui de Jésus-Christ.",
-    "Ne craignez rien. Quitter cette terre, c’est quitter les peines et les douleurs.",
-    "Dieu sait tout, voit tout, et son amour suffit.",
-    "La charité est la plus belle liberté des âmes."
-  ],
-  "prayers": [
-    ""
-  ]
+  "biography": {
+  "jeunesse-et-famille": "Élisabeth de France naît le 3 mai 1764 à Versailles. Sœur cadette de Louis XVI, elle perd ses parents très jeune et grandit dans un climat de piété, de douceur familiale et d’éducation soignée. Très sensible spirituellement, elle développe dès l’enfance un profond attachement à la foi catholique et à son frère, qu’elle soutient d’un amour indéfectible.",
+
+  "vocation-et-vie-consacree": "Élisabeth refuse tous les projets de mariage princier proposés par les cours européennes. Elle souhaite rester vierge et se consacrer entièrement à Dieu, tout en demeurant auprès de Louis XVI dont elle veut partager la mission et les épreuves. Cette décision marque son orientation spirituelle : une vie donnée à Dieu sans prendre le voile, mais dans un état de laïcité consacrée authentique.",
+
+  "charite-et-vie-a-montreuil": "Installée dans son domaine de Montreuil, près de Versailles, elle transforme le lieu en un véritable foyer de prière, de bonté et de charité. Elle soigne les malades, distribue des repas, visite les pauvres et soutient personnellement les familles en détresse. Sa vie quotidienne s’organise autour de la messe, de la prière, du service des plus faibles et d’une profonde union au Christ.",
+
+  "role-durant-la-revolution": "Lorsque éclate la Révolution française, Élisabeth devient la force morale de la famille royale. Calme, courageuse et prête à tout sacrifier, elle encourage Louis XVI et Marie-Antoinette à conserver l’espérance. On rapporte qu’elle proposa de se faire passer pour la reine pour détourner le danger, estimant que sa propre vie avait moins de valeur que celle de Marie-Antoinette. Durant leur captivité, elle réconforte chacun, garde une paix intérieure remarquable et soutient sa famille par la prière et la parole.",
+
+  "captivite-et-dernieres-annees": "Arrêtée avec les siens, elle endure l’emprisonnement et la perte successive de tous ses proches exécutés par la République. Malgré les risques, elle obtient clandestinement la présence d’un prêtre réfractaire pour recevoir les sacrements. Elle continue d’élever l’esprit des prisonniers, les exhortant à la confiance en Dieu et à la paix intérieure. Son attitude impressionne même ses geôliers.",
+
+  "martyr-et-mort": "Le 10 mai 1794, malgré l’opposition de Robespierre lui-même, Élisabeth est condamnée à mort. Conduite à la guillotine, elle réconforte les autres condamnés, affirmant qu’ils doivent se réjouir de quitter un monde de souffrance. Les hommes s’agenouillent devant elle, les femmes l’embrassent. Arrivée sur l’échafaud, son voile s’envole ; elle demande au bourreau de la replacer « au nom de la pudeur ». Elle unit son sacrifice à celui du Christ et meurt en paix à l’âge de 30 ans, portant une médaille de l’Immaculée Conception.",
+
+  "heritage-et-veneration": "Déclarée Vénérable en 2016, Élisabeth de France demeure un modèle de pureté, de fidélité, de douceur et de charité héroïque. Son exemple inspire particulièrement ceux qui cherchent courage, humilité et force dans l’épreuve. Sa mémoire perpétue l’image d’une femme entièrement donnée à Dieu et au prochain."
+}
+
 },
 
 "louis-xvi": {
@@ -902,26 +923,20 @@
   "feastDay": "",
  "image": "/images/saints/louis-xvi.jpg",
   "shortDescription": "Roi de France de 1774 à 1793, Louis XVI fut un souverain pacifique, bienveillant et soucieux de justice, cherchant jusqu’au bout à réformer le royaume sans violence. Son exécution durant la Révolution en fit une figure de martyr et de pardon chrétien.",
-  "biography": "Louis XVI naît le 23 août 1754 à Versailles. Par tempérament réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale et le sens du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le conduit à devenir dauphin, puis roi en 1774. Dès le début de son règne, il se montre animé d’un désir sincère de justice, d’équité et de paix sociale.\n\nAttaché à la dignité de toute vie humaine, il refuse qu’on teste la montgolfière avec des condamnés, jugeant cela immoral, et préfère risquer des animaux plutôt que sacrifier des hommes pour l’expérimentation scientifique. Homme curieux et ouvert aux progrès, il soutient les sciences, les explorations et les réformes.\n\nConscient des graves difficultés financières du royaume, il tente d’y répondre par des réformes prudentes et concertées. Il appelle successivement ministres réformateurs, assemblées de notables, puis les États généraux en 1789. Sa démarche est lente non par faiblesse, mais par respect des provinces et de ses sujets. Contrairement à la République, il refuse de gouverner par la force ou la terreur.\n\nLorsque la Révolution éclate, Louis XVI continue de chercher un compromis politique. Cependant, la monarchie est peu à peu dissoute et le roi est jugé par la Convention. La décision de l’exécuter est votée à une voix près, celle de son cousin franc-maçon. Louis XVI demande un appel au peuple pour que la nation entière puisse se prononcer ; cela lui est refusé.\n\nLe 21 janvier 1793, conduit à l’échafaud, il demeure fidèle à la charité chrétienne. Avant de mourir, il proclame qu’il pardonne à ses ennemis et demande que son sang ne soit pas cause de nouvelles divisions. Il meurt en homme de paix, unissant son sacrifice à Dieu et à la France qu’il aime.",
-  "miracles": [
-    "De nombreuses conversions, retours à la foi et réconciliations familiales attribués à son exemple de pardon",
-    "Réputation de martyre chrétien ayant inspiré des vocations religieuses et des réengagements spirituels"
-  ],
-  "works": [
-    "Soutien aux sciences, inventions et explorations",
-    "Édit de tolérance envers les protestants (1787)",
-    "Convocation des États généraux pour résoudre pacifiquement la crise politique",
-    "Réformes fiscales envisagées pour réduire les privilèges et rationaliser l'économie"
-  ],
-  "quotes": [
-    "Je pardonne à ceux qui se sont faits mes ennemis, sans rancune.",
-    "Que mon sang ne retombe pas sur la France.",
-    "Je meurs innocent de tous les crimes qu’on m’impute.",
-    "Je souhaite que la paix soit rendue à mon peuple."
-  ],
-  "prayers": [
-    ""
-  ]
+ "biography": {
+  "jeunesse-et-formation": "Louis XVI naît le 23 août 1754 à Versailles. Enfant réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale, les langues, l’histoire et le sens profond du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le fait devenir dauphin et futur roi.",
+
+  "montee-sur-le-trone-et-intentions": "Devenu roi en 1774, il manifeste un désir sincère de justice, d’équité et de paix sociale. Sa bienveillance est connue à la cour et parmi le peuple. Attaché à la dignité de toute vie humaine, il refuse par exemple que la première montgolfière soit testée avec des condamnés, jugeant cela immoral.",
+
+  "gouvernement-et-reformes": "Conscient des difficultés financières du royaume, il tente des réformes prudentes et réfléchies. Il fait appel à des ministres réformateurs, convoque les assemblées de notables, puis les États généraux en 1789. Sa méthode lente n’est pas de la faiblesse mais du respect envers les provinces et les sujets. Il cherche à éviter toute violence et refuse de gouverner par la force.",
+
+  "crise-revolutionnaire": "Lorsque la Révolution éclate, Louis XVI poursuit inlassablement la recherche d’un compromis pacifique. Mais la monarchie est progressivement dissoute, et le roi est arrêté puis jugé par la Convention. Le vote de sa mort se joue à une voix près, celle de son cousin, membre de la franc-maçonnerie. Louis XVI demande un appel au peuple pour que la nation puisse décider elle-même — on le lui refuse.",
+
+  "processus-et-mort": "Le 21 janvier 1793, conduit à la guillotine, il reste fidèle à la charité chrétienne. Avant de mourir, il proclame son innocence, pardonne à ses ennemis et prie pour que son sang ne soit pas cause de nouvelles divisions. Il meurt dans une attitude de paix et de foi profonde, uni au sacrifice du Christ et de la France qu’il aime.",
+
+  "heritage": "Son exécution fait de lui une figure de martyr dans la mémoire chrétienne et historique. Son pardon, sa douceur et son sens de la justice inspirent encore aujourd’hui des conversions, des réconciliations et des engagements spirituels."
+}
+
 },
 "marie-antoinette": {
   "id": "marie-antoinette",
@@ -937,25 +952,22 @@
   "feastDay": "",
  "image": "/images/saints/marie-antoinette.jpg",
   "shortDescription": "Épouse de Louis XVI et mère de famille, Marie-Antoinette fut injustement défigurée par la propagande révolutionnaire. Durant la Révolution, elle fit preuve d’un courage et d’une dignité remarquables, pardonnant même à ceux qui la conduisirent à la mort.",
-  "biography": "Marie-Antoinette naît le 2 novembre 1755 à Vienne, neuvième fille de l'impératrice Marie-Thérèse d'Autriche. Arrivée en France à l'âge de quatorze ans pour épouser le dauphin Louis, futur Louis XVI, elle découvre un monde de cour brillant, où la jeunesse, les fêtes et l'insouciance occupent une place importante.\n\nParmi ces proches, la princesse de Lamballe, amie très intime. Marie-Antoinette, en la voyant s’engager en franc-maçonnerie, l’exhorte à s’en éloigner car elle la juge trop féministe, souhaitant avant tout la protéger.\n\nLorsque la Révolution éclate, la reine n’abandonne ni ses proches, ni son mari, ni ses enfants. Séparée de ses enfants, elle est transférée à la Conciergerie, dans la solitude la plus complète. La perte de ses enfants, en particulier l’arrachement de son jeune fils, est l’épreuve la plus profonde de sa vie.\n\n La République le brise psychologiquement et le manipule en lui faisant signer une fausse déposition, l'accusant de viol sur sa personne (loi modifiée auparavant) et il sera assassiné par la République juste derrière. Marie-Antoinette répond alors d'une seule phrase : « La nature même se refuse à répondre à une telle accusation. »\n\nQuelques semaines auparavant, son amie la princesse de Lamballe pour soutenir toujours sa gouvernante, a été massacrée et son corps profané (tête découpée, poils pubiens arrachés) jusqu'à sous ses fenêtres. Son mari Louis XVI a été exécuté neuf mois plus tôt. Marie-Antoinette sait qu'elle mourra. Pourtant, dans sa dernière lettre, elle pardonne à ceux qui lui ont fait du mal, priant Dieu de leur accorder miséricorde.\n\nLe 16 octobre 1793, elle est conduite à la guillotine. Malgré l'humiliation de sa toilette, sa dignité demeure intacte. Elle monte à l'échafaud droite, calme, sans haine. Ses bourreaux eux-mêmes reconnaîtront son courage. Dépouillée de tout, elle conserva cependant ce qui ne peut être pris : sa foi, sa dignité et son cœur de mère.",
-  "miracles": [
-    "Conversions morales et spirituelles attribuées à son exemple de pardon et de courage",
-    "Renouveau d'intérêt pour la vérité historique et la justice envers les victimes de la Terreur"
-  ],
-  "works": [
-    "Soutien charitable discret mais réel auprès des pauvres de Versailles",
-    "Protection constante de la famille royale durant la Révolution",
-    "Témoignage de pardon et de dignité face à l'injustice"
-  ],
-  "quotes": [
-    "La nature même se refuse à répondre à une telle accusation.",
-    "Je pardonne à tous ceux qui m'ont fait du mal, sans aucune haine dans le cœur.",
-    "Mon Dieu, ayez pitié de moi, de mon mari, de mes enfants.",
-    "Rien ne peut enlever l'amour d'une mère."
-  ],
-  "prayers": [
-    ""
-  ]
+ "biography": {
+  "jeunesse-et-origines": "Marie-Antoinette naît le 2 novembre 1755 à Vienne, neuvième fille de l’impératrice Marie-Thérèse. Elle reçoit une éducation princière solide, mêlant musique, danse et culture de cour. À quatorze ans, elle est envoyée en France pour épouser le dauphin Louis, futur Louis XVI, découvrant la vie brillante et mondaine de Versailles.",
+
+  "vie-a-la-cour-et-relations": "À Versailles, elle s’entoure de quelques proches, dont la princesse de Lamballe, sa confidente. Lorsqu’elle voit son amie s’engager dans la franc-maçonnerie, elle l’exhorte à s’en éloigner, la jugeant trop influençable et souhaitant avant tout la protéger. Les premières années de son mariage sont marquées par l’insouciance, les fêtes et la jeunesse.",
+
+  "revolution-et-epreuves-familiales": "Quand la Révolution éclate, Marie-Antoinette ne quitte ni son mari, ni ses enfants. Séparée de ceux-ci, elle est emprisonnée à la Conciergerie dans une solitude extrême. La plus terrible épreuve est l’arrachement de son jeune fils, manipulé par la République jusqu’à signer une fausse déposition l’accusant d’inceste. À cette accusation infâme, elle répond : « La nature même se refuse à répondre à une telle accusation. »",
+
+  "pertes-et-violences-subies": "Quelques semaines plus tôt, son amie la princesse de Lamballe est massacrée, son corps atrocement mutilé et sa tête promenée jusque sous ses fenêtres. Son mari Louis XVI a été exécuté neuf mois auparavant. Marie-Antoinette comprend que son tour viendra, mais affronte chaque épreuve avec une dignité et une foi remarquables.",
+
+  "captivite-et-derniere-lettre": "À la Conciergerie, elle vit dans des conditions indignes, privée de sommeil, surveillée en permanence. Dans sa dernière lettre — son testament spirituel — elle pardonne à tous ceux qui lui ont fait du mal et demande à Dieu de leur accorder miséricorde. Elle y exprime son amour pour ses enfants et sa confiance en la Providence.",
+
+  "execution": "Le 16 octobre 1793, elle est conduite à la guillotine. La mise à mort est précédée d’humiliations : on lui coupe ses cheveux, on la prive de tout signe de dignité. Pourtant, elle demeure calme et droite. Même ses bourreaux reconnaissent son courage. Elle monte à l’échafaud sans haine, conservant sa foi, sa dignité et son cœur de mère.",
+
+  "heritage": "Longtemps défigurée par la propagande révolutionnaire, Marie-Antoinette est aujourd’hui reconnue pour son courage, sa fidélité et sa noblesse d’âme. Son exemple inspire le pardon, la vérité historique et la compassion envers les victimes de la Terreur."
+}
+
 },
 
 
@@ -972,29 +984,24 @@
   "feastDay": "30 mai",
   "image": "/images/saints/jeanne-d-arc.jpg",
   "shortDescription": "Jeanne d’Arc, jeune paysanne lorraine guidée par la foi et les voix célestes, mena les armées françaises à la victoire d’Orléans et permit le sacre de Charles VII à Reims, avant d’être trahie, jugée et brûlée vive à Rouen.",
-  "biography": "Née vers 1412 à Domrémy (maison de Rémy), Jeanne d’Arc grandit dans une période terrible pour le pays : la France est ravagée par la guerre de Cent Ans. Dès l’âge de 13 ans, elle affirme entendre des « voix venues de Dieu » : celles de saint Michel Archange, sainte Catherine d’Alexandrie et sainte Marguerite d’Antioche. Ces voix lui disent qu’il y a « grande pitié au royaume de France » et qu’elle doit aller trouver le dauphin Charles pour le faire sacrer à Reims. Jeanne parle un excellent français. En 1429, les anglais exécutent 70 % des nobles français, Charles d’Orléans est fait prisonnier et les Bourguignons se sont alliés aux anglais, seul le Mont-Saint-Michel a résisté et si Orléans tombe, c’est fini. Elle se rend à Vaucouleurs, où elle rencontre le capitaine Robert de Baudricourt, fidèle au roi. Au début, il la prend pour une fille exaltée, mais Jeanne lui prédit qu’à ce moment même, les troupes du roi viennent de perdre la bataille des Harengs. Impressionné, Baudricourt finit par lui fournir un cheval, une armure et une petite escorte composée notamment de Jean de Metz et Bertrand de Poulengy. Elle part alors pour rejoindre le dauphin Charles à Chinon, qu’elle atteint le 6 mars 1429, après un dangereux voyage. Arrivée au château, Jeanne reconnaît le roi parmi ses courtisans, sans jamais l’avoir vu auparavant. Le roi, l’écoute en privé le lendemain ; elle lui révèle des secrets personnels que personne d’autre ne pouvait connaître. Convaincu, Charles VII décide de lui donner la commande, malgré la méfiance de ses conseillers et de ses capitaines. Quand on lui propose une épée pour aller au combat, Jeanne refuse car ses voix lui ont dit de prendre l’épée cachée derrière l’autel de l’église Sainte-Catherine-de-Fierbois, marquée de cinq croix. On creuse à l’endroit indiqué, et l’arme est effectivement retrouvée. Jeanne d’Arc rejoint les troupes françaises en route vers Orléans, alors assiégée par les Anglais depuis des mois. Là, elle rencontre le duc d’Orléans qui propose une stratégie mais Jeanne leur dit que ses « conseils viennent du roi du Ciel »et ajoutent que saint Louis et Charlemagne eux-mêmes se tiennent à genoux devant le trône de Dieu pour implorer le salut de la France. Les vents et la crue de la Loire empêchent toute traversée. Jeanne, convaincue que Dieu interviendra, annonce qu’il faut attendre. Puis, le vent tourne, le niveau de l’eau baisse, et le 29 avril 1429, elle entre enfin dans Orléans. Le 4 mai, Jeanne se réveille en pleine nuit, avertie par ses voix que les chefs ont fait de « mauvais choix » et qu’il faut attaquer autrement. Donc elle guide les troupes françaises vers la bastille de Saint-Loup. Le 4 mai, les Français remportent là leur première grande victoire depuis des années. Le 7 mai, elle participe, blessée au pied, à l’assaut décisif. Avant la bataille, elle annonce à ses hommes qu’elle sera blessée par une flèche près de la clavicule. Et en effet, au cours de l’assaut, elle est atteinte près de la clavicule par une flèche qu’elle arrache elle-même. Le lendemain, les Anglais lèvent le siège : Orléans est libérée.  Ensuite, Jeanne d’Arc convainc le roi qu’il doit être couronné à Reims, pas Orléans. En chemin, l’armée affronte les Anglais à Patay, le 18 juin 1429. Les Anglais, voulant venger Orléans, préparent une embuscade, mais un cerf s’aventure dans la plaine, trahissant leur position. Les Français, menés par La Hire, grâce à un cerf, chargent avant que les archers anglais n’aient le temps de se déployer. Plusieurs milliers d’Anglais sont tués, tandis qu’un seul soldat français trouve la mort, « un de trop », dit Jeanne. L’armée française avance vers Reims : les villes sur le passage finissent par ouvrir leurs portes au roi. Le 17 juillet 1429, à Reims, Jeanne demande au roi de lui remettre son royaume, ce qu’il fait solennellement ; puis elle déclare à son tour le donner au Christ, avant d’ajouter que le Christ le rend ensuite au roi Charles, devenu ainsi le lieutenant du Christ sur terre. Jeanne considère alors que l’essentiel de sa mission est accompli mais pas fini. Mais Charles VII hésite à poursuivre la reconquête vers Paris. De par ses voix, Jeanne savait qu’elle devait être capturée pour sauver la France. Ce qui arrivera à Compiègne. Son procès s’ouvre à Rouen en 1431. 70 chefs d’accusation sont portés contre elle. Mais Jeanne tient tête à des juges ecclésiastiques souvent piégés par ses réponses. Le 30 mai 1431, sur la place du Vieux-Marché à Rouen, Jeanne d’Arc est brûlée vive. Son cœur ne se consume pas et fut jeté dans la Seine. Témoin de son supplice, le bourreau déclarera qu’il avait « brûlé une sainte ».",
-    "miracles": [
-    "Victoire miraculeuse d’Orléans attribuée à son intercession et à la providence divine",
-    "Reconnaissance du roi Charles VII sans l’avoir jamais vu",
-    "Prédiction exacte de sa blessure à Orléans",
-    "Résistance surnaturelle et lucidité durant son procès"
-  ],
-  "works": [
-    "Libération d’Orléans (1429)",
-    "Victoire française à Patay (1429)",
-    "Sacre de Charles VII à Reims (1429)",
-    "Réaffirmation de la légitimité divine du royaume de France"
-  ],
-  "quotes": [
-    "Les hommes combattront, mais Dieu donnera la victoire.",
-    "Je suis venue de la part de Dieu, le Roi du Ciel, pour bouter hors de France les Anglais.",
-    "Mieux vaut obéir à Dieu qu’aux hommes.",
-    "Je ne crains que trahir Dieu.",
-    "Si je ne suis pas, que Dieu me mette ; si je suis, que Dieu me garde."
-  ],
-  "prayers": [
-    "Sainte Jeanne d’Arc, vierge et guerrière du Christ, toi qui as entendu les voix du Ciel et obéi sans crainte, enseigne-nous la fidélité, la force et le courage dans les épreuves. Intercède pour notre patrie et pour tous ceux qui luttent pour la vérité et la justice. Amen."
-  ]
+ "biography": {
+  "la-mission-divine": "Née vers 1412 à Domrémy (maison de Rémy), Jeanne d’Arc grandit dans une période terrible pour le pays : la France est ravagée par la guerre de Cent Ans. Dès l’âge de 13 ans, elle affirme entendre des « voix venues de Dieu » : celles de saint Michel Archange, sainte Catherine d’Alexandrie et sainte Marguerite d’Antioche. Ces voix lui disent qu’il y a « grande pitié au royaume de France » et qu’elle doit aller trouver le dauphin Charles pour le faire sacrer à Reims. Jeanne parle d’ailleurs un excellent français. En 1429, les anglais exécutent 70 % des nobles français, Charles d’Orléans est fait prisonnier et les Bourguignons se sont alliés aux anglais, seul le Mont-Saint-Michel a résisté et si Orléans tombe, c’est fini. ",
+
+  "la-rencontre-avec-braudicourt": "La Pucelle se rend à Vaucouleurs, où elle rencontre le capitaine Robert de Baudricourt, fidèle au roi. Au début, il la prend pour une fille exaltée, mais Jeanne lui prédit qu’à ce moment même, les troupes du roi viennent de perdre la bataille des Harengs. Impressionné, Baudricourt finit par lui fournir un cheval, une armure et une petite escorte composée notamment de Jean de Metz et Bertrand de Poulengy. Elle part alors pour rejoindre le dauphin Charles à Chinon, qu’elle atteint le 6 mars 1429, après un dangereux voyage.",
+
+  "la-reconnaissance-du-roi": "Arrivée au château, Jeanne reconnaît le roi parmi ses courtisans, sans jamais l’avoir vu auparavant. Le roi, l’écoute en privé le lendemain ; elle lui révèle des secrets personnels que personne d’autre ne pouvait connaître. Convaincu, Charles VII décide de lui donner la commande, malgré la méfiance de ses conseillers et de ses capitaines. Quand on lui propose une épée pour aller au combat, Jeanne refuse car ses voix lui ont dit de prendre l’épée cachée derrière l’autel de l’église Sainte-Catherine-de-Fierbois, marquée de cinq croix. On creuse à l’endroit indiqué, et l’arme est effectivement retrouvée.",
+
+  "la-preparation": "Jeanne d’Arc rejoint les troupes françaises en route vers Orléans, alors assiégée par les Anglais depuis des mois. Là, elle rencontre le duc d’Orléans qui lui propose une stratégie mais Jeanne lui dit que ses conseils à elle « viennent du roi du Ciel » et ajoutent que saint Louis et Charlemagne eux-mêmes se tiennent à genoux devant le trône de Dieu pour implorer le salut de la France. Les vents et la crue de la Loire empêchent toute traversée. Jeanne, convaincue que Dieu interviendra, annonce qu’il faut attendre. Puis, le vent tourne, le niveau de l’eau baisse, et le 29 avril 1429, elle entre enfin dans Orléans.",
+
+  "orleans-liberee": "Le 4 mai, Jeanne se réveille en pleine nuit, avertie par ses voix que les chefs ont fait de « mauvais choix » et qu’il faut attaquer autrement. Donc elle guide les troupes françaises vers la bastille de Saint-Loup. Les Français remportent là leur première grande victoire depuis des années. Le 7 mai, elle participe, blessée au pied, à l’assaut décisif. Avant la bataille, elle annonce à ses hommes qu’elle sera blessée par une flèche près de la clavicule. Et en effet, au cours de l’assaut, elle est atteinte près de la clavicule par une flèche qu’elle arrache elle-même. Le lendemain, les Anglais lèvent le siège : Orléans est libérée. ",
+
+  "elle-leur-met-la-patay": "Ensuite, Jeanne d’Arc convainc le roi qu’il doit être couronné à Reims, pas à Orléans. En chemin, l’armée affronte les Anglais à Patay, le 18 juin 1429. Les Anglais, voulant venger Orléans, préparent une embuscade, mais un cerf s’aventure dans la plaine, trahissant leur position. Les Français, menés par La Hire, grâce à un cerf, chargent avant que les archers anglais n’aient le temps de se déployer. Plusieurs milliers d’Anglais sont tués, tandis qu’un seul soldat français trouve la mort, « un de trop », dit Jeanne.",
+
+  "jeanne-reine-de-france": "L’armée française avance vers Reims : les villes sur le passage finissent par ouvrir leurs portes au roi. Le 17 juillet 1429, à Reims, Jeanne demande au roi de lui remettre son royaume, ce qu’il fait solennellement ; puis elle déclare à son tour le donner au Christ, avant d’ajouter que le Christ le rend ensuite au roi Charles, devenu ainsi le lieutenant du Christ sur terre."
+ , "pour-le-salut-du-royaume": "Jeanne considère alors que l’essentiel de sa mission est accompli mais pas fini. Mais Charles VII hésite à poursuivre la reconquête vers Paris. De par ses voix, Jeanne savait qu’elle devait être capturée pour réparer les fautes de la France. Ce qui arrivera à Compiègne."
+
+}, "la-reparation": "Son procès s’ouvre à Rouen en 1431. 70 chefs d’accusation sont portés contre elle. Mais Jeanne tient tête à des juges ecclésiastiques souvent piégés par ses réponses. Le 30 mai 1431, sur la place du Vieux-Marché à Rouen, Jeanne d’Arc est brûlée vive. Son cœur ne se consume pas et fut jeté dans la Seine. Témoin de son supplice, le bourreau déclarera qu’il avait « brûlé une sainte »."
+
 }
 
 
