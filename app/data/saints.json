@@ -1054,6 +1054,35 @@
   "sa-mort": "En 1610, François de Sales lui révèle enfin ce que Dieu veut : elle doit fonder un institut religieux. C’est la naissance de la Visitation de Sainte-Marie, à Annecy , avec comme devise : « Vive Jésus ! ». Jeanne-Françoise devient donc la Mère de la Visitation. Après la mort de François de Sales, elle dira : « Je ne veux rien que Dieu, et Dieu me suffit. » Elle perd aussi plusieurs de ses enfants et petits-enfants en restant totalement abandonnée à la volonté de Dieu. Elle écrit aux sœurs, les encourage, enseigne la vraie charité : « Faites tout par amour, et rien par force. » De son vivant, elle fonde 87 monastères, personne n’a jamais fais mieux."
  
 }
+},
+"mere-seton": {
+  "id": "mere-seton",
+  "name": "Sainte Elizabeth Ann Seton",
+  "category": "sainte",
+  "virtues": [ "foi"],
+  "period": "18-19e siècle",
+  "country": "France",
+  "type": "religieuse",
+  "birthDate": "1774",
+  "deathDate": "1821",
+  "feastDay": "04 janvier",
+  "image": "/images/saints/mere-seton.jpg",
+  "shortDescription": "Née en 1774 à New York, Elizabeth Seton grandit dans la foi épiscopalienne. Mariée et mère de cinq enfants, elle devient veuve en Italie où elle découvre le catholicisme. Convertie malgré les oppositions, elle fonde à Emmitsburg une école pour filles et la communauté des Sœurs de la Charité. Elle meurt en 1821.",
+ "biography": {
+
+  "son-enfance": "Elizabeth Ann Bayley naît le 28 août 1774 à New York, dans une famille protestante riche. Son père, le Dr Richard Bayley, est un chirurgien renommé, futur premier professeur d’anatomie du New York Medical College. Sa mère, Catherine Charlton, vient d’une lignée épiscopalienne très pieuse mais à seulement trois ans, Elizabeth perd sa mère. Deux ans plus tard, sa belle-mère, qui vient d’épouser son père, la rejette affectivement. Elizabeth et sa sœur sont finalement confiées à d’autres membres de la famille. Elizabeth développe une âme douce, sensible et spirituelle. Elle aime la nature, les lectures, la poésie, et écrit très tôt dans un journal intime où elle exprime sa recherche de Dieu. Élevée dans l’Église épiscopalienne (anglicane américaine), Elizabeth lit beaucoup la Bible et les grands auteurs religieux protestants. Elle prie chaque soir et médite souvent dans les jardins de son oncle.",
+
+  "son-mariage": "À 19 ans, Elizabeth rencontre William Magee Seton, jeune homme protestant. En 1794, à 20 ans, elle se marie avec William dans l’Église épiscopalienne. Ils s’installent dans le milieu raffiné de la haute société commerçante de New York. Elizabeth devient très proche de sa belle-famille, en particulier de son beau-père Philip Seton.",
+
+  "lien-avec-sa-famille": "Elle mène une vie active et charitable : avec sa belle-sœur Rebecca, elle fonde la Society for the Relief of Poor Widows with Small Children, l’une des premières œuvres sociales de New York. Sa maison devient un lieu d’accueil pour les nécessiteux et les malades. Elle met ensuite au monde cinq enfants. Mais peu à peu, l’entreprise de William s’effondre sous l’effet des crises économiques et de la mort de son père.",
+
+  "son-epreuve": "Très vite, William tombe gravement malade : il souffre de tuberculose. L’état de santé de son mari étant jugé critique, les médecins recommandent un voyage en Italie, au climat plus doux. En 1803, Elizabeth embarque avec William et leur fille aînée pour Livourne, chez leurs amis catholiques italiens, la famille Filicchi. Mais à leur arrivée, suspicion de fièvre jaune : ils sont mis en quarantaine dans une prison sanitaire humide et glaciale. Quelques semaines plus tard, William meurt dans les bras d’Elizabeth, le 27 décembre 1803. Elizabeth, jeune veuve de 29 ans, se retrouve seule en Italie avec sa fille.",
+
+  "sa-conversion": "La famille Filicchi, profondément catholique, accueille Elizabeth après la quarantaine. Elle découvre avec émerveillement : la beauté de la liturgie catholique, la présence réelle dans l’Eucharistie, la figure maternelle de la Vierge, la dévotion des Italiens. Dans ses notes de voyage, elle écrit : « Je cherche la vérité et je sens que Dieu me la montre doucement. » En 1805, de retour à New York, malgré l’incompréhension de sa famille protestante, Elizabeth fait un pas décisif : elle se convertit au catholicisme. Elle reçoit la communion à la cathédrale Saint-Pierre, première église catholique de New York.",
+
+  "sa-mort": "Sa conversion la marginalise socialement. Beaucoup de ses anciens amis l’abandonnent. Les parents d’élèves retirent leurs enfants de son école, de peur du « papisme ». Mais Elizabeth, courageuse, persévère. Elle ouvre une petite école pour faire vivre ses cinq enfants. Sa douceur, sa foi, son intelligence attirent les catholiques de la ville. Le Père Louis William Dubourg, sulpicien, perçoit en elle une âme d’éducatrice et de fondatrice. Il lui propose de venir à Baltimore pour enseigner dans la première école catholique d’Amérique. Elizabeth accepte. En 1809, elle fonde Saint Joseph’s Academy and Free School à Emmitsburg (Maryland), une école destinée aux petites filles pauvres. Sa pédagogie est novatrice, maternelle et profondément chrétienne. Toujours en 1809, Elizabeth devient la première supérieure d’une nouvelle communauté religieuse, la Congrégation des Sœurs de la Charité de Saint-Joseph, première communauté religieuse féminine née aux États-Unis. Ensuite, elle perd deux de ses filles, Anna Maria et Rebecca, mortes de maladie. Et Mère Seton meurt le 4 janvier 1821 à 46 ans, dans une grande paix intérieure."
+ 
+}
 }
 
 
