@@ -990,9 +990,40 @@
 
   "jeanne-reine-de-france": "L’armée française avance vers Reims : les villes sur le passage finissent par ouvrir leurs portes au roi. Le 17 juillet 1429, à Reims, Jeanne demande au roi de lui remettre son royaume, ce qu’il fait solennellement ; puis elle déclare à son tour le donner au Christ, avant d’ajouter que le Christ le rend ensuite au roi Charles, devenu ainsi le lieutenant du Christ sur terre."
  , "pour-le-salut-du-royaume": "Jeanne considère alors que l’essentiel de sa mission est accompli mais pas fini. Mais Charles VII hésite à poursuivre la reconquête vers Paris. De par ses voix, Jeanne savait qu’elle devait être capturée pour réparer les fautes de la France. Ce qui arrivera à Compiègne."
+, "la-reparation": "Son procès s’ouvre à Rouen en 1431. 70 chefs d’accusation sont portés contre elle. Mais Jeanne tient tête à des juges ecclésiastiques souvent piégés par ses réponses. Le 30 mai 1431, sur la place du Vieux-Marché à Rouen, Jeanne d’Arc est brûlée vive. Son cœur ne se consume pas et fut jeté dans la Seine. Témoin de son supplice, le bourreau déclarera qu’il avait « brûlé une sainte »."
+}
 
-}, "la-reparation": "Son procès s’ouvre à Rouen en 1431. 70 chefs d’accusation sont portés contre elle. Mais Jeanne tient tête à des juges ecclésiastiques souvent piégés par ses réponses. Le 30 mai 1431, sur la place du Vieux-Marché à Rouen, Jeanne d’Arc est brûlée vive. Son cœur ne se consume pas et fut jeté dans la Seine. Témoin de son supplice, le bourreau déclarera qu’il avait « brûlé une sainte »."
+},
 
+"francoise-xaviere-cabrini": {
+  "id": "francoise-xaviere-cabrini",
+  "name": "Sainte Françoise-Xavière Cabrini",
+  "category": "sainte",
+  "virtues": ["courage", "foi", "obéissance", "pureté", "patriotisme"],
+  "period": "19e siècle",
+  "country": "France",
+  "type": "religieuse",
+  "birthDate": "1850",
+  "deathDate": "1917",
+  "feastDay": "22 décembre",
+  "image": "/images/saints/francois-xaviere.jpg",
+  "shortDescription": "Francesca Saverio Cabrini, née en 1850 en Italie, fonda les Missionnaires du Sacré-Cœur. Partie à New York en 1889, elle consacra sa vie aux immigrés italiens : orphelinats, écoles, hôpitaux, aide administrative et sociale. Figure héroïque de charité, elle transforma durablement la vie des migrants.",
+ "biography": {
+  "le-contexte": "À la fin du 19ᵉ siècle, des centaines de milliers d’Italiens arrivent aux États-Unis. Ils sont pauvres, sans logement et souvent analphabètes et ils sont catholiques donc mal vus et considérés comme inférieurs par les Anglo-Protestants.",
+
+  "son-enfance": ".Francesca Saverio Cabrini (en hommage à saint François Xavier), née le 15 juillet 1850 à Sant’Angelo Lodigiano (Empire austro-hongrois) dans une famille catholique très pieuse, modeste, nombreuse. Francesca a une santé extrêmement faible dès son enfance : elle est prématurée, tombe souvent malade, ne peut pas faire les travaux durs. Très tôt, elle aime écouter des histoires de missionnaires que son oncle, prêtre, lui raconte. À 7 ans, elle fabrique de petits bateaux en papier dans lesquels elle met des fleurs et les appelle « mes petits missionnaires », symbole de sa vocation future.",
+
+  "premiere-profession": "Elle entre à l'école locale tenue par des religieuses. Très pieuse, elle souhaite devenir religieuse dès l’âge de 13 ans. Mais Les Filles du Sacré-Cœur de Jésus et d'autres congrégations la refusent à cause de sa santé fragile. Après ses études elle devient enseignante, directrice d’école, responsable de l’éducation spirituelle des orphelines dans un orphelinat de Codogno, dirigé par les Sœurs de la Providence. Mais très mal géré par la fondatrice (une femme instable), l’orphelinat ferme.",
+
+  "sa-congregation": "L’évêque de Lodi, lui proposer de fonder sa propre congrégation. Elle fonde à Codogno, la fondation des Missionnaires du Sacré-Cœur de Jésus avec un groupe de jeunes femmes formées par elle. Elle ouvre immédiatement des écoles, un orphelinat, un atelier pour jeunes filles et des maisons pour pauvres.",
+
+  "arrivee-aux-etats-unis": "Elle écrit au pape Léon XIII pour partir comme missionnaire en Asie. Le pape lui répond : « Pas vers l’Est, mais vers l’Ouest. Car des milliers d’Italiens émigrés en Amérique sont abandonnés.  » Elle part en 1889 direction New York avec un groupe de religieuses missionnaires. Arrivée là-bas l'évêque de New York refuse de l'aider, mais le pape l'a envoyé ici donc elle reste et elle commence seule, dans les rues italiennes de New York.",
+
+  "son-action-en-amerique": "L’orphelinat St. Charles est le premier établissement qu'elle fonde aux USA, où elle accueille des enfants italiens abandonnés et leur fait le catéchisme, le dirigeant elle-même parfois sans chauffage, sans lit et sans ressources. En 1892, elle crée le Columbus Hospital pour les Italiens, offrant des soins gratuits aux pauvres, puis elle met en place le premier vrai réseau d’hôpitaux catholiques pour migrants. Elle fonde aussi des écoles, des maisons d'accueil et des cuisines populaires. Connaissant les lois migratoires, elle aidait les gens à obtenir papiers et travail à Ellis Island. Elle ouvre également des écoles pour Italiens expatriés en Amérique latine et des maisons pour familles d’ouvriers migrants en Europe.",
+
+  "sa-mort": "En 1917, elle meurt à Chicago, dans l’un des hôpitaux qu’elle a fondés, en préparant des cadeaux de Noël pour les enfants pauvres."
+ 
+}
 }
 
 
