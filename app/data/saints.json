@@ -999,7 +999,7 @@
   "id": "francoise-xaviere-cabrini",
   "name": "Sainte Françoise-Xavière Cabrini",
   "category": "sainte",
-  "virtues": ["courage", "foi", "obéissance", "pureté", "patriotisme"],
+  "virtues": [ "foi", "obéissance"],
   "period": "19e siècle",
   "country": "France",
   "type": "religieuse",
@@ -1011,7 +1011,7 @@
  "biography": {
   "le-contexte": "À la fin du 19ᵉ siècle, des centaines de milliers d’Italiens arrivent aux États-Unis. Ils sont pauvres, sans logement et souvent analphabètes et ils sont catholiques donc mal vus et considérés comme inférieurs par les Anglo-Protestants.",
 
-  "son-enfance": ".Francesca Saverio Cabrini (en hommage à saint François Xavier), née le 15 juillet 1850 à Sant’Angelo Lodigiano (Empire austro-hongrois) dans une famille catholique très pieuse, modeste, nombreuse. Francesca a une santé extrêmement faible dès son enfance : elle est prématurée, tombe souvent malade, ne peut pas faire les travaux durs. Très tôt, elle aime écouter des histoires de missionnaires que son oncle, prêtre, lui raconte. À 7 ans, elle fabrique de petits bateaux en papier dans lesquels elle met des fleurs et les appelle « mes petits missionnaires », symbole de sa vocation future.",
+  "son-enfance": "Francesca Saverio Cabrini (en hommage à saint François Xavier), née le 15 juillet 1850 à Sant’Angelo Lodigiano (Empire austro-hongrois) dans une famille catholique très pieuse, modeste, nombreuse. Francesca a une santé extrêmement faible dès son enfance : elle est prématurée, tombe souvent malade, ne peut pas faire les travaux durs. Très tôt, elle aime écouter des histoires de missionnaires que son oncle, prêtre, lui raconte. À 7 ans, elle fabrique de petits bateaux en papier dans lesquels elle met des fleurs et les appelle « mes petits missionnaires », symbole de sa vocation future.",
 
   "premiere-profession": "Elle entre à l'école locale tenue par des religieuses. Très pieuse, elle souhaite devenir religieuse dès l’âge de 13 ans. Mais Les Filles du Sacré-Cœur de Jésus et d'autres congrégations la refusent à cause de sa santé fragile. Après ses études elle devient enseignante, directrice d’école, responsable de l’éducation spirituelle des orphelines dans un orphelinat de Codogno, dirigé par les Sœurs de la Providence. Mais très mal géré par la fondatrice (une femme instable), l’orphelinat ferme.",
 
@@ -1021,7 +1021,37 @@
 
   "son-action-en-amerique": "L’orphelinat St. Charles est le premier établissement qu'elle fonde aux USA, où elle accueille des enfants italiens abandonnés et leur fait le catéchisme, le dirigeant elle-même parfois sans chauffage, sans lit et sans ressources. En 1892, elle crée le Columbus Hospital pour les Italiens, offrant des soins gratuits aux pauvres, puis elle met en place le premier vrai réseau d’hôpitaux catholiques pour migrants. Elle fonde aussi des écoles, des maisons d'accueil et des cuisines populaires. Connaissant les lois migratoires, elle aidait les gens à obtenir papiers et travail à Ellis Island. Elle ouvre également des écoles pour Italiens expatriés en Amérique latine et des maisons pour familles d’ouvriers migrants en Europe.",
 
-  "sa-mort": "En 1917, elle meurt à Chicago, dans l’un des hôpitaux qu’elle a fondés, en préparant des cadeaux de Noël pour les enfants pauvres."
+  "sa-mort": "En 1917, elle meurt à Chicago, dans l’un des hôpitaux qu’elle a fondés, en préparant des cadeaux de Noël pour les enfants pauvres. Elle est la première personne américaine canonisée par l'Eglise Catholique."
+ 
+}
+}
+,
+"jeanne-de-chantal": {
+  "id": "jeanne-de-chantal",
+  "name": "Sainte Jeanne de Chantal",
+  "category": "sainte",
+  "virtues": [ "foi"],
+  "period": "17e siècle",
+  "country": "France",
+  "type": "religieuse",
+  "birthDate": "1572",
+  "deathDate": "1641",
+  "feastDay": "12 août",
+  "image": "/images/saints/jeanne-de-chantal.jpg",
+  "shortDescription": "Jeanne de Chantal, née en 1572 à Dijon, élevée chrétiennement par son père, épouse à 20 ans le baron de Rabutin. Devenue veuve à 28 ans, elle s’abandonne à Dieu. Guidée par François de Sales, elle fonde en 1610 la Visitation et établit 87 monastères, vivant une charité héroïque.",
+ "biography": {
+
+  "son-enfance": "Jeanne-Françoise Frémiot naît le 23 janvier 1572 à Dijon, dans une famille noble, profondément chrétienne et très respectée. À seulement 18 mois, Jeanne-Françoise perd sa mère (Marguerite de Berbisey).",
+
+  "son-education": "Son père (Bénigne Frémiot, président au Parlement de Bourgogne) décide alors de s’occuper personnellement de l’éducation de ses enfants, avec une tendresse exceptionnelle. Il veut faire de Jeanne-Françoise une jeune femme forte, instruite et chrétienne. Elle prie naturellement, aime Dieu d’un amour simple et profond, et a un grand sens de la justice, hérité de son père. Elle apprend à lire et écrire, l’histoire, la gestion d’un domaine, l’art de commander avec justice, la foi catholique au cœur de tout.",
+
+  "son-mariage": "Elle se distingue par son amour de l’Eucharistie, sa charité envers les pauvres, qu’elle visite avec son père, sa modestie, sa douceur unie à une forte volonté. En 1592, à l’âge de 20 ans, elle épouse Christophe de Rabutin, baron de Chantal, un jeune homme vertueux, courageux et profondément chrétien. Le couple s’installe au château de Bourbilly, en Bourgogne.",
+
+  "son-epreuve": "Après neuf années d’un mariage profondément heureux et chrétien, son époux, le baron Christophe de Rabutin-Chantal, meurt lors d’un accident de chasse : touché par l’arme d’un ami, par erreur. Elle n’a que 28 ans, avec quatre enfants encore jeunes. Elle dira plus tard : « La mort du baron fut la plus grande croix de ma vie. » Dans cette épreuve pour s'ouvrir la voie vers la sainteté, elle s’abandonne davantage à Dieu. Elle refuse les remariages : « Dieu est mon seul Seigneur, et je veux Lui rester fidèle. »",
+
+  "le-debut-de-la-lumiere": "Un jour, en prière, elle perçoit intérieurement une lumière singulière : elle voit le visage d’un prêtre qu’elle ne connaît pas encore, et comprend que cet homme sera son guide spirituel. En 1604, on annonce qu’un grand prédicateur vient prêcher le carême à Dijon : François de Sales, évêque de Genève, déjà réputé pour sa douceur, sa sagesse et sa sainteté. Jeanne-Françoise assiste au sermon. Dès qu’elle l’aperçoit, elle est bouleversée : c’est le visage exact qu’elle avait vu en vision. Après la messe, elle demande à le rencontrer. François l’écoute, discerne sa vocation, et lui dit : « Dieu veut quelque chose de grand de vous. Je vous aiderai à trouver votre chemin. » François devient son directeur spirituel et Jeanne-Françoise sa collaboratrice dans l’œuvre de Dieu. Ils échangeront plus de 400 lettres, chef-d’œuvre de spiritualité.",
+
+  "sa-mort": "En 1610, François de Sales lui révèle enfin ce que Dieu veut : elle doit fonder un institut religieux. C’est la naissance de la Visitation de Sainte-Marie, à Annecy , avec comme devise : « Vive Jésus ! ». Jeanne-Françoise devient donc la Mère de la Visitation. Après la mort de François de Sales, elle dira : « Je ne veux rien que Dieu, et Dieu me suffit. » Elle perd aussi plusieurs de ses enfants et petits-enfants en restant totalement abandonnée à la volonté de Dieu. Elle écrit aux sœurs, les encourage, enseigne la vraie charité : « Faites tout par amour, et rien par force. » De son vivant, elle fonde 87 monastères, personne n’a jamais fais mieux."
  
 }
 }
