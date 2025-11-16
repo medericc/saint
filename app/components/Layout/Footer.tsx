@@ -20,9 +20,7 @@ export default function Footer() {
               <Link href="/" className="block text-gray-300 hover:text-gold transition-colors">
                 Accueil
               </Link>
-              <Link href="/recherche" className="block text-gray-300 hover:text-gold transition-colors">
-                Recherche
-              </Link>
+            
               <Link href="/a-propos" className="block text-gray-300 hover:text-gold transition-colors">
                 À propos
               </Link>

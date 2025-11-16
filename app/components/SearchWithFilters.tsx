@@ -162,19 +162,45 @@ function FilterSelect({
   return (
     <div className="flex flex-col text-sm">
       <span className="font-semibold text-gray-800 mb-1">{label}</span>
-      <select
-        value={value}
-        onChange={(e) => setValue(e.target.value)}
-        className="border border-gray-300 rounded px-3 py-2 focus:ring-2 focus:ring-gold"
-      >
-        <option value="">Tous</option>
-        {options.map(opt => (
-          <option key={opt} value={opt}>{opt}</option>
-        ))}
-      </select>
+
+      <div className="relative">
+        {/* Icône flèche */}
+        <svg
+          className="w-4 h-4 absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m19 9-7 7-7-7" />
+        </svg>
+
+        <select
+          value={value}
+          onChange={(e) => setValue(e.target.value)}
+          className="
+            appearance-none w-44
+            border border-gray-300
+            bg-white
+            rounded-xl
+            px-3 py-2
+            pr-8
+            shadow-sm
+            text-gray-700
+            transition-all
+            focus:ring-2 focus:ring-gold focus:border-gold
+            hover:border-gray-400
+          "
+        >
+          <option value="">Tous</option>
+          {options.map(opt => (
+            <option key={opt} value={opt}>{opt}</option>
+          ))}
+        </select>
+      </div>
     </div>
   )
 }
+
 
 function FilterTag({
   label,
