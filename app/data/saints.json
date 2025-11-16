@@ -1108,8 +1108,67 @@
  
 }
 }
+,
+"mariam-baouardy": {
+  "id": "mariam-baouardy",
+  "name": "Sainte Mariam Baouardy",
+  "category": "sainte",
+  
+  "period": "19e siècle",
+  "country": "Palestine",
+  "type": "religieuse",
+  "birthDate": "1846",
+  "deathDate": "1878",
+  "feastDay": "26 août",
+  "image": "/images/saints/mariam-baouardy.jpg",
+  "shortDescription": "Mariam fut égorgée pour sa foi et miraculeusement sauvée par la Vierge. Mystique humble, stigmatisée, elle servit comme converse au Carmel, fonda Bethléem et contribua à identifier le lieu d’Emmaüs. Elle mourut jeune, offerte à Dieu dans l’amour.",
+ "biography": {
+
+  "contexte": "La famille Baouardy, de rite melkite et d’origine libanaise, voit ses douze garçons mourir en bas âge. Les parents entreprennent alors un pèlerinage de 170 km jusqu’à Bethléem pour demander à Dieu, par l’intercession de la Vierge Marie, la grâce d’une fille. Leur prière est exaucée : neuf mois plus tard, le 5 janvier 1846, naît Mariam. Elle est baptisée et confirmée selon le rite grec-melkite catholique. L’année suivante, un garçon, Boulos, vient agrandir la famille.",
+
+  "son-enfance": "Ses parents meurent à quelques jours d’intervalle alors qu’elle n’a que 3 ans. Mariam et son frère sont séparés et ne se reverront jamais. Elle est recueillie par un oncle paternel.  Elle a été élevée dans un foyer aimant dans des circonstances confortables. À l’âge de cinq ans, elle commençait à jeûner le samedi en l’honneur de la Sainte Vierge.",
+
+  "le-miracle": "À 13 ans, la vieille de son mariage, elle change d'avis et se consacre à Dieu. Elle voulut écrire à son frère mais un sarrasin chargé de remettre la lettre à son frère la lit et se met à la courtiser. Mariam refuse de se convertir à l'Islam, le jeune homme l'égorge et la jette dans une ruelle voisine.  Une « religieuse vêtue de bleu » l’amena dans une grotte qu’elle ne put jamais identifier, lui recoudit ses blessures et prit soin d’elle. Sa voix a été affectée pour le reste de sa vie à la suite de la coupure (qu’un médecin français a mesurée plus tard comme étant de 10 cm de large).",
+
+  "la-democratie": "Baouardy décida d’essayer de rencontrer son frère cependant, en raison du mauvais temps, le bateau a dû s’arrêter à Beyrouth. Prenant cela comme un signe de Dieu, elle débarqua et trouva du travail comme bonne. En mai 1863, un généreux mécène permet à Baouardy de s’installer à Marseille, en France, où elle devient la cuisinière d’une famille arabe. Là-bas, elle s’est sentie appelée à entrer dans un ordre religieux.  Elle est acceptée en mai 1865 comme postulante par une congrégation, c’est à ce moment-là qu’elle a reçu les stigmates du Christ. Baouardy est soumise au vote de la communauté mais elle a été rejetée. Sa maîtresse des novices, Mère Véronique de la Passion, l’oriente alors vers le Carmel de Pau, elle y reçoit le nom de Sœur Marie de Jésus Crucifié.",
+
+  
+
+  "sa-mort": "En 1870, elle fait partie du groupe fondateur du premier Carmel en Inde, à Mangalore. En 1875, après une vision, elle contribue à faire approuver les constitutions de la congrégation des Prêtres du Sacré-Cœur de Jésus de Bétharram, douze ans après la mort de leur fondateur, l’abbé Michel Garicoïts. La même année, elle part avec dix carmélites, sous la direction de Mère Véronique, pour fonder le Carmel de Bethléem. Elle participe activement aux travaux de construction, étant la seule à parler l’arabe. Elle meurt le 26 août 1878, à l’âge de 32 ans, à la suite d’une chute entraînant une fracture du bras compliquée par la gangrène.",
+
+  "son-heritage": "Une de ses visions a contribué à identifier le lieu d’Emmaüs mentionné dans l’Évangile de Luc. Elle a aussi émises des paroles marquantes « Entre Jésus et l’orgueilleux, il y a l’épaisseur d’une montagne. Entre Jésus et l’âme humble, il y a l’épaisseur de la mousseline la plus fine. », « Il n’y a que l’amour qui peut remplir le cœur de l’homme. Le juste, avec l’amour et une pincée de terre, est rassasié ; mais le mauvais, avec tous les plaisirs, les honneurs, les richesses, a toujours faim, toujours soif. » ou encore « Où est la charité, Dieu est aussi. Si vous pensez à faire le bien pour votre frère, Dieu pensera à vous. Si vous faites un trou pour votre frère, vous y tomberez ; mais si vous faites un ciel pour votre frère, il sera pour vous. »."
+ 
+}
+},
+"marguerite-ecosse": {
+  "id": "marguerite-ecosse",
+  "name": "Sainte Marguerite d'Écosse",
+  "category": "sainte",
+  
+  "period": "11e siècle",
+  "country": "Hongrie",
+  "type": "reine de France",
+  "birthDate": "1046",
+  "deathDate": "1093",
+  "feastDay": "26 août",
+  "image": "/images/saints/mariam-baouardy.jpg",
+  "shortDescription": "Marguerite princesse exilée devenue reine, réforma l’Église écossaise, introduisit discipline romaine, charité et vie spirituelle à la cour. Épouse de Malcolm III et mère de huit enfants, elle servit les pauvres, encouragea monastères et réformes. Elle mourut peu après la mort de son mari, en odeur de sainteté.",
+ "biography": {
+
+  "contexte": "En 1070, Malcolm, veuf et père d’un fils, demande en mariage la belle et intelligente Marguerite, dont l’éducation profondément catholique a façonné l’esprit, le jugement et la vie intérieure. Elle a vingt-quatre ans lorsqu’elle devient Reine d’Écosse, un rôle dans lequel elle brillera par sa bonté, sa sagesse politique et sa fidélité totale au Christ.",
 
 
+  "souveraine": "Marguerite transforme littéralement la cour écossaise. Au château d’Édimbourg, elle instaure une vie de famille et de gouvernement marquée par la prière, les offices quotidiens et le service des plus pauvres. De leur union naissent huit enfants, six garçons et deux filles, que Marguerite éduque dans la foi et la charité. Douce, patiente et d’une grande intelligence pratique, elle soutient Malcolm dans ses décisions, l’initie à la vie spirituelle et lui lit souvent les Écritures. ",
+
+  "role-politique": "Elle introduit en Écosse des réformes inspirées du système féodal anglais, elle encourage l’idée d’un parlement, elle veille à l’accueil des pauvres, des pèlerins et des étrangers, elle finance la construction d’hospices, d’auberges et de lieux de repos. Elle œuvre pour l’unité liturgique et la conformité avec Rome, l’observance du Carême, la célébration correcte de Pâques, le repos dominical sans travail et sous son impulsion les bénédictins s’installent en Écosse.",
+
+  
+
+  "sa-mort": "Fragile de santé, Marguerite tombe gravement malade en 1093, au moment même où Malcolm et leur fils aîné partent au combat contre Guillaume le Roux, qui envahit l’Écosse. Les deux meurent le 13 novembre 1093, à Alnwick. Marguerite apprend la nouvelle et dis « Dieu tout-puissant, je te rends grâce de m’avoir envoyé une si grande affliction en ces derniers moments de ma vie. Avec ta miséricorde, j’espère qu’elle servira à me purifier de mes péchés. »."
+
+ 
+}
+}
 
   
 }
