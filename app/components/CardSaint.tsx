@@ -9,7 +9,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react'
 interface Saint {
   id: string
   name: string
-  virtues: string[]
+
   period: string
   image: string
   shortDescription: string
@@ -48,18 +48,6 @@ export default function CardSaint({ saint }: CardSaintProps) {
           {saint.shortDescription}
         </p>
 
-        {/* Vertus */}
-        <div className="flex flex-wrap gap-2 mb-4">
-          {saint.virtues.slice(0, 2).map((virtue) => (
-            <VirtueBadge key={virtue} virtue={virtue} />
-          ))}
-          {saint.virtues.length > 2 && (
-            <span className="text-xs text-gray-500 self-center">
-              +{saint.virtues.length - 2}
-            </span>
-          )}
-        </div>
-
         {/* Actions */}
         <div className="flex justify-between items-center">
           <Link 
@@ -69,20 +57,7 @@ export default function CardSaint({ saint }: CardSaintProps) {
             En savoir plus →
           </Link>
           
-          <button
-            onClick={() => setIsExpanded(!isExpanded)}
-            className="flex items-center text-gray-500 hover:text-gray-700 text-sm"
-          >
-            {isExpanded ? (
-              <>
-                Réduire <ChevronUp size={16} className="ml-1" />
-              </>
-            ) : (
-              <>
-                Étendre <ChevronDown size={16} className="ml-1" />
-              </>
-            )}
-          </button>
+         
         </div>
 
         {/* Section étendue */}

@@ -28,7 +28,7 @@ export default function Home() {
             Vie des Saints
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Découvrez la vie inspirante des saints et leurs vertus à travers les siècles.
+        Découvrez les figures inspirantes de la foi chrétienne à travers les siècles.
           </p>
 
        
@@ -39,7 +39,7 @@ export default function Home() {
 
       {/* 🔎 Recherche avec filtres */}
       <section id="search-section" className="bg-cream border-t border-gray-200">
-        <SearchWithFilters initialVirtue={selectedVirtue} />
+        <SearchWithFilters  />
       </section>
     </div>
   )

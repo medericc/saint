@@ -5,10 +5,10 @@
   "id": "saint-francois-dassise",
   "name": "Saint François d’Assise",
   "category": "saint",
-  "virtues": ["pauvreté", "humilité", "joie", "amour de la création", "charité"],
+ 
   "period": "12e-13e siècle",
   "country": "Italie",
-  "type": "fondateur des Franciscains, mystique",
+  "type": "fondateur des Franciscains",
   "birthDate": "1181",
   "deathDate": "1226-10-03",
   "feastDay": "4 octobre",
@@ -39,7 +39,7 @@
   "name": "Sainte Iphigénie",
 
   "category": "sainte",
-  "virtues": ["foi", "purete", "courage", "fidelite"],
+
   "period": "1er siècle",
   "country": "Éthiopie",
   "type": "abbesse",
@@ -69,9 +69,9 @@
   "name": "Sainte Paule",
 
   "category": "sainte",
-  "virtues": ["charite", "sagesse", "humilite", "foi"],
+
   "period": "4e-5e siècle",
-  "country": "Rome",
+  "country": "Italie",
   "type": "fondatrice",
 
   "birthDate": "347",
@@ -99,9 +99,9 @@
   "name": "Sainte Eustochium",
 
   "category": "sainte",
-  "virtues": ["purete", "savoir", "foi", "devotion"],
+
   "period": "4e-5e siècle",
-  "country": "Rome",
+  "country": "Italie",
   "type": "abbesse",
 
   "birthDate": "368",
@@ -133,7 +133,7 @@
   "name": "Bienheureuse Isabelle de France",
 
   "category": "bienheureuse",
-  "virtues": ["purete", "humilite", "charite", "detachement"],
+  
   "period": "13e siècle",
   "country": "France",
   "type": "fondatrice",
@@ -164,10 +164,10 @@
   "name": "Sainte Bathilde",
 
   "category": "sainte",
-  "virtues": ["charite", "justice", "humilite", "misericorde"],
+
   "period": "7e siècle",
   "country": "France",
-  "type": "reine et religieuse",
+  "type": "reine",
 
   "birthDate": "626",
   "deathDate": "680",
@@ -195,7 +195,7 @@
   "name": "Anne de Bretagne",
 
   "category": "figure-historique",
-  "virtues": ["piété", "justice", "sagesse", "foi"],
+
   "period": "15e-16e siècle",
   "country": "France",
   "type": "reine",
@@ -227,10 +227,10 @@
   "name": "Bienheureuse Marguerite de Lorraine",
 
   "category": "bienheureuse",
-  "virtues": ["charite", "humilite", "detachement", "justice"],
+
   "period": "15e-16e siècle",
   "country": "France",
-  "type": "duchesse et religieuse",
+  "type": "duchesse",
 
   "birthDate": "1463",
   "deathDate": "1521",
@@ -260,10 +260,10 @@
   "name": "Sainte Dorothée de Montau",
 
   "category": "sainte",
-  "virtues": ["foi", "patience", "ascese", "priere"],
+ 
   "period": "14e siècle",
   "country": "Pologne",
-  "type": "mystique et recluse",
+  "type": "recluse",
 
   "birthDate": "1347",
   "deathDate": "1394",
@@ -289,10 +289,10 @@
  "margaret-de-beverley": {
   "id": "margaret-de-beverley",
   "name": "Margaret de Beverley",
-  "virtues": ["courage", "foi", "perseverance", "charite"],
+  
   "period": "12e siècle",
   "country": "Angleterre",
-  "type": "pèlerine et religieuse cistercienne",
+  "type": "pèlerine",
   "birthDate": "vers 1150",
   "deathDate": "inconnue",
   "feastDay": "",
@@ -314,10 +314,10 @@
   "sainte-jeanne-de-france": {
   "id": "sainte-jeanne-de-france",
   "name": "Sainte Jeanne de France",
-  "virtues": ["humilite", "foi", "charite", "obeissance"],
+
   "period": "15e-16e siècle",
   "country": "France",
-  "type": "reine et fondatrice",
+  "type": "reine",
   "birthDate": "1464",
   "deathDate": "1505",
   "feastDay": "4 février",
@@ -337,9 +337,9 @@
  "sainte-clotilde": {
   "id": "sainte-clotilde",
   "name": "Sainte Clotilde",
-  "virtues": ["foi", "esperance", "pardon", "charite"],
+  
   "period": "5e-6e siècle",
-  "country": "Burgondie (France actuelle)",
+  "country": "France",
   "type": "reine",
   "birthDate": "vers 475",
   "deathDate": "545",
@@ -361,10 +361,10 @@
   "sainte-leonie-aviat": { 
   "id": "sainte-leonie-aviat",
   "name": "Sainte Léonie Aviat",
-  "virtues": ["charite", "devouement", "service", "foi"],
+  
   "period": "19e-20e siècle",
   "country": "France",
-  "type": "fondatrice religieuse",
+  "type": "fondatrice",
   "birthDate": "1844",
   "deathDate": "1914",
   "feastDay": "10 janvier",
@@ -382,10 +382,10 @@
  "isabelle-godin": {
   "id": "isabelle-godin",
   "name": "Isabelle Godin des Odonais",
-  "virtues": ["foi", "courage", "esperance", "perseverance"],
+ 
   "period": "18e siècle",
-  "country": "Équateur / France",
-  "type": "laïque missionnaire",
+  "country": "Équateur",
+  "type": "laïque",
   "birthDate": "1728",
   "deathDate": "1792",
   "feastDay": "",
@@ -406,10 +406,10 @@
   "hrosvita-de-gandersheim": {
   "id": "hrosvita-de-gandersheim",
   "name": "Hrosvita de Gandersheim",
-  "virtues": ["sagesse", "purete", "creativite", "foi"],
+
   "period": "10e siècle",
-  "country": "Sainte Empire Romain Germanique",
-  "type": "chanoinesse et écrivaine",
+  "country": "Allemagne",
+  "type": "écrivaine",
   "birthDate": "vers 935",
   "deathDate": "vers 1002",
   "feastDay": "",
@@ -428,10 +428,10 @@
  "sainte-mathilde": {
   "id": "sainte-mathilde",
   "name": "Sainte Mathilde",
-  "virtues": ["charite", "piete", "pardon", "humilite"],
+ 
   "period": "9e-10e siècle",
-  "country": "Germanie",
-  "type": "reine et fondatrice",
+  "country": "Allemagne",
+  "type": "reine",
   "birthDate": "vers 895",
   "deathDate": "968",
   "feastDay": "14 mars",
@@ -450,10 +450,10 @@
    "sainte-fabiola": {
     "id": "sainte-fabiola",
     "name": "Sainte Fabiola",
-    "virtues": ["penitence", "charite", "humilite", "service"],
+   
     "period": "4e siècle",
-    "country": "Empire romain",
-    "type": "laïque consacrée",
+    "country": "Italie",
+    "type": "laïque",
     "birthDate": "vers 330",
     "deathDate": "399",
     "feastDay": "27 décembre",
@@ -470,10 +470,10 @@
   "herrade-de-landsberg": {
     "id": "herrade-de-landsberg",
     "name": "Herrade de Landsberg",
-    "virtues": ["sagesse", "enseignement", "foi", "creation"],
+ 
     "period": "12e siècle",
-    "country": "Alsace (Saint-Empire romain germanique)",
-    "type": "abbesse et écrivain",
+    "country": "France",
+    "type": "écrivaine",
     "birthDate": "1130",
     "deathDate": "1195",
     "feastDay": "",
@@ -490,10 +490,10 @@
   "maria-escobar": {
     "id": "maria-escobar",
     "name": "Maria Escobar",
-    "virtues": ["foi", "initiative", "generosite", "piete"],
+  
     "period": "16e siècle",
-    "country": "Espagne / Pérou",
-    "type": "laïque pionnière",
+    "country": "Espagne",
+    "type": "laïque",
     "birthDate": "début du 16e siècle",
     "deathDate": "vers 1550",
     "feastDay": "",
@@ -509,10 +509,10 @@
   "sainte-rose-philippine-duchesne": {
     "id": "sainte-rose-philippine-duchesne",
     "name": "Sainte Rose Philippine Duchesne",
-    "virtues": ["foi", "persévérance", "charité", "zèle missionnaire"],
+
     "period": "18e-19e siècle",
-    "country": "France / États-Unis",
-    "type": "religieuse et missionnaire",
+    "country": "France",
+    "type": "missionnaire",
     "birthDate": "1769",
     "deathDate": "1852",
     "feastDay": "18 novembre",
@@ -531,10 +531,10 @@
    "sainte-rose-de-lima": {
     "id": "sainte-rose-de-lima",
     "name": "Sainte Rose de Lima",
-    "virtues": ["purete", "penitence", "charite", "humilite"],
+   
     "period": "16e-17e siècle",
     "country": "Pérou",
-    "type": "tertiaire dominicaine et mystique",
+    "type": "tertiaire",
     "birthDate": "1586",
     "deathDate": "1617",
     "feastDay": "23 août",
@@ -553,10 +553,10 @@
 "sainte-josephine-bakhita": {
     "id": "sainte-josephine-bakhita",
     "name": "Sainte Joséphine Bakhita",
-    "virtues": ["foi", "espérance", "pardon", "humilité", "charité"],
+   
     "period": "19e-20e siècle",
-    "country": "Soudan / Italie",
-    "type": "religieuse canossienne et ancienne esclave",
+    "country": "Soudan",
+    "type": "religieuse",
     "birthDate": "1869",
     "deathDate": "1947",
     "feastDay": "8 février",
@@ -575,10 +575,10 @@
   "saint-augustin": {
   "id": "saint-augustin",
   "name": "Saint Augustin",
-  "virtues": ["sagesse", "conversion", "foi", "humilité", "pureté"],
+  
   "period": "4e-5e siècle",
-  "country": "Algérie / Afrique du Nord",
-  "type": "évêque, docteur de l'Église et philosophe chrétien",
+  "country": "Algérie",
+  "type": "philosophe",
   "birthDate": "354",
   "deathDate": "430",
   "feastDay": "28 août",
@@ -596,10 +596,10 @@
 "sainte-bernadette-soubirous": {
   "id": "sainte-bernadette-soubirous",
   "name": "Sainte Bernadette Soubirous",
-  "virtues": ["foi", "humilité", "pureté", "obéissance", "patience"],
+ 
   "period": "19e siècle",
   "country": "France",
-  "type": "voyante de Lourdes et religieuse",
+  "type": "religieuse",
   "birthDate": "1844",
   "deathDate": "1879",
   "feastDay": "16 avril",
@@ -618,10 +618,10 @@
 "sainte-lucia-dos-santos": {
   "id": "sainte-lucia-dos-santos",
   "name": "Sainte Lúcia dos Santos",
-  "virtues": ["foi", "obéissance", "prière", "fidélité", "espérance"],
+  
   "period": "20e-21e siècle",
   "country": "Portugal",
-  "type": "voyante de Fatima et carmélite",
+  "type": "carmélite",
   "birthDate": "1907",
   "deathDate": "2005",
   "feastDay": "13 février",
@@ -643,10 +643,10 @@
   "name": "Sainte Thérèse de Lisieux",
   
   "category": "sainte",
-  "virtues": ["amour", "simplicité", "humilité", "confiance", "offrande de soi"],
+ 
   "period": "19e siècle",
   "country": "France",
-  "type": "religieuse carmélite et docteur de l’Église",
+  "type": "carmélite",
   "birthDate": "1873-01-02",
   "deathDate": "1897-09-30",
   "feastDay": "1er octobre",
@@ -671,10 +671,10 @@
   "name": "Sainte Hildegarde de Bingen",
   
   "category": "sainte",
-  "virtues": ["sagesse", "foi", "créativité", "discernement", "équilibre"],
+
   "period": "12e siècle",
-  "country": "Saint-Empire romain germanique (Allemagne actuelle)",
-  "type": "mystique, abbesse, compositrice et docteur de l’Église",
+  "country": "Allemagne",
+  "type": "docteur de l’Église",
   "birthDate": "1098",
   "deathDate": "1179-09-17",
   "feastDay": "17 septembre",
@@ -697,10 +697,9 @@
   "name": "Sainte Catherine de Sienne",
  
   "category": "sainte",
-  "virtues": ["charité", "audace", "humilité", "foi", "zèle pour l’unité de l’Église"],
   "period": "14e siècle",
   "country": "Italie",
-  "type": "mystique, tertiaire dominicaine et docteur de l’Église",
+  "type": "docteur de l’Église",
   "birthDate": "1347-03-25",
   "deathDate": "1380-04-29",
   "feastDay": "29 avril",
@@ -730,10 +729,10 @@
   "name": "Sainte Thérèse d’Ávila",
   
   "category": "sainte",
-  "virtues": ["oraison", "humilité", "courage", "réforme", "amour de Dieu"],
+ 
   "period": "16e siècle",
   "country": "Espagne",
-  "type": "mystique, réformatrice du Carmel et docteur de l’Église",
+  "type": "docteur de l’Église",
   "birthDate": "1515-03-28",
   "deathDate": "1582-10-04",
   "feastDay": "15 octobre",
@@ -756,13 +755,13 @@
 },
 "sainte-mere-teresa": {
   "id": "sainte-mere-teresa",
-  "name": "Sainte Mère Teresa de Calcutta",
+  "name": "Sainte Mère Teresa",
   
   "category": "sainte",
-  "virtues": ["charité", "humilité", "service", "foi", "compassion"],
+  
   "period": "20e siècle",
-  "country": "Inde",
-  "type": "religieuse, fondatrice des Missionnaires de la Charité",
+  "country": "Albanie",
+  "type": "religieuse",
   "birthDate": "1910-08-26",
   "deathDate": "1997-09-05",
   "feastDay": "5 septembre",
@@ -788,10 +787,10 @@
   "name": "Saint Jean de la Croix",
  
   "category": "saint",
-  "virtues": ["contemplation", "détachement", "foi", "obéissance", "humilité"],
+  
   "period": "16e siècle",
   "country": "Espagne",
-  "type": "prêtre, mystique, réformateur du Carmel",
+  "type": "réformateur du Carmel",
   "birthDate": "1542-06-24",
   "deathDate": "1591-12-14",
   "feastDay": "14 décembre",
@@ -818,10 +817,10 @@
   "name": "Saint François Xavier",
  
   "category": "saint",
-  "virtues": ["zèle missionnaire", "foi", "charité", "audace", "dévouement"],
+ 
   "period": "16e siècle",
   "country": "Espagne",
-  "type": "prêtre jésuite, missionnaire",
+  "type": "missionnaire",
   "birthDate": "1506-04-07",
   "deathDate": "1552-12-03",
   "feastDay": "3 décembre",
@@ -845,13 +844,13 @@
 
 "saint-louis": {
   "id": "saint-louis",
-  "name": "Saint Louis (Louis IX de France)",
+  "name": "Louis IX",
  
   "category": "saint",
-  "virtues": ["justice", "piété", "charité", "sagesse", "dévotion"],
+
   "period": "13e siècle",
   "country": "France",
-  "type": "roi de France, laïc saint",
+  "type": "roi de France",
   "birthDate": "1214-04-25",
   "deathDate": "1270-08-25",
   "feastDay": "25 août",
@@ -871,10 +870,10 @@
 
 "elisabeth-de-france": {
   "id": "elisabeth-de-france",
-  "name": "Élisabeth de France (Vénérable Élisabeth, sœur de Louis XVI)",
+  "name": "Élisabeth de France",
  
-  "category": "vénérable",
-  "virtues": ["charité", "pureté", "courage", "fidélité", "humilité"],
+  "category": "Servante de Dieu",
+  
   "period": "18e siècle",
   "country": "France",
   "type": "princesse de France, laïque consacrée",
@@ -906,10 +905,10 @@
   "name": "Le Bienveillant Louis XVI",
  
   "category": "roi chrétien",
-  "virtues": ["justice", "bienveillance", "patience", "piété", "miséricorde"],
+  
   "period": "18e siècle",
   "country": "France",
-  "type": "roi de France, père de famille, martyr de la Révolution",
+  "type": "martyr de la Révolution",
   "birthDate": "1754-08-23",
   "deathDate": "1793-01-21",
   "feastDay": "",
@@ -931,13 +930,13 @@
 },
 "marie-antoinette": {
   "id": "marie-antoinette",
-  "name": "Marie-Antoinette d'Autriche, reine de France",
+  "name": "Marie-Antoinette",
  
-  "category": "reine chrétienne",
-  "virtues": ["courage", "fidélité", "charité", "force d'âme", "dignité"],
+  "category": "reine",
+  
   "period": "18e siècle",
-  "country": "France / Autriche",
-  "type": "reine de France, épouse, mère, victime de la Révolution",
+  "country": "Autriche",
+  "type": "victime de la République",
   "birthDate": "1755-11-02",
   "deathDate": "1793-10-16",
   "feastDay": "",
@@ -966,10 +965,9 @@
   "id": "jeanne-d-arc",
   "name": "Sainte Jeanne d’Arc",
   "category": "sainte",
-  "virtues": ["courage", "foi", "obéissance", "pureté", "patriotisme"],
   "period": "15e siècle",
   "country": "France",
-  "type": "reine de France, héroïne nationale, martyre",
+  "type": "reine de France",
   "birthDate": "1412",
   "deathDate": "1431-05-30",
   "feastDay": "30 mai",
@@ -999,9 +997,9 @@
   "id": "francoise-xaviere-cabrini",
   "name": "Sainte Françoise-Xavière Cabrini",
   "category": "sainte",
-  "virtues": [ "foi", "obéissance"],
+
   "period": "19e siècle",
-  "country": "France",
+  "country": "Italie",
   "type": "religieuse",
   "birthDate": "1850",
   "deathDate": "1917",
@@ -1030,7 +1028,7 @@
   "id": "jeanne-de-chantal",
   "name": "Sainte Jeanne de Chantal",
   "category": "sainte",
-  "virtues": [ "foi"],
+  
   "period": "17e siècle",
   "country": "France",
   "type": "religieuse",
@@ -1059,9 +1057,9 @@
   "id": "mere-seton",
   "name": "Sainte Elizabeth Ann Seton",
   "category": "sainte",
-  "virtues": [ "foi"],
+  
   "period": "18-19e siècle",
-  "country": "France",
+  "country": "États-Unis",
   "type": "religieuse",
   "birthDate": "1774",
   "deathDate": "1821",
