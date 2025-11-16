@@ -104,10 +104,7 @@ export default function AboutPage() {
               Les contenus de cette application sont basés sur des sources 
               historiques fiables et la tradition de l&apos;Église catholique.
             </p>
-            <p>
-              Nous nous efforçons de maintenir l&apos;exactitude historique et 
-              théologique de toutes les informations présentées.
-            </p>
+         
           </div>
         </div>
       </div>
