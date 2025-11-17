@@ -111,7 +111,7 @@
   "deathDate": "",
   "feastDay": "28 septembre",
 
-  "image": "/saints/eustochium.jpg",
+  "image": "/saints/eustochium.png",
   "cover": "/saints/eustochiumcover.jpg",
   "shortDescription": "Fille de sainte Paule et disciple de saint Jérôme, elle dirigea les monastères de Bethléem après la mort de sa mère.",
 
@@ -239,7 +239,7 @@
   "deathDate": "1521",
   "feastDay": "2 novembre",
 
-  "image": "/saints/margeuritel.jpg",
+  "image": "/saints/margeuritel.png",
                   "cover": "/saints/margeueite-l.jpg",
   "shortDescription": "Duchesse d'Alençon, femme de prière et de justice, elle fonda des monastères et se retira chez les Clarisses, où elle mourut dans la sainteté.",
 
@@ -272,7 +272,7 @@
   "deathDate": "1394",
   "feastDay": "25 juin",
 
-  "image": "/saints/dorothee.jpg",
+  "image": "/saints/dorotheee.png",
 "cover": "/saints/dorotheee.jpeg",
   "shortDescription": "Mystique polonaise, mère de neuf enfants, elle mena une vie de pénitence et devint recluse à Marienwerder, où elle mourut en odeur de sainteté.",
 
@@ -467,7 +467,7 @@
     "birthDate": "vers 330",
     "deathDate": "399",
     "feastDay": "27 décembre",
-    "image": "/saints/fabiola.jpg",
+    "image": "/saints/fabiola.png",
     "cover": "/saints/fabiola-cover.jpeg",
     "shortDescription": "Noble romaine convertie, elle fonda le premier hôpital chrétien d’Occident et consacra sa vie au service des malades et des pauvres.",
   "biography": {
@@ -575,7 +575,7 @@
     "birthDate": "1869",
     "deathDate": "1947",
     "feastDay": "8 février",
-    "image": "/saints/bakhita-profile.webp",
+    "image": "/saints/bakhita-profile.png",
     "cover": "/saints/bakhuita.webp",
     "shortDescription": "Née esclave au Soudan, libérée en Italie, elle devint religieuse canossienne et témoigna d’une foi rayonnante fondée sur le pardon et la miséricorde. Patronne des victimes de la traite humaine.",
    "biography": {
@@ -621,7 +621,7 @@
   "birthDate": "1844",
   "deathDate": "1879",
   "feastDay": "16 avril",
-  "image": "/saints/bernadette.webp",
+  "image": "/saints/bernadette.png",
   "cover": "/saints/bernadette-cover.webp",
   "shortDescription": "Jeune fille simple et malade de Lourdes, témoin des apparitions de la Vierge Marie en 1858. Elle vécut ensuite dans l’humilité et la souffrance au couvent de Nevers. Modèle de foi, d’abandon et de pureté, elle nous rappelle que la vraie joie est en Dieu seul.",
  "biography": {
@@ -850,7 +850,7 @@
   "birthDate": "1506-04-07",
   "deathDate": "1552-12-03",
   "feastDay": "3 décembre",
-  "image": "/saints/xavier-profil.jpg",
+  "image": "/saints/xavier-profil.png",
   "cover": "/saints/xavier.jpg",
   "shortDescription": "Cofondateur de la Compagnie de Jésus et grand missionnaire en Asie, saint François Xavier porta l’Évangile jusqu’en Inde, au Japon et aux portes de la Chine. Son zèle infatigable et sa foi ardente en font l’un des plus grands apôtres missionnaires de l’Église.",
  "biography": {
@@ -1002,7 +1002,7 @@
   "birthDate": "1412",
   "deathDate": "1431-05-30",
   "feastDay": "30 mai",
-  "image": "/saints/jeannedarc.jpg",
+  "image": "/saints/jeannedarc.png",
   "cover": "/saints/jeanne-cover.jpg",
   "shortDescription": "Jeanne d’Arc, jeune paysanne lorraine guidée par la foi et les voix célestes, mena les armées françaises à la victoire d’Orléans et permit le sacre de Charles VII à Reims, avant d’être trahie, jugée et brûlée vive à Rouen.",
  "biography": {
@@ -1036,7 +1036,7 @@
   "birthDate": "1850",
   "deathDate": "1917",
   "feastDay": "22 décembre",
-  "image": "/saints/xaviere-profile.jpg",
+  "image": "/saints/xaviere-profile.png",
     "cover": "/saints/xaviere.jpeg",
   "shortDescription": "Francesca Saverio Cabrini, née en 1850 en Italie, fonda les Missionnaires du Sacré-Cœur. Partie à New York en 1889, elle consacra sa vie aux immigrés italiens : orphelinats, écoles, hôpitaux, aide administrative et sociale. Figure héroïque de charité, elle transforma durablement la vie des migrants.",
  "biography": {
@@ -1068,7 +1068,7 @@
   "birthDate": "1572",
   "deathDate": "1641",
   "feastDay": "12 août",
-  "image": "/saints/chantal-profile.jpg",
+  "image": "/saints/chantal-profile.png",
     "cover": "/saints/chantal.png",
  
   "shortDescription": "Jeanne de Chantal, née en 1572 à Dijon, élevée chrétiennement par son père, épouse à 20 ans le baron de Rabutin. Devenue veuve à 28 ans, elle s’abandonne à Dieu. Guidée par François de Sales, elle fonde en 1610 la Visitation et établit 87 monastères, vivant une charité héroïque.",
@@ -1099,7 +1099,7 @@
   "birthDate": "1774",
   "deathDate": "1821",
   "feastDay": "04 janvier",
-  "image": "/saints/seton-profile.jpg",
+  "image": "/saints/seton-profile.png",
   "cover": "/saints/seton.jpg",
   "shortDescription": "Née en 1774 à New York, Elizabeth Seton grandit dans la foi épiscopalienne. Mariée et mère de cinq enfants, elle devient veuve en Italie où elle découvre le catholicisme. Convertie malgré les oppositions, elle fonde à Emmitsburg une école pour filles et la communauté des Sœurs de la Charité. Elle meurt en 1821.",
  "biography": {
