@@ -48,7 +48,7 @@ const desktopName = rawName
      <h3 className="font-playfair text-xl font-semibold text-gray-800 mb-2">
 
   {/* Nom complet sur mobile */}
-  <span className="block lg:hidden">
+  <span className="block md:hidden">
     {rawName}
   </span>
 
