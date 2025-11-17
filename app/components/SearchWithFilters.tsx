@@ -14,6 +14,7 @@ interface Saint {
   type: string
   shortDescription: string
   image: string
+  cover: string
   [key: string]: unknown
 }
 

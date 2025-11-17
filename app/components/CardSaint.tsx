@@ -9,7 +9,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react'
 interface Saint {
   id: string
   name: string
-
+cover: string
   period: string
   image: string
   shortDescription: string
@@ -28,7 +28,7 @@ export default function CardSaint({ saint }: CardSaintProps) {
       {/* Image */}
       <div className="relative h-48 bg-gray-200">
         <Image
-          src={saint.image}
+          src={saint.cover}
           alt={saint.name}
           fill
           className="object-cover"

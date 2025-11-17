@@ -38,17 +38,15 @@ export default async function SaintPage({ params }: PageProps) {
           <div className="relative mx-auto mb-6 w-32 h-32 md:w-45 md:h-45">
             <div className="absolute inset-0 bg-gradient-to-r from-gold/20 to-sky/20 rounded-full blur-md transform scale-110" />
             <div className="relative w-full h-full bg-gray-100 rounded-full border-4 border-white shadow-lg flex items-center justify-center overflow-hidden">
-              <span className="text-gray-400 text-sm text-center px-2">
-                {saint.name}
-              </span>
-              {/* 
+           
+              
               <Image
                 src={saint.image}
                 alt={saint.name}
                 fill
                 className="object-cover"
               />
-              */}
+             
             </div>
           </div>
 
