@@ -1215,7 +1215,7 @@
   
   "period": "18e siècle",
   "country": "France",
-  "type": "soldat",
+  "type": "soldate",
   "birthDate": "1763",
   "deathDate": "1796",
   "feastDay": "",
@@ -1249,7 +1249,7 @@
   
   "period": "18e siècle",
   "country": "France",
-  "type": "soldat",
+  "type": "soldate",
   "birthDate": "1753",
   "deathDate": "1832",
   "feastDay": "",
@@ -1280,7 +1280,7 @@
   "deathDate": "1793",
   "feastDay": "",
   "image": "/saints/jeanne-r.png",
-    "cover": "/saints/jeannerobin.png",
+    "cover": "/saints/jeannero.png",
   "shortDescription": "Catholique de Courlay, Jeanne Robin rejoignit l'armée vendéenne pour défendre sa foi. Acceptée par Lescure pour son courage, elle combattit toujours en tête. Surnommée la “Jeanne d’Arc de la Vendée”, elle mourut héroïquement lors de la prise de Thouars en 1793.",
  "biography": {
 
