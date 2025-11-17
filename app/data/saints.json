@@ -1267,6 +1267,29 @@
  "le-genocide-vendeen": "Ensuite, la République envoie des colonnes pour brûler villages, récoltes, hommes, femmes, enfants, vieillards (il faut « éradiquer cette race maudite »). Céleste se cache dans des fermes puis en 1795 revient au combat en cavalière. Charette est exécuté le 29 mars, Stofflet le 25 février, elle est de retour à la vie civile."
 
 }
+},
+"jeanne-robin": {
+  "id": "jeanne-robin",
+  "name": "Jeanne Robin",
+  "category": "anti-republique",
+  
+  "period": "18e siècle",
+  "country": "France",
+  "type": "soldat",
+  "birthDate": "",
+  "deathDate": "1793",
+  "feastDay": "",
+  "image": "/saints/jeanne-r.png",
+    "cover": "/saints/jeannerobin.png",
+  "shortDescription": "Catholique fervente, Céleste Bulkeley devint une cavalière de l'armée vendéenne. Après la mort du roi et de son mari officier, elle prit les armes contre la Révolution. Elle survécut aux colonnes infernales et au massacre du Mans, combattant pour sa foi. Elle retourna à la vie civile en 1796.",
+ "biography": {
+
+  "son-enfance": "Catholique originaire de Courlay, issue d’un milieu paysan modeste, elle travaillait aux champs.",
+
+  "la-revolution": "Jeune adulte, elle rejoignit les troupes de Louis-Marie de Lescure. Elle se contenta de demander des souliers, et il l’accepta immédiatement, ayant perçu son courage. Jeanne marchait toujours en tête et dit à Lescure : « Mon Général, vous ne me dépasseriez pas : je veux être plus près des Bleus que vous ! »",
+
+  "sa-mort": "Le 5 mai 1793, lors de l’attaque de Thouars par l’armée vendéenne, Jeanne Robin se lance dans la mêlée sans la moindre hésitation. Les Vendéens finissent par vaincre les Républicains, mais Jeanne est mortellement touchée au cours de l’assaut. Elle s’éteint l’arme à la main, au pied des remparts."
+}
 }
   
 }
