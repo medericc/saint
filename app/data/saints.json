@@ -1241,6 +1241,34 @@
   "son-martyr": "Le 23 mars 1796, il est capturé. Repéré près de La Chabotterie et trahi par des informateurs locaux, il est encerclé par 600 soldats républicains commandés par le général Travot. Blessé à la main et épuisé, il est fait prisonnier. Son exécution a lieu à Nantes le 29 mars 1796. Après avoir été jugé sommairement, il est fusillé place Viarme. Selon les témoins, il marche dignement vers la mort, portant son uniforme et refusant qu'on lui bande les yeux. Après avoir reçu l’extrême-onction et ses dernières paroles furent : « Je ne me repens de rien. Vive le Roi ! »"
 
 }
+},
+"celeste-bulkeley": {
+  "id": "celeste-bulkeley",
+  "name": "Céleste Bulkeley",
+  "category": "anti-republique",
+  
+  "period": "18e siècle",
+  "country": "France",
+  "type": "soldat",
+  "birthDate": "1759",
+  "deathDate": "1832",
+  "feastDay": "",
+  "image": "/saints/celeste.png",
+    "cover": "/saints/celeste.jpeg",
+  "shortDescription": "Catholique fervente, Céleste Bulkeley devint une cavalière de l'armée vendéenne. Après la mort du roi et de son mari officier, elle prit les armes contre la Révolution. Elle survécut aux colonnes infernales et au massacre du Mans, combattant pour sa foi. Elle retourna à la vie civile en 1796.",
+ "biography": {
+
+  "son-enfance": "Céleste Rose Josèphe Talon née le 29 juillet 1759, à Nantes. Elle passe son enfance à Nantes, port animé, marqué par le commerce maritime et les échanges internationaux.",
+
+  "son-mariage": "Les Bulkeley, d’ancienne noblesse irlandaise jacobite, servent souvent la France depuis les Stuarts. Et Célest épouse Louis du Bouëxic de La Driennaye, souvent appelé Louis Bulkeley, officier breton d’ascendance irlandaise et capitaine dans l’infanterie. Céleste devient femme d’officier, habituée aux demeures militaires, aux déplacements, et à l’esprit de corps des régiments bretons et irlandais. Elle aime les chevaux, les armes, et est incapable d’indifférence.",
+
+  "la-revolution": "Lors de la révolution, Céleste fréquente des réseaux de bourgeois et nobles catholiques qui organisent des messes clandestines. Elle aide discrètement des prêtres cachés dans la région de Nantes. Son mari, officier au service du roi, continue de servir dans l’armée. ",
+
+  "la-cavaliere-vendeenne": "Après la mort du roi, Céleste avec les paysans nantais prennent les armes. Elle prend les commandes d'un détachement de cavalerie légère et participe aux combats de l'été 1793. En 1793, elle est arrêtée avec ses proches mais grâce à une fausse déclaration de grossesse de son mari, elle échappe à la guillotine (la République sous Robespierre ne tuait pas les femmes enceintes, l’enfant dans le ventre étant innocent), son mari lui est guillotiné.",
+
+ "le-genocide-vendeen": "Ensuite, la République envoie des colonnes pour brûler villages, récoltes, hommes, femmes, enfants, vieillards (il faut « éradiquer cette race maudite »). Céleste se cache dans des fermes puis en 1795 revient au combat en cavalière. Charette est exécuté le 29 mars, Stofflet le 25 février, elle est de retour à la vie civile."
+
+}
 }
   
 }
