@@ -22,6 +22,13 @@ interface CardSaintProps {
 
 export default function CardSaint({ saint }: CardSaintProps) {
   const [isExpanded, setIsExpanded] = useState(false)
+const rawName = saint.name
+
+// Mots à retirer sur desktop
+const desktopName = rawName
+  .replace(/bienheureuse\s*/i, "")
+  .replace(/bienheureux\s*/i, "")
+  .trim()
 
   return (
     <div className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden border border-gray-100">
@@ -38,9 +45,19 @@ export default function CardSaint({ saint }: CardSaintProps) {
 
       {/* Content */}
       <div className="p-6">
-        <h3 className="font-playfair text-xl font-semibold text-gray-800 mb-2">
-          {saint.name}
-        </h3>
+     <h3 className="font-playfair text-xl font-semibold text-gray-800 mb-2">
+
+  {/* Nom complet sur mobile */}
+  <span className="block lg:hidden">
+    {rawName}
+  </span>
+
+  {/* Nom sans "bienheureuse" sur desktop */}
+  <span className="hidden md:block">
+    {desktopName}
+  </span>
+</h3>
+
         
         <p className="text-gray-600 text-sm mb-3">{saint.period}</p>
         
