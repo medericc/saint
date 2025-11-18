@@ -94,12 +94,15 @@ const periodsList = Array.from(
           options={periodsList}
         />
 
-        <FilterSelect
-          label="Pays"
-          value={selectedCountry}
-          setValue={setSelectedCountry}
-          options={countriesList}
-        />
+      <div className="hidden md:flex">
+  <FilterSelect
+    label="Pays"
+    value={selectedCountry}
+    setValue={setSelectedCountry}
+    options={countriesList}
+  />
+</div>
+
 
       
       </div>
