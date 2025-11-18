@@ -87,12 +87,15 @@ const periodsList = Array.from(
       {/* 🔹 FILTRES HORIZONTAUX */}
       <div className="flex flex-wrap gap-4 mb-6 justify-center md:justify-center">
 
-        <FilterSelect
-          label="Période"
-          value={selectedPeriod}
-          setValue={setSelectedPeriod}
-          options={periodsList}
-        />
+      <div className="w-full sm:w-full md:w-auto">
+  <FilterSelect
+    label="Période"
+    value={selectedPeriod}
+    setValue={setSelectedPeriod}
+    options={periodsList}
+  />
+</div>
+
 
       <div className="hidden md:flex">
   <FilterSelect
@@ -181,19 +184,21 @@ function FilterSelect({
         <select
           value={value}
           onChange={(e) => setValue(e.target.value)}
-          className="
-            appearance-none w-44
-            border border-gray-300
-            bg-white
-            rounded-xl
-            px-3 py-2
-            pr-8
-            shadow-sm
-            text-gray-700
-            transition-all
-            focus:ring-2 focus:ring-gold focus:border-gold
-            hover:border-gray-400
-          "
+        className="
+  appearance-none
+  w-full md:w-44
+  border border-gray-300
+  bg-white
+  rounded-lg md:rounded-xl
+  px-3 py-2
+  pr-8
+  shadow-sm
+  text-gray-700
+  transition-all
+  focus:ring-2 focus:ring-gold focus:border-gold
+  hover:border-gray-400
+"
+
         >
           <option value="">Tous</option>
           {options.map(opt => (
