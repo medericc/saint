@@ -1288,6 +1288,40 @@
 
   "sa-mort": "Le 5 mai 1793, lors de l’attaque de Thouars, Jeanne Robin se lance avec les Blancs dans la mêlée sans la moindre hésitation. Les Vendéens finissent par vaincre les Républicains, mais Jeanne est mortellement touchée au cours de l’assaut. Elle s’éteint l’arme à la main, au pied des remparts."
 }
+},
+
+"saint-vincent": {
+  "id": "saint-vincent",
+  "name": "Vincent de Paul",
+ 
+  "category": "saint",
+
+  "period": "16e-17e siècle",
+  "country": "France",
+  "type": "prêtre",
+  "birthDate": "1581-04-24",
+  "deathDate": "1660-09-27",
+  "feastDay": "27 septembre",
+  "image": "/saints/vincent.png",
+  "cover": "/saints/vincent.jpg",
+  "shortDescription": "Roi de France et modèle du souverain chrétien, Saint Louis allia une profonde piété à un sens exceptionnel de la justice et du service du peuple. Son règne incarne l’idéal du roi juste, pacificateur et dévoué à Dieu.",
+  "biography": {
+  "jeunesse-et-ambition": "Vincent est né en 1581 à Pouy, dans une famille de paysans modestes (Jean de Paul et Bertrande de Moras). Ses parents se sacrifient pour l'envoyer étudier vers 1595 au collège des Cordeliers à Dax, et Vincent complète ces revenus en donnant des cours particuliers. Il y apprend la grammaire, le latin et la théologie. À cette époque, sa motivation principale est de sortir sa famille de la pauvreté. Il rêve d'une carrière ecclésiastique confortable et ne se destine pas encore au service des pauvres. Poussé par sa famille, il avance vite : il est ordonné prêtre à seulement 19 ans (en 1600) à Château-l’Évêque, bien avant l'âge habituel de 24 ans, grâce à une dispense.",
+
+  "l'esclavage-musulman": "Alors qu'il voyage dans le sud de la France pour affaires (peut-être pour toucher un héritage ou acheter du matériel d'études), Vincent prend un bateau vers Narbonne. Le navire tombe dans une embuscade de pirates barbaresques, des corsaires de Tunis. À cette époque, la Méditerranée est le théâtre d'un intense trafic d'esclaves chrétiens capturés par les corsaires musulmans. Le jeune prêtre ambitieux devient lui-même une 'marchandise'. Arrivé à Tunis, il est vendu sur le marché aux esclaves. Il est revendu plusieurs fois et connaît différents maîtres, un pêcheur, qui l'emploie pour des travaux pénibles, un médecin musulman, qui s'intéresse à ses connaissances médicales de base et un renégat, un ancien prêtre français converti à l'islam. Chez ce dernier maître, l'une de ses femmes, intriguée par la foi de Vincent, discute longuement avec lui et convainc son mari qu'il est inutile de le garder. Peu après, le maître décide de s'échapper avec Vincent pour revenir en France. En 1607, après deux ans de captivité, Vincent est enfin libre.",
+
+  "lente-transformation": "De retour en France, Vincent s'installe à Paris (vers 1608-1610) pour terminer ses études de théologie et obtenir sa licence. Officiellement, il cherche toujours la sécurité matérielle et tente de 'réussir' dans l'Église. Cependant, cette expérience de captivité a laissé une trace profonde. Il a connu l'humiliation, la pauvreté extrême et la dépendance totale. Il dira plus tard que cette épreuve a totalement façonné son regard sur les plus démunis. Un autre choc moral survient vers 1609 : Vincent est accusé à tort d'avoir volé de l'argent. L'affaire l'humilie profondément, même si le vrai coupable se dénonce finalement. Cet événement le pousse à réfléchir sérieusement à ses ambitions et au sens de sa vie.",
+
+  "le-grand-tournant": "À Paris, Vincent de Paul rencontre Pierre de Bérulle, le fondateur de l’Oratoire, qui devient son guide spirituel. Bérulle lui fait comprendre que le sacerdoce n'est pas une carrière pour s'enrichir, mais un service. C'est un véritable basculement intérieur pour Vincent. En 1613, il entre au service de la puissante famille de Gondi comme précepteur et aumônier. C'est là que deux événements vont décider de toute son œuvre. À Folleville, il entend la confession d'un paysan à l'agonie, Vincent réalise que celui-ci n'avait jamais osé avouer ses fautes auparavant. Madame de Gondi, bouleversée par l'ignorance religieuse des paysans, le supplie de se consacrer à eux. Le succès immense de sa prédication à Folleville sera considéré comme la 'première mission' de sa future congrégation. Ensuite, dans la région de Lyon, il visite une famille pauvre, malade et totalement abandonnée. Après en avoir parlé à la messe, une foule se mobilise pour aider, mais dans le désordre. Vincent comprend que la charité doit être organisée pour être efficace, ce qui donnera naissance aux premières Confréries de la Charité."
+ ,
+ "les-grandes-fondations": "Avec le soutien financier des Gondi, Vincent fonde la Congrégation de la Mission, plus tard appelée les Lazaristes (car installés à Saint-Lazare à Paris). Leur but est d'évangéliser les pauvres dans les campagnes et de former de bons prêtres. À partir de 1617, il s'associe à Louise de Marillac pour développer les Confréries. Ensemble, ils créent une communauté révolutionnaire pour l'époque : les Filles de la Charité. Contrairement aux autres religieuses, elles ne sont pas cloîtrées. Elles vont dans les rues, les hôpitaux et les villages pour laver, soigner et nourrir les malades. Comme le disait Vincent : « Vos couvents seront les maisons des malades »."
+ ,"sur-tous-les-fronts": "L'action de Vincent s'étend à toutes les misères de son temps. Face aux abandons massifs de nouveau-nés à Paris, il organise leur accueil, crée des hospices et mobilise des dons pour les sauver. Nommé aumônier des galères, il descend parmi les prisonniers condamnés aux rames, qui vivent dans des conditions atroces. Il les réconforte, leur apporte de la nourriture et plaide pour qu'ils soient traités dignement. Pendant la guerre de Trente Ans, qui ravage le nord et l'est de la France, il organise l'envoi de vivres, de vêtements et de secours."
+
+ ,"son-influence": "Malgré sa simplicité, Vincent est écouté des plus puissants. Il conseille le roi Louis XIII sur son lit de mort et devient membre du Conseil de Conscience sous la régence d'Anne d'Autriche. À ce poste, il participe à la nomination des évêques et combat la corruption dans l'Église (l'achat de charges et le népotisme). Il fonde des séminaires pour former un clergé plus instruit et plus pieux. Organisateur infatigable, il reste actif jusqu'au bout, malgré un corps épuisé par les voyages et les soucis. Il meurt le 27 septembre 1660, à l'âge de 79 ans, dans la maison de Saint-Lazare à Paris. Une foule immense assiste à ses funérailles."
+
+
+}
+
 }
   
 }
