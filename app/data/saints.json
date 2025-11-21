@@ -1322,6 +1322,46 @@
 
 }
 
+},
+
+"sainte-claire": {
+  "id": "sainte-claire",
+  "name": "Claire d'Assise",
+ 
+  "category": "sainte",
+
+  "period": "12e-13e siècle",
+  "country": "Italie",
+  "type": "abesse",
+  "birthDate": "1194",
+  "deathDate": "1253",
+  "feastDay": "11 août",
+  "image": "/saints/claire.png",
+  "cover": "/saints/claire-cover.jpg",
+  "shortDescription": "Claire, noble d’Assise, rejoint François et fonde les Pauvres Dames, vivant pauvreté radicale et prière. Abbesse d’origine, elle défend son monastère, notamment lors de l’épisode de l’Eucharistie contre les Sarrasins. Autrice de la Règle des Clarisses, elle meurt en 1253, renommée pour sa douceur et sa fermeté spirituelle.",
+  "biography": {
+  "contexte": "La famille vit au sein d’une Assise déchirée par les conflits entre familles aristocratiques et les mouvements politiques entre Empire, Papauté, et commununes italiennes.",
+
+  "sa-jeunesse": "Claire naît à Assise en 1194 d’une illustre lignée, les Offreduccio. Son père Favarone est chevalier. Sa mère Ortolona est aussi de naissance honorable, elle est pieuse et a fait le pèlerinage outremer vers des lieux saints. Celle-ci passe son enfance et son adolescence dans un milieu familial aisé et pourvoie volontiers aux besoins des pauvres, faisant des dons anonymes aux nécessiteux et aussi de nombreux jeûnes. Parvenue à l’âge où les jeunes filles se marient, elle refuse tous les hommes que ses parents lui présentent, voulant se garder pour le Christ.",
+
+  "son-ambition": "François prêche dans la cathédrale d’Assise durant le Carême 1212 et que Claire, présente parmi les fidèles nobles, est bouleversée.  Elle quitte sa maison familiale de nuit pour rejoindre François à la Portioncule. François lui donne une tunique simple et coupe ses cheveux. Peu après, pour la protéger des pressions familiales, François installe Claire dans différents monastères bénédictins. François finit par la conduire au petit monastère de San Damiano.",
+
+  "les-debuts-de-claire": "Peu à peu, d’autres jeunes femmes d’Assise rejoignent Claire, dont sa sœur Agnes. Claire met en place, une vie de pauvreté stricte, une organisation communautaire stable, une liturgie et un travail manuel adaptés à des femmes. À cette période, les papes (notamment Innocent III et Honorius III) lui imposent progressivement des règles plus monastiques mais Claire résiste pour conserver la pauvreté absolue, ce qui provoque des tensions réelles avec la curie."
+ ,
+
+
+
+ "la-maladie": "Dès environ 30 ans, Claire commence à être gravement malade. Malgré cela, elle, Claire dirige San Damiano, formule sa propre règle, continue à défendre la pauvreté absolue contre les cardinaux qui veulent la modérer. Elle suit avec douleur la maladie et la mort de François, ce qui l’affecte profondément mais renforce sa détermination à maintenir son idéal. Avant sa quarantaine,  Claire est déjà reconnue comme cheffe spirituelle du mouvement féminin franciscain. Sa communauté de San Damiano est stable et renommée. Elle est officiellement abbesse, mais surtout morale et théologique, dotée d’un sens juridique précis (ce que montrent les textes qu’elle rédige elle-même)."
+ 
+ 
+ 
+ ,"le-miracle": "Lors d’un raid mené par des soldats musulmans au service de l’empereur Frédéric II, les pillards tentèrent de pénétrer dans le monastère de San Damiano. Malgré sa maladie, Claire d'Assise se fit transporter jusqu'au petit oratoire du monastère. Elle voulut se tenir devant le Saint-Sacrement et s'y mit en prière pour que la communauté soit protégée, car les sœurs n'avaient aucun moyen de se défendre elles-mêmes. Face à cette manifestation, les Sarrasins renoncèrent au pillage du monastère. Claire se tourna alors vers ses sœurs et leur dit : « Remerciez le Seigneur, mes filles, car Il nous a protégées. »"
+
+ ,"sa-mort": "Claire souhaitait que son ordre vive dans une pauvreté absolue, sans aucune possession, sans rente, ni sécurité matérielle. Cette exigence choqua de nombreuses autorités religieuses, car une communauté féminine sans ressources fixes semblait dangereuse et peu viable. Claire a dû écrire, dicter et insister inlassablement, allant jusqu'à fatiguer les cardinaux. Son engagement était inébranlable, comme l'atteste sa déclaration : « Je ne puis me résoudre à être dispensée de suivre le Christ pauvre. » Ce n'est qu'en 1253, quelques jours seulement avant sa mort, que le pape Innocent IV a finalement approuvé sa Règle."
+
+
+}
+
 }
   
 }
