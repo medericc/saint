@@ -12,6 +12,7 @@ interface Saint {
   period: string
   country: string
   type: string
+  feastDay: string
   shortDescription: string
   image: string
   cover: string
@@ -81,6 +82,35 @@ const periodsList = Array.from(
   .sort((a, b) => a - b) // tri croissant
   .map(c => `${c}e siècle`) // formatage en texte
 
+
+ function sortByClosestFeastDay(saints: Saint[]) {
+  const today = new Date()
+
+  return [...saints].sort((a, b) => {
+    // 1️⃣ FeastDay vide → envoyer TOUT EN BAS
+    if (!a.feastDay) return 1
+    if (!b.feastDay) return -1
+
+    const [dayA, monthA] = a.feastDay.split('/').map(Number)
+    const [dayB, monthB] = b.feastDay.split('/').map(Number)
+
+    // 2️⃣ Sécurité : si une date est invalide → mettre à la fin aussi
+    if (!dayA || !monthA) return 1
+    if (!dayB || !monthB) return -1
+
+    let dateA = new Date(today.getFullYear(), monthA - 1, dayA)
+    let dateB = new Date(today.getFullYear(), monthB - 1, dayB)
+
+    // 3️⃣ Si fête déjà passée → reporter à l'année suivante
+    if (dateA < today) dateA = new Date(today.getFullYear() + 1, monthA - 1, dayA)
+    if (dateB < today) dateB = new Date(today.getFullYear() + 1, monthB - 1, dayB)
+
+    return dateA.getTime() - dateB.getTime()
+  })
+}
+
+
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
@@ -138,14 +168,15 @@ const periodsList = Array.from(
       {/* Résultats */}
       {filteredSaints.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-          {filteredSaints.map(saint => (
+          {sortByClosestFeastDay(filteredSaints).map(saint => (
+
             <CardSaint key={saint.id} saint={saint} />
           ))}
         </div>
       ) : (
         <div className="text-center py-12 text-gray-500">
           <Search size={48} className="mx-auto mb-4 text-gray-400" />
-          Aucun saint trouvé. Essayez de modifier vos filtres.
+          Aucun catholique trouvé. Essayez de modifier vos filtres.
         </div>
       )}
     </div>

@@ -896,7 +896,7 @@
   
   "period": "18e siècle",
   "country": "France",
-  "type": "princesse de France, laïque consacrée",
+  "type": "princesse de France",
   "birthDate": "1764-05-03",
   "deathDate": "1794-05-10",
   "feastDay": "10 mai",
@@ -1292,7 +1292,7 @@
 
 "saint-vincent": {
   "id": "saint-vincent",
-  "name": "Vincent de Paul",
+  "name": "Saint Vincent de Paul",
  
   "category": "saint",
 
@@ -1326,7 +1326,7 @@
 
 "sainte-claire": {
   "id": "sainte-claire",
-  "name": "Claire d'Assise",
+  "name": "Sainte Claire d'Assise",
  
   "category": "sainte",
 
@@ -1404,7 +1404,7 @@
 
 "sainte-charlotte": {
   "id": "sainte-charlotte",
-  "name": "Charlotte de la Résurrection",
+  "name": "Sainte Charlotte",
  
   "category": "sainte",
 
@@ -1442,7 +1442,7 @@
 
 "bienheureux-noel": {
   "id": "bienheureux-noel",
-  "name": "Noël Pinot",
+  "name": "Bienheureux Noël Pinot",
  
   "category": "bienheureux",
 
