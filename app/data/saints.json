@@ -1400,6 +1400,44 @@
 
 }
 
+},
+
+"sainte-charlotte": {
+  "id": "sainte-charlotte",
+  "name": "Charlotte de la Résurrection",
+ 
+  "category": "sainte",
+
+  "period": "18e siècle",
+  "country": "France",
+  "type": "religieuse",
+  "birthDate": "1715",
+  "deathDate": "1794",
+  "feastDay": "17 juillet",
+  "image": "/saints/charlotte.png",
+  "cover": "/saints/charlotte-cover.png",
+  "shortDescription": "Doyenne durant la Révolution, elle vécut la clandestinité avec sa communauté après leur expulsion. Arrêtée puis jugée, elle fut guillotinée en 1794, chantant jusqu’à son dernier souffle.",
+  "biography": {
+
+  "sa-jeunesse": "Anne-Marie-Madeleine Thouret, née dans l'Oise dans une famille pieuse (son père certainement charpentier). Elle rentre au Carmel de Compiègne à 25 ans et prend le nom de Sœur Charlotte de la Résurrection.",
+
+  "sa-vie": "Sa vie était rythmée par la prière (l'Office divin), le travail manuel en silence et la vie communautaire. Mais au moment où la Révolution française éclate en 1789, elle est la doyenne de la communauté. En 1794, elle a 78 ans. L'Assemblée nationale supprime les vœux monastiques et les ordres religieux contemplatifs. Les carmélites de Compiègne reçoivent l'ordre de quitter leur monastère.",
+
+  "sous-la-republique": "Face à la persécution croissante, la Prieure, Mère Thérèse de Saint-Augustin (Madeleine-Claudine Lidoine), sent que la situation empire. Elle propose à sa communauté de faire un 'Acte de consécration' (parfois appelé 'vœu de martyre'). Elles s'offrent elles-mêmes en sacrifice à Dieu pour 'apaiser la colère de Dieu' et prier pour le salut de la France et la paix de l'Église. Sœur Charlotte, malgré son grand âge, accepte avec ferveur cette consécration avec les autres sœurs. Le 14 septembre 1792, les 16 carmélites sont expulsées de leur monastère. Mais, déterminées à rester unies, elles se divisent en quatre petits groupes et louent des maisons en ville à Compiègne. Elles s'habillent en civil mais continuent secrètement leur vie religieuse, récitant l'office et se réunissant discrètement. Sœur Charlotte vit dans l'un de ces groupes."
+ ,
+
+
+
+ "son-jugement": "Le 22 juin 1794, les sœurs sont arrêtées par le comité de surveillance de Compiègne. On les accuse de 'fanatisme', de continuer à vivre en communauté (ce qui est illégal) et de posséder des écrits jugés 'contre-révolutionnaires' (notamment des images du Sacré-Cœur).  Elles sont d'abord emprisonnées à Compiègne (dans l'ancien couvent de la Visitation). Puis, transférées à la prison de la Conciergerie à Paris."
+ 
+ 
+ 
+ ,"sa-mort": "Le 17 juillet, elles comparaissent devant le Tribunal révolutionnaire. L'accusation est menée par Fouquier-Tinville. Lorsqu'on leur demande si elles ont cessé leurs pratiques 'fanatiques', elles répondent qu'elles n'ont jamais cessé de vivre leur foi. Elles sont toutes condamnées à mort. Les seize carmélites sont conduites dans des charrettes vers le lieu d'exécution, la Barrière du Trône-Renversé (Place de la Nation). Les religieuses chantent des hymnes tout au long du trajet (le Miserere, le Salve Regina). Arrivées au pied de l'échafaud, elles se mettent à genoux et chantent le Te Deum. La Prieure demande à la plus jeune, la novice Sœur Constance, de monter la première. Sœur Charlotte de la Résurrection, la doyenne, est l'une des dernières à être exécutée. Elle a dû voir ses quinze compagnes monter à la guillotine avant elle. Elle continue de chanter jusqu'à son tour.  Leurs corps (ainsi que leurs têtes) sont jetés dans l'une des deux fosses communes du cimetière de Picpus, à Paris."
+
+
+
+}
+
 }
   
 }
