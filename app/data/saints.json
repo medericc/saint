@@ -1438,6 +1438,44 @@
 
 }
 
+},
+
+"bienheureux-noel": {
+  "id": "bienheureux-noel",
+  "name": "Noël Pinot",
+ 
+  "category": "bienheureux",
+
+  "period": "18e siècle",
+  "country": "France",
+  "type": "prêtre",
+  "birthDate": "1747",
+  "deathDate": "1794",
+  "feastDay": "21 février",
+  "image": "/saints/noel.png",
+  "cover": "/saints/noel-cover.jpg",
+  "shortDescription": "Noël Pinot devint prêtre en 1770 et servit les plus modestes. Refusant la Constitution civile du clergé, il poursuivit son ministère clandestinement. Arrêté en 1794, il fut guillotiné à Angers, montant à l’échafaud en habits sacerdotaux en récitant « Introibo ad altare Dei ».",
+  "biography": {
+
+  "sa-jeunesse": "Noël Pinot était le seizième et dernier enfant d'un couple de tisserands, René Pinot et Marie Leroy. La famille était chrétienne, mais pauvre. Il perd son père à l'âge de huit ans (en 1756). Malgré les difficultés financières, sa famille, notamment son frère aîné qui était déjà prêtre, l'encourage dans sa vocation. Il entre au Collège d'Angers (aujourd'hui l'Hôtel de Ville), poursuit ses études au Séminaire d'Angers et est ordonné prêtre le 22 décembre 1770 à Angers, à l'âge de 23 ans.",
+
+  "ses-debuts": "Après son ordination, l'abbé Noël Pinot sert comme vicaire (assistant du curé) dans plusieurs paroisses : Bousse, puis Coutures, Corzé. En août 1781, il est nommé aumônier de l'Hôpital des Incurables à Angers. En septembre 1788, il est nommé curé de la paroisse rurale du Louroux-Béconnais et vendit ses biens personnels pour aider les nécessiteux, souhaitant être le « premier pauvre de sa paroisse ».",
+
+  "sous-la-republique": "La Révolution française, à partir de 1790, impose la Constitution civile du clergé, exigeant des prêtres un serment de fidélité qui plaçait l'Église sous l'autorité de l'État et non plus du Pape. L'abbé Pinot refusa catégoriquement ce serment, estimant que l'autorité spirituelle ne devait pas être soumise à une loi civile. Le 21 février 1791, il monte en chaire après la messe pour expliquer à ses fidèles son refus de se soumettre à l'État, s'opposant ainsi à la loi civile par conviction religieuse. Son refus le classe comme prêtre réfractaire et le met hors la loi, passible de la peine de mort à partir de 1792. Malgré le danger, il choisit de rester auprès de ses paroissiens en Anjou pour continuer son ministère de manière clandestine (donner les sacrements, célébrer la messe)."
+ ,
+
+
+
+ "la-clandestinite": "Pendant près de dix-huit mois (à partir de la fin de l'été 1792), il vit caché, passant de ferme en ferme ou se réfugiant dans des bois et des champs pour échapper aux autorités révolutionnaires. Il célèbre notamment la messe en secret dans une vieille chapelle désaffectée à Lasseron. Il reçoit l'aide de ses fidèles, qui prennent de grands risques pour le protéger et l'abriter. Début février 1794 (sous la Terreur), alors qu'il se trouve dans une ferme au hameau de La Milandrie (chez la veuve Peltier), il est aperçu et dénoncé par un homme qui était un ancien protégé."
+ 
+ 
+ 
+ ,"sa-mort": "Dans la nuit du 8 au 9 février 1794, la garde nationale encercle la ferme. Il est découvert caché dans une huche à pain ou un coffre à vêtements, ayant à ses côtés les ornements sacerdotaux qu'il s'apprêtait à revêtir pour la messe. Il est transféré à Angers. En route, ses gardes le forcent, par moquerie, à revêtir sa soutane et sa barrette pour être publiquement humilié en tant que prêtre. Il est incarcéré à la Prison Nationale d'Angers. Le 21 février 1794, il comparaît devant la Commission militaire. Son interrogateur est un ancien prêtre défroqué. Accusé d'être un prêtre réfractaire ayant continué son ministère (un « fanatique »), il est rapidement condamné à mort par guillotine. Le juge lui propose, par provocation ou dérision, d'être guillotiné vêtu de ses ornements sacerdotaux (aube, étole et chasuble). Noël Pinot accepte. Il marche vers l'échafaud, sur la Place du Ralliement à Angers, revêtu de ses habits de célébrant. Montant les degrés de l'échafaud, il prononce les premières paroles de l'Introït de la messe : « Introibo ad altare Dei, ad Deum qui lætificat juventutem meam »."
+
+
+
+}
+
 }
   
 }
