@@ -85,29 +85,36 @@ const periodsList = Array.from(
 
  function sortByClosestFeastDay(saints: Saint[]) {
   const today = new Date()
+  const currentYear = today.getFullYear()
 
   return [...saints].sort((a, b) => {
-    // 1️⃣ FeastDay vide → envoyer TOUT EN BAS
+    // 1️⃣ S'il manque une date → envoyer à la fin
     if (!a.feastDay) return 1
     if (!b.feastDay) return -1
 
     const [dayA, monthA] = a.feastDay.split('/').map(Number)
     const [dayB, monthB] = b.feastDay.split('/').map(Number)
 
-    // 2️⃣ Sécurité : si une date est invalide → mettre à la fin aussi
+    // 2️⃣ Si date invalide → à la fin
     if (!dayA || !monthA) return 1
     if (!dayB || !monthB) return -1
 
-    let dateA = new Date(today.getFullYear(), monthA - 1, dayA)
-    let dateB = new Date(today.getFullYear(), monthB - 1, dayB)
+    // 3️⃣ Construire les dates de cette année
+    let dateA = new Date(currentYear, monthA - 1, dayA)
+    let dateB = new Date(currentYear, monthB - 1, dayB)
 
-    // 3️⃣ Si fête déjà passée → reporter à l'année suivante
-    if (dateA < today) dateA = new Date(today.getFullYear() + 1, monthA - 1, dayA)
-    if (dateB < today) dateB = new Date(today.getFullYear() + 1, monthB - 1, dayB)
+    // 4️⃣ Si la fête est déjà passée → ajouter 1 an
+    if (dateA < today) {
+      dateA = new Date(currentYear + 1, monthA - 1, dayA)
+    }
+    if (dateB < today) {
+      dateB = new Date(currentYear + 1, monthB - 1, dayB)
+    }
 
     return dateA.getTime() - dateB.getTime()
   })
 }
+
 
 
 
