@@ -1476,6 +1476,46 @@
 
 }
 
+},
+
+"sainte-catherine": {
+  "id": "sainte-catherine",
+  "name": "Sainte Catherine Labouré",
+ 
+  "category": "sainte",
+
+  "period": "19e siècle",
+  "country": "France",
+  "type": "religieuse",
+  "birthDate": "1806",
+  "deathDate": "1876",
+  "feastDay": "28/11",
+  "image": "/saints/zoe.png",
+  "cover": "/saints/catherine-laboure.jpg",
+  "shortDescription": "Zoé Labouré, paysanne pieuse devenue Fille de la Charité, reçoit en 1830 des apparitions mariales rue du Bac qui inspirent la Médaille Miraculeuse. Restée humble et inconnue comme voyante, elle sert les pauvres toute sa vie et meurt en 1876.",
+  "biography": {
+
+  "sa-jeunesse": "Zoé Labouré naît à Fain-les-Moutiers, dans une famille de fermiers aisés, et sa mère meurt alors que Zoé n'a que 9 ans ; après l'enterrement de sa mère, la petite Zoé monte sur une chaise, embrasse une statue de la Vierge Marie et dit : 'Maintenant, c'est toi qui seras ma maman'. Sa sœur aînée part chez les religieuses, et à 12 ans, Zoé se retrouve à gérer la ferme familiale : elle ne va pas à l'école, cuisine, fait le ménage, soigne les animaux, et est connue pour sa piété, jeûnant le vendredi et le samedi.",
+
+  "ses-debuts": "Vers 18 ans, elle fait un rêve : elle est dans l'église de son village, un vieux prêtre célèbre la messe, se retourne et la regarde fixement, et elle a peur ; plus tard dans le rêve, elle visite un malade, et ce même prêtre lui dit : 'Ma fille, c'est bien de soigner les malades... Un jour vous viendrez à moi. Dieu a des desseins sur vous'. Elle refuse plusieurs demandes en mariage, mais son père, Pierre Labouré, refuse qu'elle devienne religieuse et l'envoie à Paris travailler chez son frère pour la 'distraire'. ",
+
+  "premiere-apparition": "En visitant un parloir des Sœurs de la Charité, elle voit un tableau de Saint Vincent de Paul et reconnaît immédiatement le vieux prêtre de son rêve, ce qui scelle sa vocation ; son père finit par céder, et elle entre chez les Filles de la Charité le 21 avril 1830, au Séminaire situé au 140, rue du Bac, à Paris, où elle prend le nom de Catherine. Dès son arrivée, Catherine a des visions mystiques (le cœur de Saint Vincent de Paul, le Christ dans l'Eucharistie), et le 18 juillet 1830, vers 23h30, Catherine s'entend appeler par un enfant (qu'elle identifie comme son ange gardien) qui lui dit : 'Venez à la chapelle, la Sainte Vierge vous attend'. Elle descend, la chapelle est illuminée, la Vierge Marie apparaît et s'assoit dans le fauteuil du directeur (le Père Catroux), Catherine s'agenouille et pose ses mains sur les genoux de la Vierge, et une conversation intime de deux heures s'engage ; Marie lui annonce : 'Les temps sont très mauvais. Des malheurs vont fondre sur la France. Le trône sera renversé.' (ce qui arrivera 10 jours plus tard), et ajoute : 'Je veux vous charger d'une mission'."
+ ,
+
+
+
+ "autre-apparition": " Le 27 novembre 1830, le soir, pendant l'oraison, Catherine voit la Vierge debout sur un globe, écrasant un serpent, et de ses mains sortent des rayons de lumière. Marie explique : 'Ces rayons sont le symbole des grâces que je répands sur les personnes qui me les demandent.' (certaines pierres aux doigts de Marie ne brillent pas : ce sont les grâces qu'on oublie de demander). Un ovale se forme autour de la Vierge avec l'inscription en lettres d'or : 'Ô Marie conçue sans péché, priez pour nous qui avons recours à vous', puis Catherine voit l'envers : la lettre M surmontée d'une croix, et en dessous deux cœurs (celui de Jésus couronné d'épines et celui de Marie transpercé d'un glaive), le tout entouré de 12 étoiles, et la Vierge lui dit : 'Faites frapper une médaille sur ce modèle. Les personnes qui la porteront avec confiance recevront de grandes grâces'. "
+ 
+ 
+ 
+ ,"les-medailles": "En février 1831, elle est envoyée à l'hospice d'Enghien pour servir les vieillards. Catherine a confié ses visions à un seul homme, son confesseur, le Père Aladel, et personne d'autre ne sait : pour ses sœurs, elle est une religieuse ordinaire, un peu 'paysanne', taiseuse et parfois têtue. Le Père Aladel finit par obtenir l'autorisation de l'Archevêque de Paris de frapper la médaille en 1832, sans révéler le nom de la voyante, et la même année, une terrible épidémie de choléra frappe Paris, les Sœurs distribuent les premières médailles, les guérisons et les conversions se multiplient, et le peuple commence à l'appeler 'La Médaille Miraculeuse', si bien qu'en quelques années des millions de médailles circulent dans le monde."
+
+,"sa-mort": "Catherine voit ce succès mais reste dans l'ombre : elle soigne les vieux, s'occupe de la basse-cour et de la porterie, vide les pots de chambre, épluche les légumes, gère les entrées, et ne cherche jamais la gloire ; quand on parle des apparitions devant elle, elle garde le silence ou change de sujet. Vers la fin de sa vie, sentant la mort approcher et voyant que la statue de la Vierge (faite selon les indications du Père Aladel) ne correspond pas exactement à ce qu'elle a vu (la Vierge aux Rayons), elle sort de son silence, et en 1876, quelques mois avant de mourir, elle confie son secret à sa supérieure, Sœur Dufès. Le 31 décembre 1876, Catherine meurt paisiblement à 70 ans."
+
+
+
+}
+
 }
  
   
