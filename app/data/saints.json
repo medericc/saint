@@ -1564,7 +1564,7 @@
   "type": "prêtre",
   "birthDate": "1823",
   "deathDate": "1871",
-  "feastDay": "",
+  "feastDay": "26/05",
   "image": "/saints/henri.png",
   "cover": "/saints/henrip.webp",
   "shortDescription": "Henri Planchat, consacre sa vie aux quartiers pauvres de Paris. Arrêté durant la Commune, il est fusillé rue Haxo le 26 mai 1871 pour sa foi.",
@@ -1592,28 +1592,63 @@
   "id": "jean-marie",
   "name": "Jean-Marie du Lau",
  
-  "category": "",
+  "category": "bienheureux",
 
   "period": "18e siècle",
   "country": "France",
-  "type": "prêtre",
+  "type": "archevêque",
   "birthDate": "1738",
   "deathDate": "1792",
-  "feastDay": "",
+  "feastDay": "02/09",
   "image": "/saints/jeanmarie.png",
-  "cover": "/saints/jeanmarie-cover.webp",
-  "shortDescription": "Henri Planchat, consacre sa vie aux quartiers pauvres de Paris. Arrêté durant la Commune, il est fusillé rue Haxo le 26 mai 1871 pour sa foi.",
+  "cover": "/saints/dulau.jpg",
+  "shortDescription": "Archevêque d’Arles, réforma son diocèse et joua un rôle modérateur en Provence. Refusant la Constitution civile, il fut pourchassé, arrêté puis emprisonné aux Carmes. Premier exécuté lors des massacres du 2 septembre 1792, il mourut en confessant sa foi.",
   "biography": {
 
-  "sa-jeunesse": "Jean-Marie du Lau naît le 30 octobre 1738 au château familial de La Coste, près de Bordeaux, dans une noble famille gasconne. Les du Lau d’Allemans sont une lignée militaire et parlementaire, fière de son honneur gascon. Son père, Jean du Lau, capitaine d’infanterie, meurt jeune. Sa mère appartient aux Ducasse, famille bourgeoise enrichie par le commerce maritime. Il entre très tôt au collège de Saint-Raphaël à Bordeaux, puis poursuit au séminaire de Saint-Sulpice à Paris, l’un des centres théologiques les plus réputés d’Europe. Il est ordonné prêtre le 18 décembre 1762.",
+ "sa-jeunesse": "Jean-Marie du Lau naît le 30 octobre 1738 au château familial de La Coste, à Biras. Il entre très tôt au collège de Saint-Raphaël à Bordeaux, puis poursuit au séminaire de Saint-Sulpice à Paris, l’un des centres théologiques les plus réputés d’Europe. Il est ordonné prêtre le 18 décembre 1762.",
 
-  "ses-debuts": "En 1770, il est remarqué par Louis XV lui-même lors d’une visite à Paris. Il est nommé archevêque d’Arles le 13 mars 1775, à seulement 36 ans. Il restaure l’antique cathédrale Saint-Trophime, réforme de la formation des séminaristes, inspection de paroisses mal tenues, développement des œuvres caritatives et Arles, très pauvre, sort peu à peu de la misère grâce à ses efforts.Dans les années 1780, la Provence est agitée par des tensions entre noblesse, parlementaires et Tiers-État. Du Lau maintient la paix civile dans la ville. Les autorités royales le consultent : il devient une figure modératrice recherchée.",
+  "ses-debuts": "Il est nommé archevêque d’Arles le 13 mars 1775, à seulement 36 ans. Il réforme de la formation des séminaristes, inspection de paroisses mal tenues, développement des œuvres caritatives. Dans les années 1780, la Provence est agitée par des tensions entre noblesse, parlementaires et Tiers-État. Du Lau maintient la paix civile dans la ville. Les autorités royales le consultent : il devient une figure modératrice recherchée.",
 
   "sa-rebellion": "En 1790, il refuse catégoriquement de prêter serment. À Arles, son refus suscite une haine violente des clubs révolutionnaires. Menacé de mort en Provence, il cherche refuge à Paris, espérant pouvoir se défendre légalement. Mais en août 1792, lors de la chute de la monarchie, il est arrêté et enfermé au couvent des Carmes, transformé en prison. Le couvent est bondé de prêtres, Du Lau encourage chacun à rester ferme mais non violent et prépare ses compagnons à la possibilité du martyre."
  ,
 
 
- "son-martyr": "Le 2 septembre, vers 14 h, une foule armée investit le couvent, un tribunal improvisé juge les prisonniers en quelques secondes (“As-tu prêté serment ?” S’ils répondent non → exécution immédiate). Du Lau passe en premier, interrogé, il répond : « Ma conscience m’interdit ce serment. Je suis prêtre de Jésus-Christ. Faites de moi ce qu’il vous plaira ». Il est immédiatement frappé et tué à la porte du jardin. Avant d’être abattu, il lève la main et bénit les prêtres derrière lui, leur disant : « Courage, mes amis ! Le Ciel est ouvert ! ». Sa mort déclenche l’exécution méthodique des autres religieux."
+ "son-martyr": "Le 2 septembre, vers 14 h, une foule armée investit le couvent, un tribunal improvisé juge les prisonniers en quelques secondes (“As-tu prêté serment ?” S’ils répondent non → exécution immédiate). Du Lau passe en premier, interrogé, il répond : « Ma conscience m’interdit ce serment. Je suis prêtre de Jésus-Christ. Faites de moi ce qu’il vous plaira ». Il est immédiatement frappé et tué à la porte du jardin. Avant d’être abattu, il lève la main et bénit les prêtres derrière lui, leur disant : « Courage, mes amis ! Le Ciel est ouvert ! ». "
+ 
+ 
+
+
+
+}
+
+},
+
+"salomon": {
+  "id": "salomon",
+  "name": "Saint Salomon Leclercq",
+ 
+  "category": "saint",
+
+  "period": "18e siècle",
+  "country": "France",
+  "type": "frère",
+  "birthDate": "1754",
+  "deathDate": "1792",
+  "feastDay": "02/09",
+  "image": "/saints/salomon.png",
+  "cover": "/saints/salomon.jpg",
+  "shortDescription": "Archevêque d’Arles, réforma son diocèse et joua un rôle modérateur en Provence. Refusant la Constitution civile, il fut pourchassé, arrêté puis emprisonné aux Carmes. Premier exécuté lors des massacres du 2 septembre 1792, il mourut en confessant sa foi.",
+  "biography": {
+
+ "sa-jeunesse": "Guillaume-Nicolas-Louis Leclercq, né le 15 novembre 1745 à Boulogne-sur-Mer, dans une famille de commerçants aisés. Attiré par la vie religieuse et l'éducation, il décide de ne pas suivre la voie commerciale de son père. Le 25 mars 1767, à l'âge de 21 ans, il entre au noviciat des Frères des Écoles Chrétiennes (l'ordre fondé par Saint Jean-Baptiste de La Salle) à Saint-Yon, près de Rouen. Il prend le nom de Frère Salomon.",
+
+  "ses-debuts": "Il exerce comme enseignant dans diverses écoles de l'Institut (Calais, Boulogne, etc.). Il est nommé Maître des Novices à Maréville (près de Nancy), un poste de grande responsabilité où il est chargé de former les futurs frères. Il occupe également les fonctions de procureur (économe) de la grande maison de Maréville, démontrant des compétences en gestion. En 1790, juste avant les troubles majeurs, il est appelé à Paris pour devenir le secrétaire du Frère Agathon, Supérieur Général de l'Institut.",
+
+  "sa-rebellion": "L'Institut des Frères des Écoles Chrétiennes, par fidélité au Pape, refuse collectivement de prêter ce serment à la Constitution. Ils sont donc considérés comme des 'réfractaires'. En 1791, l'Assemblée législative interdit le port de l'habit religieux. En 1792, l'Institut est déclaré dissous et ses écoles sont fermées ou laïcisées. Les Frères sont dispersés. Frère Salomon, refusant de prêter le serment, reste à Paris dans la clandestinité. Il vit discrètement rue Neuve-Saint-Jacques, près du Couvent des Carmes. De cette période, on conserve de nombreuses lettres qu'il écrivit à sa famille, témoignant de sa foi profonde et de son abandon à la Providence, malgré le danger croissant."
+ ,
+
+
+ "son-martyr": "Le 15 août 1792, il est dénoncé et arrêté chez lui, alors même que sa sœur lui rendait visite. Il est conduit au Couvent des Carmes, transformé en prison pour les prêtres et religieux réfractaires. Le 2 septembre, vers 14 h, une foule armée investit le couvent, un tribunal improvisé juge les prisonniers en quelques secondes (“As-tu prêté serment ?” S’ils répondent non → exécution immédiate). Il est tué dans le jardin du couvent à coups de sabre et de pique. Il avait 46 ans. Son corps, comme celui des autres victimes, fut jeté dans une fosse commune au cimetière de Vaugirard."
  
  
 
