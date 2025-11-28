@@ -1586,7 +1586,43 @@
 
 }
 
+},
+
+"jean-marie": {
+  "id": "jean-marie",
+  "name": "Jean-Marie du Lau",
+ 
+  "category": "",
+
+  "period": "18e siècle",
+  "country": "France",
+  "type": "prêtre",
+  "birthDate": "1738",
+  "deathDate": "1792",
+  "feastDay": "",
+  "image": "/saints/jeanmarie.png",
+  "cover": "/saints/jeanmarie-cover.webp",
+  "shortDescription": "Henri Planchat, consacre sa vie aux quartiers pauvres de Paris. Arrêté durant la Commune, il est fusillé rue Haxo le 26 mai 1871 pour sa foi.",
+  "biography": {
+
+  "sa-jeunesse": "Jean-Marie du Lau naît le 30 octobre 1738 au château familial de La Coste, près de Bordeaux, dans une noble famille gasconne. Les du Lau d’Allemans sont une lignée militaire et parlementaire, fière de son honneur gascon. Son père, Jean du Lau, capitaine d’infanterie, meurt jeune. Sa mère appartient aux Ducasse, famille bourgeoise enrichie par le commerce maritime. Il entre très tôt au collège de Saint-Raphaël à Bordeaux, puis poursuit au séminaire de Saint-Sulpice à Paris, l’un des centres théologiques les plus réputés d’Europe. Il est ordonné prêtre le 18 décembre 1762.",
+
+  "ses-debuts": "En 1770, il est remarqué par Louis XV lui-même lors d’une visite à Paris. Il est nommé archevêque d’Arles le 13 mars 1775, à seulement 36 ans. Il restaure l’antique cathédrale Saint-Trophime, réforme de la formation des séminaristes, inspection de paroisses mal tenues, développement des œuvres caritatives et Arles, très pauvre, sort peu à peu de la misère grâce à ses efforts.Dans les années 1780, la Provence est agitée par des tensions entre noblesse, parlementaires et Tiers-État. Du Lau maintient la paix civile dans la ville. Les autorités royales le consultent : il devient une figure modératrice recherchée.",
+
+  "sa-rebellion": "En 1790, il refuse catégoriquement de prêter serment. À Arles, son refus suscite une haine violente des clubs révolutionnaires. Menacé de mort en Provence, il cherche refuge à Paris, espérant pouvoir se défendre légalement. Mais en août 1792, lors de la chute de la monarchie, il est arrêté et enfermé au couvent des Carmes, transformé en prison. Le couvent est bondé de prêtres, Du Lau encourage chacun à rester ferme mais non violent et prépare ses compagnons à la possibilité du martyre."
+ ,
+
+
+ "son-martyr": "Le 2 septembre, vers 14 h, une foule armée investit le couvent, un tribunal improvisé juge les prisonniers en quelques secondes (“As-tu prêté serment ?” S’ils répondent non → exécution immédiate). Du Lau passe en premier, interrogé, il répond : « Ma conscience m’interdit ce serment. Je suis prêtre de Jésus-Christ. Faites de moi ce qu’il vous plaira ». Il est immédiatement frappé et tué à la porte du jardin. Avant d’être abattu, il lève la main et bénit les prêtres derrière lui, leur disant : « Courage, mes amis ! Le Ciel est ouvert ! ». Sa mort déclenche l’exécution méthodique des autres religieux."
+ 
+ 
+
+
+
 }
+
+}
+ 
  
   
 }
