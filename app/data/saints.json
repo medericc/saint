@@ -1516,6 +1516,41 @@
 
 }
 
+},
+
+"georges-darboy": {
+  "id": "georges-darboy",
+  "name": "Monseigneur Georges Darboy",
+ 
+  "category": "",
+
+  "period": "19e siècle",
+  "country": "France",
+  "type": "archevêque",
+  "birthDate": "1813",
+  "deathDate": "1871",
+  "feastDay": "",
+  "image": "/saints/georges.png",
+  "cover": "/saints/georges-cover.jpg",
+  "shortDescription": "Georges Darboy devient archevêque de Paris. Fidèle à Paris durant la Commune, il est arrêté, puis fusillé le 24 mai 1871, bénissant ses bourreaux.",
+  "biography": {
+
+  "sa-jeunesse": "Georges né le 16 janvier 1813 à Fayl-Billot, issu d'une famille modeste et laborieuse, ses parents sont épiciers. Il est ordonné prêtre le 17 décembre 1836 pour le diocèse de Langres.",
+
+  "ses-debuts": "En 1845 il monte à Paris.Initialement républicain convaincu en 1848, il se rallie par la suite à Napoléon III et au Second Empire, voyant dans l'Empire un garant de l'ordre favorable à l'Église. Darboy devient un 'prélat politique', très proche du pouvoir impérial et parfois en tension avec Rome. En 1863, il est nommé Archevêque de Paris. Il devient Sénateur du Second Empire et Conseiller privé de l'Empereur et est fait Grand officier de la Légion d'honneur en 1868. Darboy est un fervent défenseur des 'libertés de l'Église gallicane'. Mais après la proclamation du dogme et la chute de l'Empire, il finira par se soumettre par obéissance au Pape dans une lettre du 2 mars 1871.",
+
+  "son-arrestation": "Après la défaite de Sedan et la chute de Napoléon III, il fait le choix courageux de rester à Paris alors que beaucoup de notables fuient. Durant l'hiver terrible de 1870-71 (famine, froid), il se montre dévoué, organisant des secours pour les blessés et les pauvres. En mars 1871, l'insurrection éclate. Darboy est vu comme un représentant du 'parti de l'Ordre' et de Versailles, bien qu'il soit resté dans la capitale. Le 4 avril 1871, il est arrêté à l'archevêché sur ordre de la Commune. Il est incarcéré à la prison de Mazas. Il subit des interrogatoires où il répond avec calme et dignité."
+ ,
+
+
+ "son-martyr": "La Commune propose un échange : Mgr Darboy (et d'autres prêtres) contre Auguste Blanqui, le chef révolutionnaire détenu par Thiers à Versailles. Thiers refuse refusant de traiter d'égal à égal avec les insurgés. Le 22 mai 1871, alors que les troupes de Versailles entrent dans Paris, Darboy est transféré de Mazas à la prison de la Grande Roquette. Le 24 mai 1871, Mgr Darboy est appelé avec le président Bonjean, l'abbé Deguerry et trois jésuites. Ils sont conduits au chemin de ronde. Darboy bénit ses bourreaux avant de mourir. Il est fusillé. Il meurt la main levée en signe de bénédiction. Son corps est jeté dans une fosse commune au Père-Lachaise."
+ 
+ 
+
+
+
+}
+
 }
  
   
