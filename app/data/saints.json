@@ -1551,6 +1551,41 @@
 
 }
 
+},
+
+"henri-planchat": {
+  "id": "henri-planchat",
+  "name": "Bienheureux Henri Planchat",
+ 
+  "category": "bienheureux",
+
+  "period": "19e siècle",
+  "country": "France",
+  "type": "prêtre",
+  "birthDate": "1823",
+  "deathDate": "1871",
+  "feastDay": "",
+  "image": "/saints/henri.png",
+  "cover": "/saints/henri-cover.jpg",
+  "shortDescription": "Henri Planchat, consacre sa vie aux quartiers pauvres de Paris. Arrêté durant la Commune, il est fusillé rue Haxo le 26 mai 1871 pour sa foi.",
+  "biography": {
+
+  "sa-jeunesse": "Mathieu-Henri Planchat naît le 8 novembre 1823 à La Roche-sur-Yon, dans une famille profondément catholique : son père est magistrat et la famille a une mémoire marquée par la persécution religieuse de la Révolution (un grand-père qui avait caché des prêtres). Il est l'aîné d'une fratrie dont plusieurs enfants entreront dans la vie religieuse.",
+
+  "ses-debuts": "À Paris, il commence des études de droit mais, au contact des Conférences de Saint-Vincent de Paul (mouvement de charité fondé entre autres par Frédéric Ozanam), il ressent un appel au sacerdoce et à l’apostolat pour les pauvres. Ce basculement le mène au séminaire puis à l’ordination. Henri Planchat est ordonné prêtre le 21 décembre 1850.",
+
+  "sa-carriere": "Il est le premier prêtre à rejoindre la jeune congrégation des Religieux de Saint-Vincent-de-Paul (congrégation comptant jusque-là surtout des frères). Dès lors sa vie sacerdotale est entièrement dédiée aux quartiers ouvriers et populaires. Planchat s’installe dans les quartiers populaires (Grenelle, Vaugirard), il fonde et anime des patronages pour la jeunesse, des œuvres de catéchisme, visite les malades, soutient les familles ouvrières, aide les enfants et gère des œuvres sociales (patronage Sainte-Anne)."
+ ,
+
+
+ "son-martyr": "La défaite face à la Prusse (1870) et les bouleversements politiques qui suivront aboutissent à la Commune de Paris au printemps 1871. Dans ce contexte d’affrontements, de suspicions et d’exactions de part et d’autre, les membres du clergé se trouvent en danger. Henri Planchat est arrêté pendant les événements de la Commune. Après environ deux mois de détention, il est fusillé le 26 mai 1871 lors du massacre de la rue Haxo. Il meurt en compagnie d’autres religieux et prêtres ; leurs corps furent enterrés puis identifiés comme victimes « assassinées en haine de la foi »."
+ 
+ 
+
+
+
+}
+
 }
  
   
