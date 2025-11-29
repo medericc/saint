@@ -48,7 +48,7 @@
   "feastDay": "21/09",
 
   "image": "/saints/st-iphigenia-snip.png",
-  "cover": "/saints/iphi.png",
+  "cover": "/saints/iphi.webp",
 
   "shortDescription": "Princesse nubienne devenue abbesse et disciple de saint Matthieu, elle consacra sa vie au Christ et fonda la première abbaye chrétienne d'Éthiopie.",
 
@@ -79,7 +79,7 @@
   "feastDay": "26/01",
 
   "image": "/saints/paule.jpg",
-  "cover": "/saints/paulee.jpeg",
+  "cover": "/saints/paulee.webp",
   "shortDescription": "Noble romaine devenue moniale, elle fonda avec saint Jérôme des monastères à Bethléem et consacra sa vie à l’étude des Écritures et à la prière.",
 
   "biography": {
@@ -109,7 +109,7 @@
   "feastDay": "28/09",
 
   "image": "/saints/eustochium.png",
-  "cover": "/saints/eustochiumcover.jpg",
+  "cover": "/saints/eustochiumcover.webp",
   "shortDescription": "Fille de sainte Paule et disciple de saint Jérôme, elle dirigea les monastères de Bethléem après la mort de sa mère.",
 
   "biography": {
@@ -143,7 +143,7 @@
   "feastDay": "22/02",
 
   "image": "/saints/isabelle.jpg",
-  "cover": "/saints/isabelelcover.jpg",
+  "cover": "/saints/isabelelcover.webp",
   "shortDescription": "Sœur de Saint Louis, elle refusa le mariage pour se consacrer à Dieu et fonda le monastère de Longchamp sous la règle de l’humilité de la Bienheureuse Vierge Marie.",
 
   "biography": {
@@ -174,7 +174,7 @@
   "feastDay": "30/01",
 
   "image": "/saints/bathilde-profile.jpeg",
-  "cover": "/saints/bathilde.jpg",
+  "cover": "/saints/bathilde.webp",
   "shortDescription": "Ancienne esclave devenue reine des Francs, elle œuvra pour la justice, la libération des esclaves et la réforme de l’Église avant de finir sa vie au monastère de Chelles.",
 
   "biography": {
@@ -205,7 +205,7 @@
   "feastDay": "",
 
   "image": "/saints/anne.jpg",
-  "cover": "/saints/anne-cover.jpg",
+  "cover": "/saints/anne-cover.webp",
   "shortDescription": "Duchesse de Bretagne et deux fois reine de France, elle allia piété et sens politique pour préserver l’identité bretonne et soutenir la foi et les arts.",
 
   "biography": {
@@ -237,7 +237,7 @@
   "feastDay": "2/11",
 
   "image": "/saints/margeuritel.png",
-                  "cover": "/saints/margeueite-l.jpg",
+                  "cover": "/saints/margeueite-l.webp",
   "shortDescription": "Duchesse d'Alençon, femme de prière et de justice, elle fonda des monastères et se retira chez les Clarisses, où elle mourut dans la sainteté.",
 
   "biography": {
@@ -270,7 +270,7 @@
   "feastDay": "25/06",
 
   "image": "/saints/dorotheee.png",
-"cover": "/saints/dorotheee.jpeg",
+"cover": "/saints/dorotheee.webp",
   "shortDescription": "Mystique polonaise, mère de neuf enfants, elle mena une vie de pénitence et devint recluse à Marienwerder, où elle mourut en odeur de sainteté.",
 
   "biography": {
@@ -297,7 +297,7 @@
   "deathDate": "inconnue",
   "feastDay": "",
   "image": "/saints/maragerath.jpg",
-  "cover": "/saints/amrageth-cover.jpg",
+  "cover": "/saints/amrageth-cover.webp",
   "shortDescription": "Pèlerine anglaise ayant défendu Jérusalem lors du siège de 1187, réduite en esclavage puis libérée, elle témoigna d’un courage héroïque et termina sa vie comme religieuse cistercienne.",
 
   "biography": {
@@ -322,7 +322,7 @@
   "deathDate": "1505",
   "feastDay": "04/02",
   "image": "/saints/jeanne-de.jpg",
-   "cover": "/saints/jeannede.jpg",
+   "cover": "/saints/jeannede.webp",
   "shortDescription": "Fille de Louis XI, reine de France durant quelques mois, elle fonda l’ordre de l’Annonciade, dédié à la Vierge Marie.",
 
   "biography": {
@@ -346,7 +346,7 @@
   "deathDate": "545",
   "feastDay": "03/06",
   "image": "/saints/coltilde.webp",
-  "cover": "/saints/coltilde-cover.jpg",
+  "cover": "/saints/coltilde-cover.webp",
   "shortDescription": "Reine des Francs et épouse de Clovis, elle œuvra à la conversion du royaume au christianisme et vécut ensuite dans la prière.",
 
   "biography": {
@@ -370,7 +370,7 @@
   "deathDate": "1914",
   "feastDay": "10/01",
   "image": "/saints/leonie.jpg",
-  "cover": "/saints/leonie-avait.jpg",
+  "cover": "/saints/leonie-avait.webp",
   "shortDescription": "Religieuse française, fondatrice des Oblates de Saint-François de Sales, dédiée à la jeunesse ouvrière et à l’éducation chrétienne.",
 
   "biography": {
@@ -392,7 +392,7 @@
   "deathDate": "1792",
   "feastDay": "",
   "image": "/saints/godin.jpg",
-   "cover": "/saints/godins.jpg",
+   "cover": "/saints/godins.webp",
   "shortDescription": "Femme de foi et d’endurance, elle traversa seule l’Amazonie pendant plusieurs semaines, confiant sa survie à la Providence divine.",
 
   "biography": {
@@ -439,7 +439,7 @@
   "deathDate": "968",
   "feastDay": "14/03",
   "image": "/saints/mathilde.jpg",
-  "cover": "/saints/mathilde.png",
+  "cover": "/saints/mathilde.webp",
   "shortDescription": "Reine d’Allemagne, mère d’Otton le Grand, elle fut célèbre pour sa charité et la fondation de nombreux monastères.",
 "biography": {
   "origine-et-enfance": "Fille du comte saxon Théodoric, Mathilde naquit vers 895 et fut élevée au couvent d’Erfurt, en Thuringe.",
@@ -462,7 +462,7 @@
     "deathDate": "399",
     "feastDay": "27/12",
     "image": "/saints/fabiola.png",
-    "cover": "/saints/fabiola-cover.jpg",
+    "cover": "/saints/fabiola-cover.webp",
     "shortDescription": "Noble romaine convertie, elle fonda le premier hôpital chrétien d’Occident et consacra sa vie au service des malades et des pauvres.",
   "biography": {
   "origine-et-vie-familiale": "Issue de la noble gens Fabia, Fabiola vécut au 4e siècle à Rome. Mariée à un homme violent, elle obtint le divorce et se remaria, ce qui fut considéré comme une faute.",
@@ -483,7 +483,7 @@
     "deathDate": "1195",
     "feastDay": "",
     "image": "/saints/herrade.jpg",
-     "cover": "/saints/herrade.png",
+     "cover": "/saints/herrade.webp",
     "shortDescription": "Abbesse bénédictine, auteure du célèbre Jardin des Délices, une encyclopédie illustrée alliant foi et savoir.",
    "biography": {
   "origine-et-entree-au-monastere": "Née en 1130 en Alsace, Herrade entra très jeune au monastère de Hohenbourg, aussi appelé Mont Sainte-Odile.",
@@ -504,7 +504,7 @@
     "deathDate": "vers 1550",
     "feastDay": "",
     "image": "/saints/maria-proflile.webp",
-    "cover": "/saints/maria-prolfile.jpeg",
+    "cover": "/saints/maria-prolfile.webp",
     "shortDescription": "Espagnole installée au Pérou, elle introduisit la culture du blé en Amérique du Sud et soutint la fondation de la première église de Lima.",
   "biography": {
   "origine-et-arrivee-au-nouveau-monde": "Née en Espagne au début du 16e siècle, Maria Escobar rejoignit le Nouveau Monde avec son mari et s’installa dans la vice-royauté du Pérou.",
@@ -524,7 +524,7 @@
     "deathDate": "1852",
     "feastDay": "18/11",
     "image": "/saints/philippine.jpg",
-    "cover": "/saints/philippine-pa-profile.jpg",
+    "cover": "/saints/philippine-pa-profile.webp",
     "shortDescription": "Religieuse française du Sacré-Cœur, missionnaire aux États-Unis, elle fonda la première école du Sacré-Cœur en Amérique et se dévoua aux Amérindiens avec une foi infatigable.",
     "biography": {
   "origine-et-enfance": "Sainte Rose Philippine Duchesne naquit à Grenoble en 1769. Dès son enfance, elle manifesta un grand amour pour la prière et le service des pauvres. Élève au couvent de la Visitation, elle rêvait de devenir religieuse, mais son père s’y opposa et la retira de l’école.",
@@ -547,7 +547,7 @@
     "deathDate": "1617",
     "feastDay": "23/08",
     "image": "/saints/rose.png",
-    "cover": "/saints/rose-cover.jpg",
+    "cover": "/saints/rose-cover.webp",
     "shortDescription": "Première sainte du continent américain, elle mena une vie de pénitence et de prière à Lima, consacrant son existence à Dieu, aux pauvres et à la réparation des péchés du monde.",
     "biography": {
   "naissance-et-enfance": "Isabelle Flore de Oliva, née à Lima le 20 avril 1586, fut surnommée 'Rosa' dès son enfance après qu'une domestique remarqua la beauté lumineuse de son visage. Très jeune, elle manifesta un attrait profond pour la prière, la solitude et la mortification.",
@@ -591,7 +591,7 @@
   "deathDate": "430",
   "feastDay": "28/08",
   "image": "/saints/augsutinx.jpg",
-    "cover": "/saints/augustin.jpeg",
+    "cover": "/saints/augustin.webp",
  
   "shortDescription": "Évêque d’Hippone et grand docteur de l’Église, il passa d’une jeunesse tourmentée à une foi profonde. Sa conversion fut guidée par les prières de sa mère, sainte Monique. Auteur des 'Confessions' et de 'La Cité de Dieu', il est l’un des plus grands penseurs chrétiens.",
   "biography": {
@@ -663,7 +663,7 @@
   "deathDate": "1897-09-30",
   "feastDay": "01/10",
   "image": "/saints/therese-prfoil.jpg",
-   "cover": "/saints/therese.jpeg",
+   "cover": "/saints/therese.webp",
   "shortDescription": "Carmélite de Lisieux, Thérèse Martin a vécu une vie cachée d’amour, de simplicité et d’abandon total à Dieu. Par sa 'petite voie' de confiance et d’amour, elle enseigne que la sainteté se vit dans les gestes les plus ordinaires. Docteur de l’Église, elle est un modèle universel d’amour confiant envers Dieu.",
   "biography": {
   "naissance-et-famille": "Sainte Thérèse de l’Enfant-Jésus et de la Sainte-Face naît le 2 janvier 1873 à Alençon, dernière d’une famille chrétienne très pieuse. Ses parents, Louis Martin et Zélie Guérin, seront canonisés en 2015.",
@@ -692,7 +692,7 @@
   "deathDate": "1179-09-17",
   "feastDay": "17/09",
   "image": "/saints/hildeagrde-prfile.jpg",
-  "cover": "/saints/hildeagrde.jpg",
+  "cover": "/saints/hildeagrde.webp",
   "shortDescription": "Mystique bénédictine du XIIe siècle, Hildegarde de Bingen fut une visionnaire, théologienne, médecin, compositrice et docteur de l’Église. Par sa sagesse, sa science et sa foi, elle unit la contemplation à l’action, voyant en la création un reflet de la lumière divine.",
   "biography": {
   "naissance-et-enfance": "Hildegarde naît vers 1098 à Bermersheim vor der Höhe, dans la vallée du Rhin, au sein d’une famille noble. Enfant fragile mais dotée de dons spirituels précoces, elle reçoit dès son jeune âge des visions mystiques.",
@@ -752,7 +752,7 @@
   "deathDate": "1582-10-04",
   "feastDay": "15/10",
   "image": "/saints/avila.jpg",
-  "cover": "/saints/avila.jpg",
+  "cover": "/saints/avila.webp",
   "shortDescription": "Mystique espagnole et grande réformatrice du Carmel, Thérèse d’Ávila a uni contemplation et action. Par ses écrits, sa prière et ses fondations, elle a renouvelé la vie spirituelle de l’Église. Elle demeure un modèle de foi profonde et de courage réformateur.",
   "biography": {
   "jeunesse-et-vocation": "Thérèse d’Ávila naît en 1515 à Ávila, en Espagne, dans une famille noble profondément chrétienne. Très jeune, elle manifeste un goût marqué pour la prière, les récits de saints et les lectures spirituelles, développant un désir précoce de se donner entièrement à Dieu.",
@@ -782,7 +782,7 @@
   "deathDate": "1997-09-05",
   "feastDay": "05/09",
   "image": "/saints/calcultta.png",
-    "cover": "/saints/calcualuta-cover.jpeg",
+    "cover": "/saints/calcualuta-cover.webp",
   "shortDescription": "Fondatrice des Missionnaires de la Charité, Mère Teresa consacra sa vie aux plus pauvres parmi les pauvres. Par sa foi, sa tendresse et son humilité, elle devint un symbole universel de la compassion chrétienne et du service désintéressé.",
   "biography": {
   "jeunesse-et-appel-religieux": "Mère Teresa, née Anjezë Gonxhe Bojaxhiu en 1910 à Skopje, grandit dans une famille catholique albanaise profondément croyante. Dès son enfance, elle ressent l’appel à servir Dieu et les plus pauvres. À 18 ans, elle entre chez les Sœurs de Lorette en Irlande avant d’être envoyée en Inde.",
@@ -812,7 +812,7 @@
   "deathDate": "1591-12-14",
   "feastDay": "14/12",
   "image": "/saints/croix-profil.webp",
-   "cover": "/saints/jean-de-croix.jpg",
+   "cover": "/saints/jean-de-croix.webp",
   "shortDescription": "Mystique et réformateur du Carmel, Jean de la Croix est l’un des grands docteurs de la vie spirituelle. Son enseignement sur la ‘nuit obscure’ et l’union à Dieu fait de lui un guide pour les âmes en quête de pureté et de lumière divine.",
   "biography": {
   "jeunesse-et-formation": "Jean de la Croix, né Juan de Yepes y Álvarez en 1542 à Fontiveros, grandit dans une famille pauvre et marquée par l’adversité. Son père meurt alors qu’il est encore enfant, laissant sa mère Catalina élever seule ses fils. Jean étudie dans une école pour enfants pauvres, travaille dans un hôpital et reçoit une solide formation humaniste chez les Jésuites entre 1559 et 1563.",
@@ -843,7 +843,7 @@
   "deathDate": "1552-12-03",
   "feastDay": "03/12",
   "image": "/saints/xavier-profil.png",
-  "cover": "/saints/xavier.jpg",
+  "cover": "/saints/xavier.webp",
   "shortDescription": "Cofondateur de la Compagnie de Jésus et grand missionnaire en Asie, saint François Xavier porta l’Évangile jusqu’en Inde, au Japon et aux portes de la Chine. Son zèle infatigable et sa foi ardente en font l’un des plus grands apôtres missionnaires de l’Église.",
  "biography": {
   "jeunesse-et-etudes": "François Xavier naît en 1506 au château de Xavier, dans le royaume de Navarre, au sein d’une famille noble. Après la mort de son père, il poursuit des études brillantes qui le mènent à l’Université de Paris en 1525.",
@@ -874,7 +874,7 @@
   "deathDate": "1270-08-25",
   "feastDay": "25/08",
   "image": "/saints/louis.webp",
-  "cover": "/saints/louis.jpeg",
+  "cover": "/saints/louis.webp",
   "shortDescription": "Roi de France et modèle du souverain chrétien, Saint Louis allia une profonde piété à un sens exceptionnel de la justice et du service du peuple. Son règne incarne l’idéal du roi juste, pacificateur et dévoué à Dieu.",
   "biography": {
   "jeunesse-et-famille": "Louis IX naît le 25 avril 1214 à Poissy, dans le royaume de France. Fils du roi Louis VIII et de Blanche de Castille, il perd son père en 1226 et devient roi alors qu’il n’a que douze ans. Sa mère assure la régence et façonne la personnalité du jeune roi. Blanche de Castille lui inculque la piété, le sens de la justice et le devoir royal : « Le but d’un roi est de protéger le peupl pas d’être aimé ». Elle lui disait aussi : « Je préfère te voir mort que coupable d’un seul péché mortel. » ",
@@ -934,7 +934,7 @@
   "deathDate": "1793-01-21",
   "feastDay": "",
  "image": "/saints/louis-p.jpg",
- "cover": "/saints/louis.jpg",
+ "cover": "/saints/louis.webp",
   "shortDescription": "Roi de France de 1774 à 1793, Louis XVI fut un souverain pacifique, bienveillant et soucieux de justice, cherchant jusqu’au bout à réformer le royaume sans violence. Son exécution durant la Révolution en fit une figure de martyr et de pardon chrétien.",
  "biography": {
   "jeunesse-et-formation": "Louis XVI naît le 23 août 1754 à Versailles. Par tempérament réservé, doux et réfléchi, il reçoit une éducation solide fondée sur la religion, la morale et le sens du devoir. D’abord troisième fils, il n’est pas destiné à régner, mais la mort de ses frères aînés le conduit à devenir dauphin, puis roi en 1774. Dès le début de son règne, il se montre animé d’un désir sincère de justice, d’équité et de paix sociale.",
@@ -963,7 +963,7 @@
   "deathDate": "1793-10-16",
   "feastDay": "",
  "image": "/saints/marie-aa.jpg",
- "cover": "/saints/marie-a.jpg",
+ "cover": "/saints/marie-a.webp",
   "shortDescription": "Épouse de Louis XVI et mère de famille, Marie-Antoinette fut injustement défigurée par la propagande révolutionnaire. Durant la Révolution, elle fit preuve d’un courage et d’une dignité remarquables, pardonnant même à ceux qui la conduisirent à la mort.",
  "biography": {
   "jeunesse-et-origines": "Marie-Antoinette naît le 2 novembre 1755 à Vienne, neuvième fille de l'impératrice Marie-Thérèse d'Autriche. Arrivée en France à l'âge de quatorze ans pour épouser le dauphin Louis, futur Louis XVI, elle découvre un monde de cour brillant.",
@@ -995,7 +995,7 @@
   "deathDate": "1431-05-30",
   "feastDay": "30/05",
   "image": "/saints/jeannedarc.png",
-  "cover": "/saints/jeanne-cover.jpg",
+  "cover": "/saints/jeanne-cover.webp",
   "shortDescription": "Jeanne d’Arc, jeune paysanne lorraine guidée par la foi et les voix célestes, mena les armées françaises à la victoire d’Orléans et permit le sacre de Charles VII à Reims, avant d’être trahie, jugée et brûlée vive à Rouen.",
  "biography": {
   "la-mission-divine": "Née vers 1412 à Domrémy (maison de Rémy), Jeanne d’Arc grandit dans une période terrible pour le pays : la France est ravagée par la guerre de Cent Ans. Dès l’âge de 13 ans, elle affirme entendre des « voix venues de Dieu » : celles de saint Michel Archange, sainte Catherine d’Alexandrie et sainte Marguerite d’Antioche. Ces voix lui disent qu’il y a « grande pitié au royaume de France » et qu’elle doit aller trouver le dauphin Charles pour le faire sacrer à Reims. Jeanne parle d’ailleurs un excellent français. En 1429, les anglais exécutent 70 % des nobles français, Charles d’Orléans est fait prisonnier et les Bourguignons se sont alliés aux anglais, seul le Mont-Saint-Michel a résisté et si Orléans tombe, c’est fini. ",
@@ -1033,7 +1033,7 @@
   "deathDate": "1917",
   "feastDay": "22/12",
   "image": "/saints/xaviere-profile.png",
-    "cover": "/saints/xaviere.jpeg",
+    "cover": "/saints/xaviere.webp",
   "shortDescription": "Francesca Saverio Cabrini, née en 1850 en Italie, fonda les Missionnaires du Sacré-Cœur. Partie à New York en 1889, elle consacra sa vie aux immigrés italiens : orphelinats, écoles, hôpitaux, aide administrative et sociale. Figure héroïque de charité, elle transforma durablement la vie des migrants.",
  "biography": {
   "le-contexte": "À la fin du 19ᵉ siècle, des centaines de milliers d’Italiens arrivent aux États-Unis. Ils sont pauvres, sans logement et souvent analphabètes et ils sont catholiques donc mal vus et considérés comme inférieurs par les Anglo-Protestants.",
@@ -1065,7 +1065,7 @@
   "deathDate": "1641",
   "feastDay": "12/08",
   "image": "/saints/chantal-profile.png",
-    "cover": "/saints/jeannedecover.jpg",
+    "cover": "/saints/jeannedecover.webp",
  
   "shortDescription": "Jeanne de Chantal, née en 1572 à Dijon, élevée chrétiennement par son père, épouse à 20 ans le baron de Rabutin. Devenue veuve à 28 ans, elle s’abandonne à Dieu. Guidée par François de Sales, elle fonde en 1610 la Visitation et établit 87 monastères, vivant une charité héroïque.",
  "biography": {
@@ -1096,7 +1096,7 @@
   "deathDate": "1821",
   "feastDay": "04/01",
   "image": "/saints/seton-profile.png",
-  "cover": "/saints/seton.jpg",
+  "cover": "/saints/seton.webp",
   "shortDescription": "Née en 1774 à New York, Elizabeth Seton grandit dans la foi épiscopalienne. Mariée et mère de cinq enfants, elle devient veuve en Italie où elle découvre le catholicisme. Convertie malgré les oppositions, elle fonde à Emmitsburg une école pour filles et la communauté des Sœurs de la Charité. Elle meurt en 1821.",
  "biography": {
 
@@ -1128,7 +1128,7 @@
   "deathDate": "",
   "feastDay": "",
   "image": "/saints/abby-profile.jpg",
-    "cover": "/saints/abby.jpg",
+    "cover": "/saints/abby.webp",
   "shortDescription": "Abby Johnson est devenue dirigeante d’une clinique d’avortement mais près avoir assisté à un avortement, elle démissionne et devient militante pro-vie. Elle porte encore le souvenir de ses deux enfants avortés et combat cet industrie (73 millions de morts en 2024) depuis plus de quinze ans.",
  "biography": {
 
@@ -1188,7 +1188,7 @@
   "deathDate": "1093",
   "feastDay": "16/11",
   "image": "/saints/marguerite-profile-.webp",
-    "cover": "/saints/marguerite-profile.jpg",
+    "cover": "/saints/marguerite-profile.webp",
   "shortDescription": "Marguerite princesse exilée devenue reine, réforma l’Église écossaise, introduisit discipline romaine, charité et vie spirituelle à la cour. Épouse de Malcolm III et mère de huit enfants, elle servit les pauvres, encouragea monastères et réformes. Elle mourut peu après la mort de son mari, en odeur de sainteté.",
  "biography": {
 
@@ -1218,7 +1218,7 @@
   "deathDate": "1796",
   "feastDay": "",
   "image": "/saints/francois.png",
-    "cover": "/saints/francois.jpeg",
+    "cover": "/saints/francois.webp",
   "shortDescription": "Marin royal et catholique fervent, François-Athanase Charette de La Contrie devint l’un des grands chefs vendéens. Traqué pour sa fidélité au roi et à la foi, il affronta la Révolution jusqu’au martyre. Capturé en 1796, il mourut en proclamant sa loyauté et sa foi.",
  "biography": {
 
@@ -1252,7 +1252,7 @@
   "deathDate": "1832",
   "feastDay": "",
   "image": "/saints/celeste-p.png",
-    "cover": "/saints/celeste-cover.jpg",
+    "cover": "/saints/celeste-cover.webp",
   "shortDescription": "Catholique fervente, Céleste Bulkeley devint une cavalière de l'armée vendéenne. Après la mort du roi et de son mari officier, elle prit les armes contre la Révolution. Elle survécut aux colonnes infernales et au massacre du Mans, combattant pour sa foi. Elle retourna à la vie civile en 1796.",
  "biography": {
 
@@ -1278,7 +1278,7 @@
   "deathDate": "1793",
   "feastDay": "",
   "image": "/saints/jeanne-r.png",
-    "cover": "/saints/jeannero.png",
+    "cover": "/saints/jeannero.webp",
   "shortDescription": "Catholique de Courlay, Jeanne Robin rejoignit l'armée vendéenne pour défendre sa foi. Acceptée par Lescure pour son courage, elle combattit toujours en tête. Surnommée la “Jeanne d’Arc de la Vendée”, elle mourut héroïquement lors de la prise de Thouars en 1793.",
  "biography": {
 
@@ -1303,7 +1303,7 @@
   "deathDate": "1660-09-27",
   "feastDay": "27/09",
   "image": "/saints/vincent.png",
-  "cover": "/saints/vincent.jpg",
+  "cover": "/saints/vincent.webp",
   "shortDescription": "Vincent, jeune prêtre ambitieux enlevé par des pirates musulmans. Vendu esclave à Tunis, il vit deux ans de captivité. Libéré, il est transformé et consacre le reste de sa vie à organiser la charité : il fonde les Lazaristes et les Filles de la Charité pour servir les pauvres, les malades et les galériens.",
   "biography": {
   "jeunesse-et-ambition": "Vincent est né en 1581 à Pouy, dans une famille de paysans modestes (Jean de Paul et Bertrande de Moras). Ses parents se sacrifient pour l'envoyer étudier vers 1595 au collège des Cordeliers à Dax, et Vincent complète ces revenus en donnant des cours particuliers. Il y apprend la grammaire, le latin et la théologie. À cette époque, sa motivation principale est de sortir sa famille de la pauvreté. Il rêve d'une carrière ecclésiastique confortable et ne se destine pas encore au service des pauvres. Poussé par sa famille, il avance vite : il est ordonné prêtre à seulement 19 ans (en 1600) à Château-l’Évêque, bien avant l'âge habituel de 24 ans, grâce à une dispense.",
@@ -1337,7 +1337,7 @@
   "deathDate": "1253",
   "feastDay": "11/08",
   "image": "/saints/claire.png",
-  "cover": "/saints/claire-cover.jpg",
+  "cover": "/saints/claire-cover.webp",
   "shortDescription": "Claire, noble d’Assise, rejoint François et fonde les Pauvres Dames, vivant pauvreté radicale et prière. Abbesse d’origine, elle défend son monastère, notamment lors de l’épisode de l’Eucharistie contre les Sarrasins. Autrice de la Règle des Clarisses, elle meurt en 1253, renommée pour sa douceur et sa fermeté spirituelle.",
   "biography": {
   "contexte": "La famille vit au sein d’une Assise déchirée par les conflits entre familles aristocratiques et les mouvements politiques entre Empire, Papauté, et commununes italiennes.",
@@ -1377,7 +1377,7 @@
   "deathDate": "1360",
   "feastDay": "26/11",
   "image": "/saints/delphine.png",
-  "cover": "/saints/delphine-cover.jpg",
+  "cover": "/saints/delphine-cover.webp",
   "shortDescription": "Orpheline provençale, Delphine épouse en 1299 le prépubère et futur Saint Elzéar de Sabran ; tous deux vivent un mariage virginal franciscain, dans la prière et la charité. Veuve en 1323, elle vend tout pour les pauvres, mène une vie de pénitence à Apt et meurt en odeur de sainteté.",
   "biography": {
 
@@ -1415,7 +1415,7 @@
   "deathDate": "1794",
   "feastDay": "17/07",
   "image": "/saints/charlotte.png",
-  "cover": "/saints/charlotte-cover.png",
+  "cover": "/saints/charlotte-cover.webp",
   "shortDescription": "Doyenne durant la Révolution, elle vécut la clandestinité avec sa communauté après leur expulsion. Arrêtée puis jugée, elle fut guillotinée en 1794, chantant jusqu’à son dernier souffle.",
   "biography": {
 
@@ -1453,7 +1453,7 @@
   "deathDate": "1794",
   "feastDay": "21/02",
   "image": "/saints/noel.png",
-  "cover": "/saints/noel-cover.jpg",
+  "cover": "/saints/noel-cover.webp",
   "shortDescription": "Noël Pinot devint prêtre en 1770 et servit les plus modestes. Refusant la Constitution civile du clergé, il poursuivit son ministère clandestinement. Arrêté en 1794, il fut guillotiné à Angers, montant à l’échafaud en habits sacerdotaux en récitant « Introibo ad altare Dei ».",
   "biography": {
 
@@ -1491,7 +1491,7 @@
   "deathDate": "1876",
   "feastDay": "28/11",
   "image": "/saints/zoe.png",
-  "cover": "/saints/catherine-laboure.jpg",
+  "cover": "/saints/catherine-laboure.webp",
   "shortDescription": "Zoé Labouré, paysanne pieuse devenue Fille de la Charité, reçoit en 1830 des apparitions mariales rue du Bac qui inspirent la Médaille Miraculeuse. Restée humble et inconnue comme voyante, elle sert les pauvres toute sa vie et meurt en 1876.",
   "biography": {
 
@@ -1531,7 +1531,7 @@
   "deathDate": "1871",
   "feastDay": "",
   "image": "/saints/georges.png",
-  "cover": "/saints/georges-cover.jpg",
+  "cover": "/saints/georges-cover.webp",
   "shortDescription": "Georges Darboy devient archevêque de Paris. Fidèle à Paris durant la Commune, il est arrêté, puis fusillé le 24 mai 1871, bénissant ses bourreaux.",
   "biography": {
 
@@ -1601,7 +1601,7 @@
   "deathDate": "1792",
   "feastDay": "02/09",
   "image": "/saints/jeanmarie.png",
-  "cover": "/saints/dulau.jpg",
+  "cover": "/saints/dulau.webp",
   "shortDescription": "Archevêque d’Arles, réforma son diocèse et joua un rôle modérateur en Provence. Refusant la Constitution civile, il fut pourchassé, arrêté puis emprisonné aux Carmes. Premier exécuté lors des massacres du 2 septembre 1792, il mourut en confessant sa foi.",
   "biography": {
 
@@ -1636,7 +1636,7 @@
   "deathDate": "1792",
   "feastDay": "02/09",
   "image": "/saints/salomon.png",
-  "cover": "/saints/salomon.jpg",
+  "cover": "/saints/salomon.webp",
   "shortDescription": "Frère des Écoles Chrétiennes, enseignant puis maître des novices et secrétaire du Supérieur général, reste fidèle à l’Église pendant la Révolution. Refusant le serment constitutionnel, il est arrêté et massacré aux Carmes le 2 septembre 1792.",
   "biography": {
 
@@ -1671,7 +1671,7 @@
   "deathDate": "1906",
   "feastDay": "08/11",
   "image": "/saints/eli.png",
-  "cover": "/saints/eli.jpg",
+  "cover": "/saints/eli.webp",
   "shortDescription": "Élisabeth Catez, pianiste prodige marquée par la mort précoce de son père, choisit très jeune de se consacrer à Dieu. Entrée au Carmel de Dijon en 1901, elle développe une profonde spiritualité centrée sur la Trinité. Atteinte de la maladie d’Addison, elle meurt en 1906, offerte comme « Louange de Gloire ».",
   "biography": {
 
