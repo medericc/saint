@@ -31,8 +31,14 @@ const desktopName = rawName
   .trim()
 
   return (
-    <div className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden border border-gray-100">
-      {/* Image */}
+  <div className="
+  bg-white rounded-2xl border border-gray-100
+  transition-all duration-300 overflow-hidden
+  shadow-sm
+  hover:-translate-y-1 hover:shadow-[0_8px_25px_rgba(218,165,32,0.25)]
+">
+
+  {/* Image */}
       <div className="relative h-48 bg-gray-200">
         <Image
           src={saint.cover}
@@ -67,12 +73,20 @@ const desktopName = rawName
 
         {/* Actions */}
         <div className="flex justify-between items-center">
-          <Link 
-            href={`/saint/${saint.id}`}
-            className="text-gold hover:text-gold-dark font-medium text-sm transition-colors"
-          >
-            En savoir plus →
-          </Link>
+        <Link
+  href={`/saint/${saint.id}`}
+  className="
+    relative text-gold font-semibold text-sm
+    hover:text-gold-dark transition-all
+    hover:translate-x-1 inline-flex items-center
+    after:absolute after:left-0 after:bottom-0 after:h-[2px]
+    after:w-0 after:bg-gold after:transition-all after:duration-300
+    hover:after:w-full
+  "
+>
+  En savoir plus →
+</Link>
+
           
          
         </div>
