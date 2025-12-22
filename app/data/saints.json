@@ -1691,6 +1691,36 @@
 
 }
 
+},
+"mathilde-de-toscane": {
+  "id": "mathilde-de-toscane",
+  "name": "Mathilde de Toscane",
+
+  "category": "figure-historique",
+
+  "period": "11e-12e siècle",
+  "country": "Italie",
+  "type": "comtesse",
+
+  "birthDate": "1046",
+  "deathDate": "1115",
+  "feastDay": "",
+
+  "image": "/saints/mathilde-profile.jpeg",
+  "cover": "/saints/mathilde-cover.webp",
+  "shortDescription": "Protectrice infatigable de la papauté et chef militaire redoutable face à l'Empire.",
+
+  "biography": {
+    "jeunesse-et-formation-guerriere": "Fille de Béatrice de Bar, Mathilde reçoit une éducation alliant la maîtrise des langues comme le latin et le français au maniement des armes et à l’équitation. Très jeune, elle accompagne sa mère sur les champs de bataille, forgeant un caractère d'acier qui la poussera plus tard à répudier son mari pour se consacrer à ses terres et à sa cause.",
+
+    "la-querelle-des-investitures": "Alors que l'Empereur Henri IV veut nommer ses propres évêques pour s'assurer des vassaux fidèles, le pape Grégoire VII s'y oppose avec le 'Dictatus Papae'. Mathilde devient alors le rempart stratégique du Pape contre les ambitions impériales dans une lutte pour l'indépendance de l'Église.",
+
+    "l-humiliation-de-canossa": "En 1077, Mathilde joue un rôle de médiatrice lors de la 'Pénitence de Canossa'. Dans son propre château, elle accueille l'empereur Henri IV qui, isolé et excommunié, doit attendre trois jours pieds nus dans la neige pour obtenir le pardon du Pape.",
+
+    "chef-de-guerre-et-resistance": "Face au retour offensif d'Henri IV, Mathilde révèle son génie militaire. En infériorité numérique, elle refuse les batailles rangées, pratiquant l'embuscade et la terre brûlée depuis ses forteresses des Apennins. Elle n'hésite pas à faire fondre son propre trésor et ses bijoux pour financer l'armée papale et remporte une victoire décisive lors de l'attaque surprise nocturne de Sorbara en 1084.",
+
+    "heritage-et-fin-de-vie": "À la tête d'un territoire immense s'étendant de la Lombardie à la Toscane, Mathilde conserve une autorité telle que sa simple approche faisait trembler les rebelles, même à 68 ans. Elle meurt en 1115 et reçoit l'honneur exceptionnel, pour une laïque, d'être inhumée dans la basilique Saint-Pierre au Vatican."
+  }
 }
  
  
