@@ -1696,7 +1696,7 @@
   "id": "mathilde-de-toscane",
   "name": "Mathilde de Toscane",
 
-  "category": "figure-historique",
+  "category": "",
 
   "period": "11e-12e siècle",
   "country": "Italie",
@@ -1720,6 +1720,43 @@
     "chef-de-guerre-et-resistance": "Face au retour offensif d'Henri IV, Mathilde révèle son génie militaire. En infériorité numérique, elle refuse les batailles rangées, pratiquant l'embuscade et la terre brûlée depuis ses forteresses des Apennins. Elle n'hésite pas à faire fondre son propre trésor et ses bijoux pour financer l'armée papale et remporte une victoire décisive lors de l'attaque surprise nocturne de Sorbara en 1084.",
 
     "heritage-et-fin-de-vie": "À la tête d'un territoire immense s'étendant de la Lombardie à la Toscane, Mathilde conserve une autorité telle que sa simple approche faisait trembler les rebelles, même à 68 ans. Elle meurt en 1115 et reçoit l'honneur exceptionnel, pour une laïque, d'être inhumée dans la basilique Saint-Pierre au Vatican."
+  }
+},
+"olga-de-kiev": {
+  "id": "olga-de-kiev",
+  "name": "Olga de kiev",
+
+  "category": "sainte",
+
+  "period": "10e siècle",
+  "country": "Ukraine",
+  "type": "Reine",
+
+  "birthDate": "890",
+  "deathDate": "969",
+  "feastDay": "11/07",
+
+  "image": "/saints/olga.png",
+  "cover": "/saints/olgacover.webp",
+  "shortDescription": "Protectrice infatigable de la papauté et chef militaire redoutable face à l'Empire.",
+
+  "biography": {
+    "la-mort-d-igor": "En 903, le prince Igor serait tombé sous le charme de cette jeune Viking déguisée en passeur, impressionné par son esprit. Mais en 945, Igor est exécuté par les Drevlianes pour avoir tenté de collecter un double impôt.",
+
+    "la-vengeance": "Olga, restée seule avec son jeune fils, feint d’accepter une proposition de mariage du prince drevliane. Elle demande aux ambassadeurs de venir en barque pour être honorés, puis elle les aurait fait jeter dans une fosse et enterrer vivants. Ensuite, elle réclame les plus hauts dignitaires afin de préparer les noces. Une fois arrivés, elle les aurait invités à se purifier au sauna, aurait fait verrouiller les portes et aurait incendié le bâtiment. Elle se rend ensuite chez ses ennemis pour un banquet funéraire. Elle aurait fait boire les Drevlianes jusqu’à l’ivresse avant de lancer ses soldats : 5 000 morts. Enfin, elle assiège leur capitale, Iskorosten, et aurait exigé un tribut symbolique de pigeons et de moineaux. Une fois reçus, elle attache des mèches enflammées à leurs pattes. En retournant dans leurs nids, les oiseaux incendient la ville entière.",
+
+    "l-organisatrice": "Une fois sa puissance affirmée, Olga transforme la Rus' de Kiev en profondeur. Elle est la véritable créatrice de l'administration slave. Elle abolit le système de collecte arbitraire (qui a tué Igor) et crée les Pogosti, des centres administratifs fixes pour un impôt régulier. Elle parcourt son territoire pour fixer des frontières claires et établir des postes royaux.",
+
+    "sa-conversion": "En 957, Olga se rend à Constantinople. Reçue par l'empereur Constantin VII, elle se convertit au christianisme (nom de baptême : Hélène). Pour éconduire poliment l'empereur qui voulait l'épouser, elle lui demande d'être son parrain de baptême. Une fois l'acte fait, elle lui rappelle que le droit canonique interdit à un parrain d'épouser sa filleule.",
+
+    "fin-de-vie": "Bien qu'Olga ne parvienne pas à convertir son fils Sviatoslav (un guerrier viking dans l'âme), elle éduque son petit-fils, Vladimir. Elle meurt en 969 après avoir défendu Kiev contre les Petchénègues, laissant derrière elle les graines d'une révolution spirituelle."
+ 
+   , "vladimir-Ier": "En 987, Vladimir cherche une religion pour unifier son peuple, il écarte l'Islam (à cause de l'interdiction de l'alcool) et il rejette le Judaïsme et le Catholicisme mais ses ambassadeurs reviennent de Sainte-Sophie à Constantinople éblouis par la beauté des chants et des mosaïques. En 988, Vladimir scelle une alliance avec l'empereur Basile II et épouse la princesse Anna. Il se fait baptiser, il détruit les idoles païennes (la statue de Peroun est jetée dans le Dniepr) et ordonne à toute la population de Kiev de descendre dans le fleuve pour un baptême de masse.",
+
+    "son-heritage": "Cette conversion marque la fin des sacrifices, de la polygamie (Vladimir avait des centaines de concubines avant son baptême !), des divorces et donc de la liberté sexuelle, le début d'une morale plus restrictive sur la vie domestique. Olga est la première grande organisatrice de l’État rus’."
+ 
+ 
+ 
   }
 }
  
