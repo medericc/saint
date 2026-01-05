@@ -1758,6 +1758,40 @@
  
  
   }
+},
+"saint-marcellin": {
+  "id": "saint-marcellin",
+  "name": "Marcellin",
+
+  "category": "saint",
+
+  "period": "4e-5e siècle",
+  "country": "Tunisie",
+  "type": "Tribun",
+
+  "birthDate": "",
+  "deathDate": "413",
+  "feastDay": "06/04",
+
+  "image": "/saints/marcellin.png",
+  "cover": "/saints/marcellin.jpg",
+  "shortDescription": "Haut fonctionnaire romain qui accepta son martyre y voyant une purification spirituelle pour se présenter pur devant Dieu.",
+
+  "biography": {
+    "sa-description": "Marcelin est un haut noble romain, occupant les fonctions de tribun et notaire impérial sous l’empereur Honorius. Marié à Anapsychia, il est reconnu comme un époux et père de famille exemplaire, capable de concilier de lourdes responsabilités politiques avec une vie chrétienne profonde et exigeante. Très cultivé, il s’intéresse particulièrement aux questions théologiques et morales.",
+
+    "sa-rencontre": "En 410, l’empereur Honorius envoie Marcelin à Carthage pour tenter de résoudre le schisme donatiste, qui divise profondément l’Église d’Afrique. C’est dans ce contexte qu’il rencontre saint Augustin, évêque d’Hippone. Les deux hommes nouent une amitié intellectuelle et spirituelle intense. Ils passent de longues nuits à discuter de la grâce, du péché, de la justice de Dieu et du sens de l’histoire. Les questions de Marcelin nourrissent la réflexion d’Augusti, c’est dans ce climat, et à la suite du sac de Rome (410), qu’Augustin entreprend l’œuvre majeure de La Cité de Dieu, à laquelle Marcelin est directement lié comme interlocuteur et soutien.",
+
+    "la-conference": "En 411, Marcelin préside la Conférence de Carthage, grande assemblée réunissant les évêques catholiques et donatistes. Son rôle est celui d’un arbitre officiel, chargé de garantir l’équité des débats et d’en tirer une conclusion au nom de l’État impérial. Après plusieurs semaines de discussions, il tranche en faveur des catholiques, reconnaissant la légitimité de leur position. Cette décision provoque la fureur des donatistes, qui voient en Marcelin un ennemi personnel et politique.",
+
+    "son-arrestation": "En 413, lors de la révolte du général Héraclien contre l’empereur, les adversaires de Marcelin, notamment les donatistes, profitent du chaos politique pour l’accuser faussement de complicité avec les rebelles. Marcelin est arrêté avec son frère Apringius. Le général Marinus, chargé de la répression, ignore les preuves d’innocence, probablement sous l’influence de leurs ennemis. Saint Augustin, profondément bouleversé, se rend à Carthage pour défendre son ami. Il obtient même des promesses de libération, qui ne seront pas tenues. Durant sa détention, Marcelin est conscient de son innocence politique, il interprète son épreuve comme une occasion de pénitence et de purification spirituelle. Il n’affirme pas que l’injustice soit bonne en elle-même, mais accepte la souffrance comme un moyen de se présenter pur devant Dieu, convaincu que Dieu utilisait cette épreuve pour achever sa sanctification.",
+
+    "son-martyr": "Le 13 septembre 413, sans attendre l’ordre impérial qui aurait pu les sauver, Marinus fait exécuter secrètement Marcelin et son frère, décapités hors de la ville de Carthage. Un an plus tard, l’empereur reconnaît officiellement l’innocence de Marcelin, réhabilite sa mémoire et le cite comme un modèle de vertu et de fidélité chrétienne."
+ 
+  
+ 
+ 
+  }
 }
  
  
