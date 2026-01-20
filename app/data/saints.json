@@ -1792,8 +1792,48 @@
  
  
   }
+
+
+  
 }
+ ,
+"bienheureuse-marguerite": {
+  "id": "bienheureuse-marguerite",
+  "name": "Marguerite Rutan",
+
+  "category": "bienheureuse",
+
+  "period": "18e siècle",
+  "country": "France",
+  "type": "Directrice d'Hôpital",
+
+  "birthDate": "1736",
+  "deathDate": "1794",
+  "feastDay": "09/04",
+
+  "image": "/saints/rutan.png",
+  "cover": "/saints/rutan.jpg",
+  "shortDescription": "Supérieure hospitalière, elle fut condamnée par la République pour sa foi et monta à l'échafaud en chantant le Magnificat",
+
+  "biography": {
+    "sa-description": "Née dans une famille modeste de quinze enfants. En 1757, elle entre chez les Filles de la Charité pour consacrer sa vie à Dieu et aux pauvres. Elle occupe des fonctions de haute responsabilité hospitalière, dirigeant d'abord l'hôpital de Pau et sa manufacture d'enfants trouvés, avant de devenir, en 1793, la première supérieure de l'hôpital de Dax.",
+
+    "sa-rencontre": "Malgré la suppression des ordres religieux par la République, Marguerite reste à son poste à Dax. Le 3 octobre 1793, elle refuse, avec ses consœurs, de prêter le serment de fidélité à la Constitution, qu'elle juge contraire à sa foi. C’est dans ce climat de tension qu’elle est confrontée aux autorités locales ainsi qu'aux militaires soignés à l'hôpital.",
+
+    "l-accusation": "À la fin de l'année 1793, elle est accusée d'incivisme et de « corruption de l'esprit révolutionnaire » des soldats blessés dont elle a la charge. On lui reproche d'utiliser son influence pour détourner les militaires des idéaux républicains et sont retenus contre elle des « papiers compromettants » (textes de prières et des lettres de soldats défunts qu'elle conservait précieusement pour les remettre à leurs familles), qui font d'elle une traîtresse.",
+
+    "son-arrestation": "Le 24 décembre 1793, elle est arrêtée et enfermée dans la prison des femmes du couvent des Carmes de Dax. Durant ses six mois de détention aux côtés de 300 codétenues, elle transforme sa captivité en mission : elle soigne les malades et soutient moralement ses compagnes de cellule.",
+
+    "son-martyr": "Le 8 avril 1794, une commission extraordinaire la condamne à mort immédiate. Alors qu'elle tente de se défendre, ses paroles sont étouffées par des roulements de tambours. Le lendemain, liée dos à dos au curé de Gaube, elle marche vers l'échafaud rue Cazade en chantant le Magnificat. Sur l'échafaud, elle repousse le bourreau par pudeur, celui-ci, furieux, insulte son corps après la décapitation."
  
+  
+ 
+ 
+  }
+
+
+  
+}
  
   
 }
